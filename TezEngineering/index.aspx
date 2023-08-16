@@ -9,9 +9,9 @@
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-6 text-center">
-            <h2 data-aos="fade-down">Welcome to <span>UpConstruction</span></h2>
-            <p data-aos="fade-up">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-            <a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Get Started</a>
+            <h2 data-aos="fade-down">Tez Harita <span>Mimari</span></h2>
+            <p data-aos="fade-up">Profesyonellik ve sempati ile isteklerinizi yerine getirme tercihini takdir ediyoruz. Sizin gibi bir müşteriye bizim için sahip olmak bir zevktir.</p>
+        <%--    <a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Get Started</a>--%>
           </div>
         </div>
       </div>
@@ -19,28 +19,25 @@
 
     <div id="hero-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
 
-      <div class="carousel-item active" style="background-image: url(assets/img/hero-carousel/hero-carousel-1.jpg)"></div>
-      <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/hero-carousel-2.jpg)"></div>
-      <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/hero-carousel-3.jpg)"></div>
-      <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/hero-carousel-4.jpg)"></div>
-      <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/hero-carousel-5.jpg)"></div>
-
+      <div class="carousel-item active" style="background-image: url(Assets/img/HomePageImg/CBS.png)">
+      </div>
+      <div class="carousel-item" style="background-image: url(Assets/img/HomePageImg/olcum.png)"></div>
+      <div class="carousel-item" style="background-image: url(Assets/img/HomePageImg/İHA.png)"></div>
+      <div class="carousel-item" style="background-image: url(Assets/img/HomePageImg/3B%20MİMARİ.png)"></div>
+      <div class="carousel-item" style="background-image: url(Assets/img/HomePageImg/inşaat%20ölçüm.png)"></div>
       <a class="carousel-control-prev" href="#hero-carousel" role="button" data-bs-slide="prev">
         <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
       </a>
-
       <a class="carousel-control-next" href="#hero-carousel" role="button" data-bs-slide="next">
         <span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
       </a>
-
     </div>
-
   </section><!-- End Hero Section -->
 
   <main id="main">
 
     <!-- ======= Get Started Section ======= -->
-    <section id="get-started" class="get-started section-bg">
+   <%-- <section id="get-started" class="get-started section-bg">
       <div class="container">
 
         <div class="row justify-content-between gy-4">
@@ -90,10 +87,10 @@
         </div>
 
       </div>
-    </section><!-- End Get Started Section -->
+    </section>--%><!-- End Get Started Section -->
 
     <!-- ======= Constructions Section ======= -->
-    <section id="constructions" class="constructions">
+    <%--<section id="constructions" class="constructions">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
@@ -170,14 +167,14 @@
         </div>
 
       </div>
-    </section><!-- End Constructions Section -->
+    </section>--%><!-- End Constructions Section -->
 
     <!-- ======= Services Section ======= -->
     <section id="services" class="services section-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <h2>Services</h2>
+          <h2>Hizmetler</h2>
           <p>Voluptatem quibusdam ut ullam perferendis repellat non ut consequuntur est eveniet deleniti fignissimos eos quam</p>
         </div>
 
@@ -188,7 +185,7 @@
               <div class="icon">
                 <i class="fa-solid fa-mountain-city"></i>
               </div>
-              <h3>Nesciunt Mete</h3>
+              <h3>İnşaat Hizmetleri</h3>
               <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis tempore et consequatur.</p>
               <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
             </div>
@@ -197,9 +194,9 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div class="service-item position-relative">
               <div class="icon">
-                <i class="fa-solid fa-arrow-up-from-ground-water"></i>
+                <i class="fa-solid fa-kaaba"></i>
               </div>
-              <h3>Eosle Commodi</h3>
+              <h3>Alt Yapı Hizmetleri</h3>
               <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p>
               <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
             </div>
@@ -210,7 +207,7 @@
               <div class="icon">
                 <i class="fa-solid fa-compass-drafting"></i>
               </div>
-              <h3>Ledo Markt</h3>
+              <h3>Kadastro Projeleri</h3>
               <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p>
               <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
             </div>
@@ -219,9 +216,9 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
             <div class="service-item position-relative">
               <div class="icon">
-                <i class="fa-solid fa-trowel-bricks"></i>
+                <i class="fa-solid fa-map-location-dot"></i>
               </div>
-              <h3>Asperiores Commodit</h3>
+              <h3>Harita Yapımı(İHA)</h3>
               <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p>
               <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
             </div>
@@ -230,9 +227,9 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
             <div class="service-item position-relative">
               <div class="icon">
-                <i class="fa-solid fa-helmet-safety"></i>
+                <i class="fa-solid fa-landmark"></i>
               </div>
-              <h3>Velit Doloremque</h3>
+              <h3>Kurumsal Mimari</h3>
               <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at autem alias eius labore.</p>
               <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
             </div>
@@ -241,9 +238,9 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
             <div class="service-item position-relative">
               <div class="icon">
-                <i class="fa-solid fa-arrow-up-from-ground-water"></i>
+                <i class="fa-solid fa-cubes"></i>
               </div>
-              <h3>Dolori Architecto</h3>
+              <h3>3D Mimari</h3>
               <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti recusandae ducimus enim.</p>
               <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
             </div>
@@ -311,24 +308,24 @@
 
           <li class="nav-item col-3">
             <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#tab-1">
-              <h4>Modisit</h4>
+              <h4>Planlama</h4>
             </a>
           </li><!-- End tab nav item -->
 
           <li class="nav-item col-3">
             <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-2">
-              <h4>Praesenti</h4>
+              <h4>Proje Takibi </h4>
             </a><!-- End tab nav item -->
 
           <li class="nav-item col-3">
             <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-3">
-              <h4>Explica</h4>
+              <h4>xxxx xxxx</h4>
             </a>
           </li><!-- End tab nav item -->
 
           <li class="nav-item col-3">
             <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-4">
-              <h4>Nostrum</h4>
+              <h4>xxxxxx</h4>
             </a>
           </li><!-- End tab nav item -->
 

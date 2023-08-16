@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="about.aspx" />
     <Content Include="Assets\css\main.css" />
+    <Content Include="Assets\img\2.png" />
     <Content Include="Assets\img\about.jpg" />
     <Content Include="Assets\img\alt-services-2.jpg" />
     <Content Include="Assets\img\alt-services.jpg" />
@@ -108,6 +109,11 @@
     <Content Include="Assets\img\hero-carousel\hero-carousel-3.jpg" />
     <Content Include="Assets\img\hero-carousel\hero-carousel-4.jpg" />
     <Content Include="Assets\img\hero-carousel\hero-carousel-5.jpg" />
+    <Content Include="Assets\img\HomePageImg\3B MİMARİ.png" />
+    <Content Include="Assets\img\HomePageImg\inşaat ölçüm.png" />
+    <Content Include="Assets\img\HomePageImg\olcum.png" />
+    <Content Include="Assets\img\HomePageImg\CBS.png" />
+    <Content Include="Assets\img\HomePageImg\İHA.png" />
     <Content Include="Assets\img\projects\construction-1.jpg" />
     <Content Include="Assets\img\projects\construction-2.jpg" />
     <Content Include="Assets\img\projects\construction-3.jpg" />
@@ -120,6 +126,7 @@
     <Content Include="Assets\img\projects\repairs-1.jpg" />
     <Content Include="Assets\img\projects\repairs-2.jpg" />
     <Content Include="Assets\img\projects\repairs-3.jpg" />
+    <Content Include="Assets\img\PROYE TAKİP.png" />
     <Content Include="Assets\img\services.jpg" />
     <Content Include="Assets\img\team\team-1.jpg" />
     <Content Include="Assets\img\team\team-2.jpg" />

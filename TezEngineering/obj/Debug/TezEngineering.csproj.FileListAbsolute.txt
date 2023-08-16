@@ -57,3 +57,13 @@ C:\Users\HsnHs\source\repos\TezEngineering\TezEngineering\obj\Debug\TezEngineeri
 C:\Users\HsnHs\source\repos\TezEngineering\TezEngineering\obj\Debug\TezEngineering.csproj.CopyComplete
 C:\Users\HsnHs\source\repos\TezEngineering\TezEngineering\obj\Debug\TezEngineering.dll
 C:\Users\HsnHs\source\repos\TezEngineering\TezEngineering\obj\Debug\TezEngineering.pdb
+C:\Users\rampa\OneDrive\Belgeler\GitHub\TezEngineering\TezEngineering\bin\TezEngineering.dll.config
+C:\Users\rampa\OneDrive\Belgeler\GitHub\TezEngineering\TezEngineering\bin\TezEngineering.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\TezEngineering\TezEngineering\bin\TezEngineering.pdb
+C:\Users\rampa\OneDrive\Belgeler\GitHub\TezEngineering\TezEngineering\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\TezEngineering\TezEngineering\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rampa\OneDrive\Belgeler\GitHub\TezEngineering\TezEngineering\obj\Debug\TezEngineering.csproj.AssemblyReference.cache
+C:\Users\rampa\OneDrive\Belgeler\GitHub\TezEngineering\TezEngineering\obj\Debug\TezEngineering.csproj.CoreCompileInputs.cache
+C:\Users\rampa\OneDrive\Belgeler\GitHub\TezEngineering\TezEngineering\obj\Debug\TezEngineering.csproj.CopyComplete
+C:\Users\rampa\OneDrive\Belgeler\GitHub\TezEngineering\TezEngineering\obj\Debug\TezEngineering.dll
+C:\Users\rampa\OneDrive\Belgeler\GitHub\TezEngineering\TezEngineering\obj\Debug\TezEngineering.pdb

@@ -8,10 +8,10 @@
     <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/breadcrumbs-bg.jpg');">
       <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
 
-        <h2>About</h2>
+        <h2>Hakkımızda</h2>
         <ol>
-          <li><a href="index.html">Home</a></li>
-          <li>About</li>
+          <li><a href="index.aspx">Anasayfa</a></li>
+          <li>Hakkımızda</li>
         </ol>
 
       </div>
@@ -20,11 +20,8 @@
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
       <div class="container" data-aos="fade-up">
-
         <div class="row position-relative">
-
           <div class="col-lg-7 about-img" style="background-image: url(assets/img/about.jpg);"></div>
-
           <div class="col-lg-7">
             <h2>Consequatur eius et magnam</h2>
             <div class="our-story">
@@ -44,9 +41,7 @@
               </div>
             </div>
           </div>
-
         </div>
-
       </div>
     </section>
     <!-- End About Section -->
@@ -54,9 +49,7 @@
     <!-- ======= Stats Counter Section ======= -->
     <section id="stats-counter" class="stats-counter section-bg">
       <div class="container">
-
         <div class="row gy-4">
-
           <div class="col-lg-3 col-md-6">
             <div class="stats-item d-flex align-items-center w-100 h-100">
               <i class="bi bi-emoji-smile color-blue flex-shrink-0"></i>
@@ -66,7 +59,6 @@
               </div>
             </div>
           </div><!-- End Stats Item -->
-
           <div class="col-lg-3 col-md-6">
             <div class="stats-item d-flex align-items-center w-100 h-100">
               <i class="bi bi-journal-richtext color-orange flex-shrink-0"></i>
