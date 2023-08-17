@@ -5,26 +5,75 @@
    <!-- ======= Hero Section ======= -->
   <section id="hero" class="hero">
 
-    <div class="info d-flex align-items-center">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-lg-6 text-center">
-            <h2 data-aos="fade-down">Tez Harita <span>Mimari</span></h2>
-            <p data-aos="fade-up">Profesyonellik ve sempati ile isteklerinizi yerine getirme tercihini takdir ediyoruz. Sizin gibi bir müşteriye bizim için sahip olmak bir zevktir.</p>
-        <%--    <a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Get Started</a>--%>
-          </div>
-        </div>
-      </div>
-    </div>
+   
 
     <div id="hero-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
 
       <div class="carousel-item active" style="background-image: url(Assets/img/HomePageImg/CBS.png)">
+           <div class="info d-flex align-items-center">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-6 text-center">
+            <h2 data-aos="fade-down">Tez Harita <span>Mühendislik</span></h2>
+            <p data-aos="fade-up">Profesyonellik ve sempati ile isteklerinizi yerine getirme tercihini takdir ediyoruz. Sizin gibi bir müşteriye bizim için sahip olmak bir zevktir.</p>
+        <%--<a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Get Started</a>--%>
+          </div>
+        </div>
       </div>
-      <div class="carousel-item" style="background-image: url(Assets/img/HomePageImg/olcum.png)"></div>
-      <div class="carousel-item" style="background-image: url(Assets/img/HomePageImg/İHA.png)"></div>
-      <div class="carousel-item" style="background-image: url(Assets/img/HomePageImg/3B%20MİMARİ.png)"></div>
-      <div class="carousel-item" style="background-image: url(Assets/img/HomePageImg/inşaat%20ölçüm.png)"></div>
+    </div>
+      </div>
+      <div class="carousel-item" style="background-image: url(Assets/img/HomePageImg/olcum.png)">
+           <div class="info d-flex align-items-center">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-6 text-center">
+            <h2 data-aos="fade-down">adadsads <span>asdasd</span></h2>
+            <p data-aos="fade-up">Profesyonellik ve sempati ile isteklerinizi yerine getirme tercihini takdir ediyoruz. Sizin gibi bir müşteriye bizim için sahip olmak bir zevktir.</p>
+        <%--<a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Get Started</a>--%>
+          </div>
+        </div>
+      </div>
+    </div>
+      </div>
+      <div class="carousel-item" style="background-image: url(Assets/img/HomePageImg/İHA.png)">
+           <div class="info d-flex align-items-center">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-6 text-center">
+            <h2 data-aos="fade-down">adadsads <span>asdasd</span></h2>
+            <p data-aos="fade-up">Profesyonellik ve sempati ile isteklerinizi yerine getirme tercihini takdir ediyoruz. Sizin gibi bir müşteriye bizim için sahip olmak bir zevktir.</p>
+        <%--<a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Get Started</a>--%>
+          </div>
+        </div>
+      </div>
+    </div>
+      </div>
+      <div class="carousel-item" style="background-image: url(Assets/img/HomePageImg/3B%20MİMARİ.png)">
+           <div class="info d-flex align-items-center">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-6 text-center">
+            <h2 data-aos="fade-down">adadsads <span>asdasd</span></h2>
+            <p data-aos="fade-up">Profesyonellik ve sempati ile isteklerinizi yerine getirme tercihini takdir ediyoruz. Sizin gibi bir müşteriye bizim için sahip olmak bir zevktir.</p>
+        <%--<a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Get Started</a>--%>
+          </div>
+        </div>
+      </div>
+    </div>
+      </div>
+      <div class="carousel-item" style="background-image: url(Assets/img/HomePageImg/inşaat%20ölçüm.png)">
+           <div class="info d-flex align-items-center">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-6 text-center">
+            <h2 data-aos="fade-down">5asdasd <span>5asdasd</span></h2>
+            <p data-aos="fade-up">Profesyonellik ve sempati ile isteklerinizi yerine getirme tercihini takdir ediyoruz. Sizin gibi bir müşteriye bizim için sahip olmak bir zevktir.</p>
+        <%--<a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Get Started</a>--%>
+          </div>
+        </div>
+      </div>
+    </div>
+      </div>
       <a class="carousel-control-prev" href="#hero-carousel" role="button" data-bs-slide="prev">
         <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
       </a>
@@ -706,7 +755,7 @@
 
     
     
-  <div class=" section-header">
+  <div class="section-header">
         <h2>Recent Blog Posts</h2>
         <p>In commodi voluptatem excepturi quaerat nihil error autem voluptate ut et officia consequuntu</p>
       </div>
@@ -804,7 +853,8 @@
             </div>
 
           </div>
-        </div><!-- End post item -->
+        </div>
+          <!-- End post item -->
 
       </div>
 
@@ -812,5 +862,6 @@
     </section>
     <!-- End Recent Blog Posts Section -->
 
-  </main><!-- End #main -->
+  </main>
+    <!-- End #main -->
 </asp:Content>
