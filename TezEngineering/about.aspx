@@ -11,7 +11,7 @@
         <h2>Hakkımızda</h2>
         <ol>
           <li><a href="index.aspx">Anasayfa</a></li>
-          <li>Hakkımızda</li>
+          <li>Kurumsal</li>
         </ol>
 
       </div>
@@ -23,10 +23,10 @@
         <div class="row position-relative">
           <div class="col-lg-7 about-img" style="background-image: url(assets/img/about.jpg);"></div>
           <div class="col-lg-7">
-            <h2>Consequatur eius et magnam</h2>
+            <h2>Hakkımızda</h2>
             <div class="our-story">
               <h4>Est 1988</h4>
-              <h3>Our Story</h3>
+              <h3>Bizim Hikayemiz</h3>
               <p>Inventore aliquam beatae at et id alias. Ipsa dolores amet consequuntur minima quia maxime autem. Quidem id sed ratione. Tenetur provident autem in reiciendis rerum at dolor. Aliquam consectetur laudantium temporibus dicta minus dolor.</p>
               <ul>
                 <li><i class="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea commo</span></li>
@@ -179,7 +179,7 @@
             <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="400">
               <i class="bi bi-brightness-high flex-shrink-0"></i>
               <div>
-                <h4><a href="" class="stretched-link">Tride clov</a></h4>
+                <h4><a href="#" class="stretched-link">Tride clov</a></h4>
                 <p>Est voluptatem labore deleniti quis a delectus et. Saepe dolorem libero sit non aspernatur odit amet. Et eligendi</p>
               </div>
             </div><!-- End Icon Box -->
@@ -192,7 +192,7 @@
     </section><!-- End Alt Services Section 2 -->
 
     <!-- ======= Our Team Section ======= -->
-    <section id="team" class="team">
+   <%-- <section id="team" class="team">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
@@ -307,7 +307,7 @@
         </div>
 
       </div>
-    </section><!-- End Our Team Section -->
+    </section>--%><!-- End Our Team Section -->
 
 
   </main><!-- End #main -->
