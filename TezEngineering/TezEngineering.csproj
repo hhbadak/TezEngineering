@@ -109,7 +109,10 @@
     <Content Include="Assets\img\hero-carousel\hero-carousel-3.jpg" />
     <Content Include="Assets\img\hero-carousel\hero-carousel-4.jpg" />
     <Content Include="Assets\img\hero-carousel\hero-carousel-5.jpg" />
+    <Content Include="Assets\img\HomePageImg\1.png" />
+    <Content Include="Assets\img\HomePageImg\3.png" />
     <Content Include="Assets\img\HomePageImg\3B MİMARİ.png" />
+    <Content Include="Assets\img\HomePageImg\Adsiztasarim.png" />
     <Content Include="Assets\img\HomePageImg\inşaat ölçüm.png" />
     <Content Include="Assets\img\HomePageImg\olcum.png" />
     <Content Include="Assets\img\HomePageImg\CBS.png" />
@@ -320,6 +323,9 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Assets\Video\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
