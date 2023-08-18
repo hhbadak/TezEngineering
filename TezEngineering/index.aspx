@@ -9,7 +9,7 @@
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-6 text-center">
-            <h2 data-aos="fade-down">Tez Harita <span>Mimari</span></h2>
+            <h2 data-aos="fade-down">Tez Harita <span>Mühendislik</span></h2>
             <p data-aos="fade-up">Profesyonellik ve sempati ile isteklerinizi yerine getirme tercihini takdir ediyoruz. Sizin gibi bir müşteriye bizim için sahip olmak bir zevktir.</p>
         <%--    <a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Get Started</a>--%>
           </div>

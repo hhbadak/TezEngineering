@@ -45,7 +45,7 @@
                     <nav id="navbar" class="navbar">
                         <ul>
                             <li><a href="index.aspx" class="active">Anasayfa</a></li>
-                            <li><a href="about.aspx">Kurumlar</a></li>
+                            <li><a href="about.aspx">Kurumsal</a></li>
                             <li><a href="services.aspx">Hizmetlerimiz</a></li>
                             <li><a href="projects.aspx">İha ile Haritalama</a></li>
                             <li><a href="blog.aspx">Mimari</a></li>
