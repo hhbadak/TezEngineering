@@ -20,7 +20,7 @@
 /* Colors */
 :root {
     --color-default: #364d59;
-    --color-primary: #feb900;
+    --color-primary: rgba(17,82,153);
     --color-secondary: #52565e;
 }
 
@@ -39,7 +39,7 @@ body {
 }
 
 a {
-    color: var(--color-primary);
+    color: lightcyan;
     text-decoration: none;
 }
 
@@ -174,7 +174,7 @@ section {
     right: 15px;
     bottom: 15px;
     z-index: 99999;
-    background: var(--color-primary);
+    background: rgba(17, 82, 153);
     width: 40px;
     height: 40px;
     border-radius: 4px;
@@ -183,12 +183,12 @@ section {
 
     .scroll-top i {
         font-size: 24px;
-        color: var(--color-secondary);
+        color: lightcyan;
         line-height: 0;
     }
 
     .scroll-top:hover {
-        background: #ffc732;
+        background: #032952;
         color: #fff;
     }
 
@@ -2670,6 +2670,7 @@ section {
     font-size: 20pt;
     color: rgba(17,82,153);
 }
+
 .service-item .bg-img {
     position: absolute;
     width: 100%;
@@ -2685,14 +2686,15 @@ section {
 
 .service-item:hover .service-text {
     background: rgba(0, 0, 0, .7);
-    opacity:1;
+    opacity: 1;
 }
+
     .service-item:hover .service-text p {
-        opacity:1!important;
+        opacity: 1 !important;
     }
 
 .service-item * {
-    transition: .5;
+    transition: .5s;
 }
 
 .service-item:hover * {
@@ -2714,17 +2716,51 @@ section {
 .service-item:hover .btn {
     width: 140px;
 }
+
 .service-item .service-text i {
     font-size: 30pt;
     color: rgba(17,82,153);
 }
-.service-item:hover .service-text i{
-    color:white;
+
+.service-item:hover .service-text i {
+    color: #007aff;
 }
+
 .service-item .service-text h3 {
     color: rgba(17,82,153);
 }
+
 .service-item:hover .service-text h3 {
-    color: white;
+    color: #007aff;
+}
+/*** Reference ***/
+.project .nav .nav-link {
+    background: var(--light);
+    transition: .5s;
 }
 
+    .project .nav .nav-link.active {
+        background: rgba(17, 82, 153);
+    }
+
+        .project .nav .nav-link.active h3 {
+            color: #FFFFFF !important;
+        }
+
+.carousel-container {
+    overflow: hidden;
+    width: 100%;
+}
+
+.carousel {
+    display: flex; /* Kartlarý yatay hizala */
+    transition: transform 0.3s ease-in-out;
+}
+
+.card {
+    flex: 0 0 300px; /* Kart geniþliði ve esnekliði */
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+}

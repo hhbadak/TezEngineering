@@ -1,89 +1,91 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Layout.Master" AutoEventWireup="true" CodeBehind="index.aspx.cs" Inherits="TezEngineering.index" %>
+
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-   <!-- ======= Hero Section ======= -->
-  <section id="hero" class="hero">
-    <div id="hero-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
+    <!-- ======= Hero Section ======= -->
+    <section id="hero" class="hero">
+        <div id="hero-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
 
-      <div class="carousel-item active" style="background-image: url(Assets/img/HomePageImg/Adsiztasarim.png)">
-           <div class="info d-flex align-items-center">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-lg-6 text-center">
-            <h2 data-aos="fade-down">HaliHazır Harita <span>Yapımı</span></h2>
-            <p data-aos="fade-up">Profesyonellik ve sempati ile isteklerinizi yerine getirme tercihini takdir ediyoruz. Sizin gibi bir müşteriye bizim için sahip olmak bir zevktir.</p>
-        <%--<a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Get Started</a>--%>
-          </div>
+            <div class="carousel-item active" style="background-image: url(Assets/img/HomePageImg/Adsiztasarim.png)">
+                <div class="info d-flex align-items-center">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-6 text-center">
+                                <h2 data-aos="fade-down">HaliHazır Harita <span>Yapımı</span></h2>
+                                <p data-aos="fade-up">Profesyonellik ve sempati ile isteklerinizi yerine getirme tercihini takdir ediyoruz. Sizin gibi bir müşteriye bizim için sahip olmak bir zevktir.</p>
+                                <%--<a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Get Started</a>--%>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item" style="background-image: url(Assets/img/HomePageImg/olcum.png)">
+                <div class="info d-flex align-items-center">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-6 text-center">
+                                <h2 data-aos="fade-down">İnşaat Hizmetleri<span> </span></h2>
+                                <p data-aos="fade-up">Profesyonellik ve sempati ile isteklerinizi yerine getirme tercihini takdir ediyoruz. Sizin gibi bir müşteriye bizim için sahip olmak bir zevktir.</p>
+                                <%--<a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Get Started</a>--%>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item" style="background-image: url(Assets/img/HomePageImg/İHA.png)">
+                <div class="info d-flex align-items-center">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-6 text-center">
+                                <h2 data-aos="fade-down">İHA İle Haritalama <span></span></h2>
+                                <p data-aos="fade-up">Profesyonellik ve sempati ile isteklerinizi yerine getirme tercihini takdir ediyoruz. Sizin gibi bir müşteriye bizim için sahip olmak bir zevktir.</p>
+                                <%--<a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Get Started</a>--%>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item" style="background-image: url(Assets/img/HomePageImg/3B%20MİMARİ.png)">
+                <div class="info d-flex align-items-center">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-6 text-center">
+                                <h2 data-aos="fade-down">3B Mimari <span></span></h2>
+                                <p data-aos="fade-up">Profesyonellik ve sempati ile isteklerinizi yerine getirme tercihini takdir ediyoruz. Sizin gibi bir müşteriye bizim için sahip olmak bir zevktir.</p>
+                                <%--<a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Get Started</a>--%>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item" style="background-image: url(Assets/img/HomePageImg/inşaat%20ölçüm.png)">
+                <div class="info d-flex align-items-center">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-6 text-center">
+                                <h2 data-aos="fade-down">5asdasd <span>5asdasd</span></h2>
+                                <p data-aos="fade-up">Profesyonellik ve sempati ile isteklerinizi yerine getirme tercihini takdir ediyoruz. Sizin gibi bir müşteriye bizim için sahip olmak bir zevktir.</p>
+                                <%--<a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Get Started</a>--%>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a class="carousel-control-prev" href="#hero-carousel" role="button" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
+            </a>
+            <a class="carousel-control-next" href="#hero-carousel" role="button" data-bs-slide="next">
+                <span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
+            </a>
         </div>
-      </div>
-    </div>
-      </div>
-      <div class="carousel-item" style="background-image: url(Assets/img/HomePageImg/olcum.png)">
-           <div class="info d-flex align-items-center">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-lg-6 text-center">
-            <h2 data-aos="fade-down">İnşaat Hizmetleri<span> </span></h2>
-            <p data-aos="fade-up">Profesyonellik ve sempati ile isteklerinizi yerine getirme tercihini takdir ediyoruz. Sizin gibi bir müşteriye bizim için sahip olmak bir zevktir.</p>
-        <%--<a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Get Started</a>--%>
-          </div>
-        </div>
-      </div>
-    </div>
-      </div>
-      <div class="carousel-item" style="background-image: url(Assets/img/HomePageImg/İHA.png)">
-           <div class="info d-flex align-items-center">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-lg-6 text-center">
-            <h2 data-aos="fade-down">İHA İle Haritalama <span> </span></h2>
-            <p data-aos="fade-up">Profesyonellik ve sempati ile isteklerinizi yerine getirme tercihini takdir ediyoruz. Sizin gibi bir müşteriye bizim için sahip olmak bir zevktir.</p>
-        <%--<a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Get Started</a>--%>
-          </div>
-        </div>
-      </div>
-    </div>
-      </div>
-      <div class="carousel-item" style="background-image: url(Assets/img/HomePageImg/3B%20MİMARİ.png)">
-           <div class="info d-flex align-items-center">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-lg-6 text-center">
-            <h2 data-aos="fade-down">3B Mimari <span></span></h2>
-            <p data-aos="fade-up">Profesyonellik ve sempati ile isteklerinizi yerine getirme tercihini takdir ediyoruz. Sizin gibi bir müşteriye bizim için sahip olmak bir zevktir.</p>
-        <%--<a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Get Started</a>--%>
-          </div>
-        </div>
-      </div>
-    </div>
-      </div>
-      <div class="carousel-item" style="background-image: url(Assets/img/HomePageImg/inşaat%20ölçüm.png)">
-           <div class="info d-flex align-items-center">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-lg-6 text-center">
-            <h2 data-aos="fade-down">5asdasd <span>5asdasd</span></h2>
-            <p data-aos="fade-up">Profesyonellik ve sempati ile isteklerinizi yerine getirme tercihini takdir ediyoruz. Sizin gibi bir müşteriye bizim için sahip olmak bir zevktir.</p>
-        <%--<a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Get Started</a>--%>
-          </div>
-        </div>
-      </div>
-    </div>
-      </div>
-      <a class="carousel-control-prev" href="#hero-carousel" role="button" data-bs-slide="prev">
-        <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
-      </a>
-      <a class="carousel-control-next" href="#hero-carousel" role="button" data-bs-slide="next">
-        <span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
-      </a>
-    </div>
-  </section><!-- End Hero Section -->
+    </section>
+    <!-- End Hero Section -->
 
-  <main id="main">
+    <main id="main">
 
-    <!-- ======= Get Started Section ======= -->
-   <%-- <section id="get-started" class="get-started section-bg">
+        <!-- ======= Get Started Section ======= -->
+        <%-- <section id="get-started" class="get-started section-bg">
       <div class="container">
 
         <div class="row justify-content-between gy-4">
@@ -135,8 +137,8 @@
       </div>
     </section>--%><!-- End Get Started Section -->
 
-    <!-- ======= Constructions Section ======= -->
-    <%--<section id="constructions" class="constructions">
+        <!-- ======= Constructions Section ======= -->
+        <%--<section id="constructions" class="constructions">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
@@ -215,7 +217,7 @@
       </div>
     </section>--%><!-- End Constructions Section -->
 
-   <!-- ======= Services Section ======= -->
+        <!-- ======= Services Section ======= -->
         <div class="container-xxl py-5">
             <div class="container">
 
@@ -224,19 +226,25 @@
                         <div class="service-item d-flex position-relative text-center h-100">
                             <img class="bg-img" src="Assets/img/alt-services-2.jpg" alt="">
                             <div class="service-text p-5">
-                                <i class="fa-solid fa-mountain-city"></i>
-                                <h3 class="mb-3">İnşaat Hizmetleri</h3>
-                                <p class="mb-4 opacity-0">loremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem lorem</p>
+                                <div class="bg-dark-subtle opacity-75 rounded-top-pill">
+                                    <i class="fa-solid fa-mountain-city"></i>
+                                    <h3 class="mb-3">İnşaat Hizmetleri</h3>
+                                </div>
+                                <p class="mb-4 opacity-0">
+                                    İnşaat hizmetlerimizle hayallerinizin gerçeğe dönüşmesini sağlıyoruz. Tasarım, inşa ve bakım aşamalarında profesyonel ekibimizle kaliteli ve güvenilir yapılar oluşturuyoruz. Projenizin her adımında yanınızda olmaktan mutluluk duyarız.
+                                </p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="service-item d-flex position-relative text-center h-100">
-                            <img class="bg-img" src="Assets/img/Services/ALTYAPI.jpg" alt="">
+                            <img class="bg-img" src="Assets/img/HomePageImg/ALTYAPII.png" alt="">
                             <div class="service-text p-5">
-                                <i class="fa-solid fa-kaaba"></i>
-                                <h3 class="mb-3">Alt Yapı Hizmetleri</h3>
-                                <p class="mb-4 opacity-0">loremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem lorem </p>
+                                <div class="bg-dark-subtle opacity-75 rounded-top-pill">
+                                    <i class="fa-solid fa-kaaba"></i>
+                                    <h3 class="mb-3">Altyapı Ölçümleri</h3>
+                                </div>
+                                <p class="mb-4 opacity-0">Altyapı ölçümleriyle projelerinizde kesinlik ve doğruluk sağlıyoruz. Uzman ekip ve ileri teknoloji kullanarak, yol, köprü, bina ve altyapı projeleriniz için hassas ve detaylı ölçüm hizmetleri sunuyoruz. Başarılı projelerinizin temelini atmak için bizimle çalışın.</p>
                             </div>
                         </div>
                     </div>
@@ -244,32 +252,35 @@
                         <div class="service-item d-flex position-relative text-center h-100">
                             <img class="bg-img" src="Assets/img/Services/KADASTRO.png" alt="">
                             <div class="service-text p-5">
-                                <i class="fa-solid fa-compass-drafting"></i>
-                                <h3 class="mb-3">Kadastro Projeleri</h3>
-                                <p class="mb-4 opacity-0">loremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem lorem</p>
+                                <div class="bg-dark-subtle opacity-75 rounded-top-pill">
+                                    <i class="fa-solid fa-compass-drafting"></i>
+                                    <h3 class="mb-3">Kadastro Projeleri</h3>
+                                </div>
+                                <p class="mb-4 opacity-0">Kadastro projeleriyle mülkiyetinizi güvence altına alıyoruz. Uzman kadromuz ve detaylı analizlerimizle, arazi ve gayrimenkul projeleriniz için kapsamlı kadastro hizmetleri sunuyoruz. Doğru sınırlar, net belgeler ve yasal uyumluluk için bize güvenin.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="service-item d-flex position-relative text-center h-100">
-                            <img class="bg-img" src="Assets/img/Services/DRONE.png" alt="">
+                            <img class="bg-img" src="Assets/img/HomePageImg/halihazır.jpg" alt="">
                             <div class="service-text p-5">
-                                <i class="fa-solid fa-map-location-dot"></i>
-                                <h3 class="mb-3">Harita Yapımı(İHA)</h3>
-                                <p class="mb-4 opacity-0">loremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem lorem</p>
+                                <div class="bg-dark-subtle opacity-75 rounded-top-pill">
+                                    <i class="fa-solid fa-map-location-dot"></i>
+                                    <h3 class="mb-3">Halihazır Harita Yapımı</h3>
+                                </div>
+                                <p class="mb-4 opacity-0">"Halihazır harita yapımıyla projelerinizi gerçek dünyaya taşıyoruz. Uzman ekibimiz ve modern teknolojimizle, detaylı ve doğru haritalar oluşturuyoruz. Planlama, tasarım ve analiz süreçlerinizi destekleyerek, projelerinizin temelini sağlamlaştırıyoruz.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="service-item d-flex position-relative text-center h-100">
-                            <img class="bg-img" src="Assets/img/Services/PROJE.png" alt="">
+                            <img class="bg-img" src="Assets/img/HomePageImg/DRONE.png" alt="">
                             <div class="service-text p-5">
-                                <i class="fa-solid fa-landmark"></i>
-                                <h3 class="mb-3">Kurumsal Mimara</h3>
-                                <p class="mb-4 opacity-0">
-                                  
-                                    loremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem lorem
-                                </p>
+                                <div class="bg-dark-subtle opacity-75 rounded-top-pill">
+                                    <i class="fa-solid fa-landmark"></i>
+                                    <h3 class="mb-3">IHA İle Haritalama</h3>
+                                </div>
+                                <p class="mb-4 opacity-0">IHA ile haritalama hizmetimizle projelerinizi yükseklikten gözlemleyerek detaylı veriler sağlıyoruz. İleri teknolojiye sahip İHA'larımızla hızlı, hassas ve etkileyici haritalar oluşturuyoruz. Projenizin her aşamasında doğru verilere dayalı kararlar almanızı sağlıyoruz.</p>
                             </div>
                         </div>
                     </div>
@@ -277,22 +288,48 @@
                         <div class="service-item d-flex position-relative text-center h-100">
                             <img class="bg-img" src="Assets/img/Services/3B.png" alt="">
                             <div class="service-text p-5">
-                                <%--<img class="mb-4" src="Assets/img/icons/icon-6.png" alt="Icon">--%>
-                                <i class="fa-solid fa-cubes"></i>
-                                <h3 class="mb-3">3B Mimari</h3>
-                                <p class="mb-4 opacity-0">
-                                    loremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem loremloremlroem lorem lorem lorem
-                                </p>
+                                <div class="bg-dark-subtle opacity-75 rounded-top-pill">
+                                    <%--<img class="mb-4" src="Assets/img/icons/icon-6.png" alt="Icon">--%>
+                                    <i class="fa-solid fa-cubes"></i>
+                                    <h3 class="mb-3">3B Mimari</h3>
+                                </div>
+                                <p class="mb-4 opacity-0">3B mimari hizmetimizle projelerinizi gerçeğe dönüştürüyoruz. İleri teknoloji kullanarak detaylı 3 boyutlu tasarımlar oluşturuyoruz. Gerçekçi görseller, animasyonlar ve sanal turlarla projelerinizi hayata geçirmeden önce görsel bir deneyim sunuyoruz.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="service-item d-flex position-relative text-center h-100">
+                            <img class="bg-img" src="Assets/img/HomePageImg/ENERJİ.png" alt="">
+                            <div class="service-text p-5">
+                                <div class="bg-dark-subtle opacity-75 rounded-top-pill">
+                                    <%--<img class="mb-4" src="Assets/img/icons/icon-6.png" alt="Icon">--%>
+                                    <i class="fa-solid fa-cubes"></i>
+                                    <h3 class="mb-3">Enerji Projeleri</h3>
+                                </div>
+                                <p class="mb-4 opacity-0">Enerji projeleriyle sürdürülebilir geleceğe katkı sağlıyoruz. Uzman ekibimiz ve yenilikçi çözümlerimizle, güneş, rüzgar, hidroelektrik ve diğer enerji kaynaklarına dayalı projelerinizi hayata geçiriyoruz. Enerji verimliliği, çevresel uyumluluk ve maliyet etkinliği odaklı çözümler sunuyoruz.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="service-item d-flex position-relative text-center h-100">
+                            <img class="bg-img" src="Assets/img/HomePageImg/PROYE TAKİP.png" alt="">
+                            <div class="service-text p-5">
+                                <div class="bg-dark-subtle opacity-75 rounded-top-pill">
+                                    <%--<img class="mb-4" src="Assets/img/icons/icon-6.png" alt="Icon">--%>
+                                    <i class="fa-solid fa-cubes"></i>
+                                    <h3 class="mb-3">Planlama ve Proje Takibi</h3>
+                                </div>
+                                <p class="mb-4 opacity-0">"Planlama ve proje takibi hizmetimizle projelerinizin başarısını garanti altına alıyoruz. Deneyimli ekip ve etkili yönetim süreçleriyle, projelerinizi başlangıçtan sona kadar titizlikle takip ediyor, bütçe ve zaman çerçevesini kontrol altında tutuyoruz. Başarılı sonuçlar için profesyonel destek sağlıyoruz.</p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-       <!-- End Services Section -->
+        <!-- End Services Section -->
 
-    <!-- ======= Alt Services Section ======= -->
-    <section id="alt-services" class="alt-services">
+        <!-- ======= Alt Services Section ======= -->
+        <%-- <section id="alt-services" class="alt-services">
       <div class="container" data-aos="fade-up">
 
         <div class="row justify-content-around gy-4">
@@ -338,302 +375,330 @@
         </div>
 
       </div>
-    </section><!-- End Alt Services Section -->
+    </section>--%><!-- End Alt Services Section -->
 
-    <!-- ======= Features Section ======= -->
-    <section id="features" class="features section-bg">
-      <div class="container" data-aos="fade-up">
+        <!-- ======= Features Section ======= -->
+        <section id="features" class="features section-bg">
+            <div class="container" data-aos="fade-up">
 
-        <ul class="nav nav-tabs row  g-2 d-flex">
+                <ul class="nav nav-tabs row  g-2 d-flex">
 
-          <li class="nav-item col-3">
-            <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#tab-1">
-              <h4>Planlama</h4>
-            </a>
-          </li><!-- End tab nav item -->
+                    <li class="nav-item col-3">
+                        <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#tab-1">
+                            <h4>Planlama</h4>
+                        </a>
+                    </li>
+                    <!-- End tab nav item -->
 
-          <li class="nav-item col-3">
-            <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-2">
-              <h4>Proje Takibi </h4>
-            </a><!-- End tab nav item -->
+                    <li class="nav-item col-3">
+                        <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-2">
+                            <h4>Proje Takibi </h4>
+                        </a>
+                        <!-- End tab nav item -->
 
-          <li class="nav-item col-3">
-            <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-3">
-              <h4>xxxx xxxx</h4>
-            </a>
-          </li><!-- End tab nav item -->
+                        <li class="nav-item col-3">
+                            <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-3">
+                                <h4>xxxx xxxx</h4>
+                            </a>
+                        </li>
+                    <!-- End tab nav item -->
 
-          <li class="nav-item col-3">
-            <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-4">
-              <h4>xxxxxx</h4>
-            </a>
-          </li><!-- End tab nav item -->
+                    <li class="nav-item col-3">
+                        <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-4">
+                            <h4>xxxxxx</h4>
+                        </a>
+                    </li>
+                    <!-- End tab nav item -->
 
-        </ul>
-
-        <div class="tab-content">
-
-          <div class="tab-pane active show" id="tab-1">
-            <div class="row">
-              <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="100">
-                <h3>Voluptatem dignissimos provident</h3>
-                <p class="fst-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                  magna aliqua.
-                </p>
-                <ul>
-                  <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                  <li><i class="bi bi-check2-all"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                  <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
                 </ul>
-              </div>
-              <div class="col-lg-6 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
-                <img src="assets/img/features-1.jpg" alt="" class="img-fluid">
-              </div>
-            </div>
-          </div><!-- End tab content item -->
 
-          <div class="tab-pane" id="tab-2">
-            <div class="row">
-              <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
-                <h3>Neque exercitationem debitis</h3>
-                <p class="fst-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                <div class="tab-content">
+
+                    <div class="tab-pane active show" id="tab-1">
+                        <div class="row">
+                            <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="100">
+                                <h3>Voluptatem dignissimos provident</h3>
+                                <p class="fst-italic">
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                   magna aliqua.
-                </p>
-                <ul>
-                  <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                  <li><i class="bi bi-check2-all"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                  <li><i class="bi bi-check2-all"></i> Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</li>
-                  <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-                </ul>
-              </div>
-              <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/features-2.jpg" alt="" class="img-fluid">
-              </div>
-            </div>
-          </div><!-- End tab content item -->
+                                </p>
+                                <ul>
+                                    <li><i class="bi bi-check2-all"></i>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
+                                    <li><i class="bi bi-check2-all"></i>Duis aute irure dolor in reprehenderit in voluptate velit.</li>
+                                    <li><i class="bi bi-check2-all"></i>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-6 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
+                                <img src="assets/img/features-1.jpg" alt="" class="img-fluid">
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End tab content item -->
 
-          <div class="tab-pane" id="tab-3">
-            <div class="row">
-              <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
-                <h3>Voluptatibus commodi accusamu</h3>
-                <ul>
-                  <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                  <li><i class="bi bi-check2-all"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                  <li><i class="bi bi-check2-all"></i> Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</li>
-                </ul>
-                <p class="fst-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                    <div class="tab-pane" id="tab-2">
+                        <div class="row">
+                            <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
+                                <h3>Neque exercitationem debitis</h3>
+                                <p class="fst-italic">
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                   magna aliqua.
-                </p>
-              </div>
-              <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/features-3.jpg" alt="" class="img-fluid">
-              </div>
-            </div>
-          </div><!-- End tab content item -->
+                                </p>
+                                <ul>
+                                    <li><i class="bi bi-check2-all"></i>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
+                                    <li><i class="bi bi-check2-all"></i>Duis aute irure dolor in reprehenderit in voluptate velit.</li>
+                                    <li><i class="bi bi-check2-all"></i>Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</li>
+                                    <li><i class="bi bi-check2-all"></i>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-6 order-1 order-lg-2 text-center">
+                                <img src="assets/img/features-2.jpg" alt="" class="img-fluid">
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End tab content item -->
 
-          <div class="tab-pane" id="tab-4">
-            <div class="row">
-              <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
-                <h3>Omnis fugiat ea explicabo sunt</h3>
-                <p class="fst-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                    <div class="tab-pane" id="tab-3">
+                        <div class="row">
+                            <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
+                                <h3>Voluptatibus commodi accusamu</h3>
+                                <ul>
+                                    <li><i class="bi bi-check2-all"></i>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
+                                    <li><i class="bi bi-check2-all"></i>Duis aute irure dolor in reprehenderit in voluptate velit.</li>
+                                    <li><i class="bi bi-check2-all"></i>Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</li>
+                                </ul>
+                                <p class="fst-italic">
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                   magna aliqua.
-                </p>
-                <ul>
-                  <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                  <li><i class="bi bi-check2-all"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                  <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-                </ul>
-              </div>
-              <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/features-4.jpg" alt="" class="img-fluid">
-              </div>
+                                </p>
+                            </div>
+                            <div class="col-lg-6 order-1 order-lg-2 text-center">
+                                <img src="assets/img/features-3.jpg" alt="" class="img-fluid">
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End tab content item -->
+
+                    <div class="tab-pane" id="tab-4">
+                        <div class="row">
+                            <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
+                                <h3>Omnis fugiat ea explicabo sunt</h3>
+                                <p class="fst-italic">
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                  magna aliqua.
+                                </p>
+                                <ul>
+                                    <li><i class="bi bi-check2-all"></i>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
+                                    <li><i class="bi bi-check2-all"></i>Duis aute irure dolor in reprehenderit in voluptate velit.</li>
+                                    <li><i class="bi bi-check2-all"></i>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-6 order-1 order-lg-2 text-center">
+                                <img src="assets/img/features-4.jpg" alt="" class="img-fluid">
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End tab content item -->
+
+                </div>
+
             </div>
-          </div><!-- End tab content item -->
+        </section>
+        <!-- End Features Section -->
 
-        </div>
+        <!-- ======= Our Projects Section ======= -->
+        <section id="projects" class="projects">
+            <div class="container" data-aos="fade-up">
 
-      </div>
-    </section><!-- End Features Section -->
-
-    <!-- ======= Our Projects Section ======= -->
-    <section id="projects" class="projects">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-header">
-          <h2>Our Projects</h2>
-          <p>Consequatur libero assumenda est voluptatem est quidem illum et officia imilique qui vel architecto accusamus fugit aut qui distinctio</p>
-        </div>
-
-        <div class="portfolio-isotope" data-portfolio-filter="*" data-portfolio-layout="masonry" data-portfolio-sort="original-order">
-
-          <ul class="portfolio-flters" data-aos="fade-up" data-aos-delay="100">
-            <li data-filter="*" class="filter-active">All</li>
-            <li data-filter=".filter-remodeling">Remodeling</li>
-            <li data-filter=".filter-construction">Construction</li>
-            <li data-filter=".filter-repairs">Repairs</li>
-            <li data-filter=".filter-design">Design</li>
-          </ul><!-- End Projects Filters -->
-
-          <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-remodeling">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/remodeling-1.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Remodeling 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/remodeling-1.jpg" title="Remodeling 1" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                <div class="section-header">
+                    <h2>Our Projects</h2>
+                    <p>Consequatur libero assumenda est voluptatem est quidem illum et officia imilique qui vel architecto accusamus fugit aut qui distinctio</p>
                 </div>
-              </div>
-            </div><!-- End Projects Item -->
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/construction-1.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Construction 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/construction-1.jpg" title="Construction 1" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                <div class="portfolio-isotope" data-portfolio-filter="*" data-portfolio-layout="masonry" data-portfolio-sort="original-order">
+
+                    <ul class="portfolio-flters" data-aos="fade-up" data-aos-delay="100">
+                        <li data-filter="*" class="filter-active">Hepsi</li>
+                        <li data-filter=".filter-constructionServices">İnşaat Hizmetleri</li>
+                        <li data-filter=".filter-infrastructureMeasurements">Altyapı Ölçümleri</li>
+                        <li data-filter=".filter-cadastralProjects">Kadastro Projeleri</li>
+                        <li data-filter=".filter-currentMapManagement">Halihazır Harita Yönetimi</li>
+                        <li data-filter=".filter-mappingWithIHA">IHA ile Haritalama</li>
+                        <li data-filter=".filter-3BArchitecture">3B Mimari</li>
+                        <li data-filter=".filter-energyProjects">Enerji Projeleri</li>
+                        <li data-filter=".filter-planningAndProjectTracking">Planlama ve Proje Takibi</li>
+                    </ul>
+                    <!-- End Projects Filters -->
+
+                    <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-constructionServices">
+                            <div class="portfolio-content h-100">
+                                <img src="assets/img/projects/remodeling-1.jpg" class="img-fluid" alt="">
+                                <div class="portfolio-info">
+                                    <h4>Remodeling 1</h4>
+                                    <p>Lorem ipsum, dolor sit amet consectetur</p>
+                                    <a href="assets/img/projects/remodeling-1.jpg" title="Remodeling 1" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Projects Item -->
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
+                            <div class="portfolio-content h-100">
+                                <img src="assets/img/projects/construction-1.jpg" class="img-fluid" alt="">
+                                <div class="portfolio-info">
+                                    <h4>Construction 1</h4>
+                                    <p>Lorem ipsum, dolor sit amet consectetur</p>
+                                    <a href="assets/img/projects/construction-1.jpg" title="Construction 1" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Projects Item -->
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-repairs">
+                            <div class="portfolio-content h-100">
+                                <img src="assets/img/projects/repairs-1.jpg" class="img-fluid" alt="">
+                                <div class="portfolio-info">
+                                    <h4>Repairs 1</h4>
+                                    <p>Lorem ipsum, dolor sit amet consectetur</p>
+                                    <a href="assets/img/projects/repairs-1.jpg" title="Repairs 1" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Projects Item -->
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-design">
+                            <div class="portfolio-content h-100">
+                                <img src="assets/img/projects/design-1.jpg" class="img-fluid" alt="">
+                                <div class="portfolio-info">
+                                    <h4>Design 1</h4>
+                                    <p>Lorem ipsum, dolor sit amet consectetur</p>
+                                    <a href="assets/img/projects/design-1.jpg" title="Repairs 1" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Projects Item -->
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-remodeling">
+                            <div class="portfolio-content h-100">
+                                <img src="assets/img/projects/remodeling-2.jpg" class="img-fluid" alt="">
+                                <div class="portfolio-info">
+                                    <h4>Remodeling 2</h4>
+                                    <p>Lorem ipsum, dolor sit amet consectetur</p>
+                                    <a href="assets/img/projects/remodeling-2.jpg" title="Remodeling 2" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Projects Item -->
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
+                            <div class="portfolio-content h-100">
+                                <img src="assets/img/projects/construction-2.jpg" class="img-fluid" alt="">
+                                <div class="portfolio-info">
+                                    <h4>Construction 2</h4>
+                                    <p>Lorem ipsum, dolor sit amet consectetur</p>
+                                    <a href="assets/img/projects/construction-2.jpg" title="Construction 2" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Projects Item -->
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-repairs">
+                            <div class="portfolio-content h-100">
+                                <img src="assets/img/projects/repairs-2.jpg" class="img-fluid" alt="">
+                                <div class="portfolio-info">
+                                    <h4>Repairs 2</h4>
+                                    <p>Lorem ipsum, dolor sit amet consectetur</p>
+                                    <a href="assets/img/projects/repairs-2.jpg" title="Repairs 2" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Projects Item -->
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-design">
+                            <div class="portfolio-content h-100">
+                                <img src="assets/img/projects/design-2.jpg" class="img-fluid" alt="">
+                                <div class="portfolio-info">
+                                    <h4>Design 2</h4>
+                                    <p>Lorem ipsum, dolor sit amet consectetur</p>
+                                    <a href="assets/img/projects/design-2.jpg" title="Repairs 2" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Projects Item -->
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-remodeling">
+                            <div class="portfolio-content h-100">
+                                <img src="assets/img/projects/remodeling-3.jpg" class="img-fluid" alt="">
+                                <div class="portfolio-info">
+                                    <h4>Remodeling 3</h4>
+                                    <p>Lorem ipsum, dolor sit amet consectetur</p>
+                                    <a href="assets/img/projects/remodeling-3.jpg" title="Remodeling 3" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Projects Item -->
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
+                            <div class="portfolio-content h-100">
+                                <img src="assets/img/projects/construction-3.jpg" class="img-fluid" alt="">
+                                <div class="portfolio-info">
+                                    <h4>Construction 3</h4>
+                                    <p>Lorem ipsum, dolor sit amet consectetur</p>
+                                    <a href="assets/img/projects/construction-3.jpg" title="Construction 3" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Projects Item -->
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-repairs">
+                            <div class="portfolio-content h-100">
+                                <img src="assets/img/projects/repairs-3.jpg" class="img-fluid" alt="">
+                                <div class="portfolio-info">
+                                    <h4>Repairs 3</h4>
+                                    <p>Lorem ipsum, dolor sit amet consectetur</p>
+                                    <a href="assets/img/projects/repairs-3.jpg" title="Repairs 2" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Projects Item -->
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-design">
+                            <div class="portfolio-content h-100">
+                                <img src="assets/img/projects/design-3.jpg" class="img-fluid" alt="">
+                                <div class="portfolio-info">
+                                    <h4>Design 3</h4>
+                                    <p>Lorem ipsum, dolor sit amet consectetur</p>
+                                    <a href="assets/img/projects/design-3.jpg" title="Repairs 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Projects Item -->
+
+                    </div>
+                    <!-- End Projects Container -->
+
                 </div>
-              </div>
-            </div><!-- End Projects Item -->
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-repairs">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/repairs-1.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Repairs 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/repairs-1.jpg" title="Repairs 1" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Projects Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-design">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/design-1.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Design 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/design-1.jpg" title="Repairs 1" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Projects Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-remodeling">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/remodeling-2.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Remodeling 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/remodeling-2.jpg" title="Remodeling 2" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Projects Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/construction-2.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Construction 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/construction-2.jpg" title="Construction 2" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Projects Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-repairs">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/repairs-2.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Repairs 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/repairs-2.jpg" title="Repairs 2" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Projects Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-design">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/design-2.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Design 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/design-2.jpg" title="Repairs 2" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Projects Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-remodeling">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/remodeling-3.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Remodeling 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/remodeling-3.jpg" title="Remodeling 3" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Projects Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-construction">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/construction-3.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Construction 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/construction-3.jpg" title="Construction 3" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Projects Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-repairs">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/repairs-3.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Repairs 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/repairs-3.jpg" title="Repairs 2" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Projects Item -->
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-design">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/projects/design-3.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Design 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/img/projects/design-3.jpg" title="Repairs 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div><!-- End Projects Item -->
-
-          </div><!-- End Projects Container -->
-
-        </div>
-
-      </div>
-    </section><!-- End Our Projects Section -->
+            </div>
+        </section>
+        <!-- End Our Projects Section -->
 
 
-    <!-- ======= Recent Blog Posts Section ======= -->
-    <section id="recent-blog-posts" class="recent-blog-posts">
+        <!-- ======= Recent Blog Posts Section ======= -->
+        <%-- <section id="recent-blog-posts" class="recent-blog-posts">
       <div class="container" data-aos="fade-up"">
 
     
@@ -742,9 +807,90 @@
       </div>
 
       </div>
-    </section>
-    <!-- End Recent Blog Posts Section -->
-
-  </main>
+    </section>--%>
+        <!-- End Recent Blog Posts Section -->
+        <!-- Reference Project Start -->
+        <div id="carouselExample" class="carousel slide">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <div class="media-container">
+                        <div class="course">
+                            <div class="media-preview">
+                            </div>
+                            <div class="media-info">
+                                <h6 class="tanggalMedia1">20 MARET 2023</h6>
+                                <h5 class="descBerita1">Lorem ipsum dolor sit
+                                    <br>
+                                    amet consectetu</h5>
+                                <div class="btnRead">
+                                    <a href="#">&#8594;</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="media-container">
+                        <div class="course">
+                            <div class="media-preview">
+                            </div>
+                            <div class="media-info">
+                                <h6 class="tanggalMedia1">20 MARET 2023</h6>
+                                <h5 class="descBerita1">Lorem ipsum dolor sit
+                                    <br>
+                                    amet consectetu</h5>
+                                <div class="btnRead">
+                                    <a href="#">&#8594;</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col">
+                        <div class="media-container">
+                            <div class="course">
+                                <div class="media-preview">
+                                </div>
+                                <div class="media-info">
+                                    <h6 class="tanggalMedia1">20 MARET 2023</h6>
+                                    <h5 class="descBerita1">Lorem ipsum dolor sit
+                                        <br>
+                                        amet consectetu</h5>
+                                    <div class="btnRead">
+                                        <a href="#">&#8594;</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="media-container">
+                            <div class="course">
+                                <div class="media-preview">
+                                </div>
+                                <div class="media-info">
+                                    <h6 class="tanggalMedia1">20 MARET 2023</h6>
+                                    <h5 class="descBerita1">Lorem ipsum dolor sit
+                                        <br>
+                                        amet consectetu</h5>
+                                    <div class="btnRead">
+                                        <a href="#">&#8594;</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <button class="carousel-control-prev text-black" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+        <!-- Project End -->
+    </main>
     <!-- End #main -->
 </asp:Content>

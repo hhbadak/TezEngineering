@@ -29,6 +29,7 @@
     </asp:ContentPlaceHolder>
 </head>
 <body>
+
     <form id="form1" runat="server">
         <!-- ======= Header ======= -->
         <div class="container-fluid bg-dark p-0 wow fadeIn Social" data-wow-delay="0.1s">
@@ -36,12 +37,12 @@
                 <div class="row gx-0 d-lg-flex">
                     <div class="col-sm-7 px-5 text-start">
                         <div class="h-100 d-inline-flex align-items-center py-3 me-3">
-                            <a class="text-body px-2" href="tel:+0123456789"><i class="fa-solid fa-phone-volume  me-2""></i><span class="text-white">090 xxx xxxxxxx</span></a>
-                           <%-- <a class="text-body px-2" href="#"><i class="fa-solid fa-envelope me-2""></i><span class="text-white">info@example.com</span></a>--%>
+                            <a class="text-body px-2" href="tel:+0123456789"><i class="fa-solid fa-phone-volume  me-2"></i><span class="text-white">090 xxx xxxxxxx</span></a>
+                            <%-- <a class="text-body px-2" href="#"><i class="fa-solid fa-envelope me-2""></i><span class="text-white">info@example.com</span></a>--%>
                         </div>
                     </div>
                     <div class="col-sm-5 px-5 text-end">
-                       
+
                         <div class="h-100 d-inline-flex align-items-center">
                             <a class="btn btn-sm-square btn-outline-body me-1" href="#"><i class="fa-brands fa-whatsapp "></i></a>
                             <a class="btn btn-sm-square btn-outline-body me-1" href="#"><i class="fa-brands fa-instagram "></i></a>
@@ -67,8 +68,32 @@
                 <nav id="navbar" class="navbar">
                     <ul>
                         <li><a href="index.aspx" class="active">Anasayfa</a></li>
-                        <li><a href="about.aspx">Kurumsal</a></li>
-                        <li><a href="services.aspx">HİZMETLERİMİZ</a></li>
+                        <li><div class="dropdown">
+                                <button class="btn text-light dropdown-toggle" type="button" id="dropdownMenuButton2" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Kurumsal
+                                </button>
+                                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                                    <li><a class="dropdown-item" href="ConstructionServices.aspx">Hakkımızda</a></li>
+                                    <li><a class="dropdown-item" href="InfrastructureMetrics.aspx">Referanslar</a></li>
+                                </ul>
+                            </div></li>
+                        <li>
+                            <div class="dropdown">
+                                <button class="btn text-light dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Hizmetlerimiz
+                                </button>
+                                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                                    <li><a class="dropdown-item" href="ConstructionServices.aspx">İnşaat Hizmetleri</a></li>
+                                    <li><a class="dropdown-item" href="InfrastructureMetrics.aspx">Altyapı Ölçümleri</a></li>
+                                    <li><a class="dropdown-item" href="CadastreProjects.aspx">Kadastro Projeleri</a></li>
+                                    <li><a class="dropdown-item" href="CurrentMapMaking.aspx">Halihazır Harita Yapımı</a></li>
+                                    <li><a class="dropdown-item" href="MappingWithIHA.aspx">IHA İle Haritalama</a></li>
+                                    <li><a class="dropdown-item" href="3BArchitecture.aspx">3B Mimari</a></li>
+                                    <li><a class="dropdown-item" href="EnergyProjects.aspx">Enerji Projeleri</a></li>
+                                    <li><a class="dropdown-item" href="PlanningAndProjectTracking.aspx">Planlama ve Proje Takibi</a></li>
+                                </ul>
+                            </div>
+                        </li>
                         <li><a href="projects.aspx">İHA İLE HARİTALAMA</a></li>
                         <li><a href="blog.aspx">MİMARİ</a></li>
                         <%--<li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
@@ -206,8 +231,7 @@
 
         <!-- Template Main JS File -->
         <script src="assets/js/main.js"></script>
-        
-        </div>
+
     </form>
 </body>
 </html>
