@@ -16,7 +16,7 @@
     <div class="container mt-5 mb-5">
         <div class="row">
             <div class="col-lg-7 Desc">
-                <h4>Endüstiriyel Yapılar Ve Şantiye Hizmetleri Neleri Kapsar ?</h4>
+                <h4>Endüstiriyel Yapılar Ve Şantiye Hizmetleri</h4>
                 <p>
                     Endüstriyel yapılar ve şantiye hizmetleri, inşaat sektöründe faaliyet gösteren bir dizi hizmeti ifade eder. Bu hizmetler, endüstriyel tesislerin inşası, bakımı ve yönetimiyle ilgilenir.
 

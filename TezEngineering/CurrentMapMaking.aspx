@@ -16,7 +16,7 @@
     <div class="container mt-5 mb-5">
         <div class="row">
             <div class="col-lg-7 Desc">
-                <h4>Halihazır Harita Yönetimi Nedir ?</h4>
+                <h4>Halihazır Harita Yönetimi</h4>
                 <p>
                     Halihazır harita yönetimi, mevcut durumu yansıtan ve bir alanın coğrafi verilerini içeren haritaların oluşturulması, güncellenmesi, saklanması ve yönetilmesi sürecidir. Bu süreç, belirli bir bölge veya alanın detaylı bir harita tabanına dayalı olarak doğru ve güncel bilgilerle temsil edilmesini sağlar.
                 </p>

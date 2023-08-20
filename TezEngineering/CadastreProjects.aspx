@@ -15,7 +15,7 @@
     <div class="container mt-5 mb-5">
         <div class="row">
             <div class="col-lg-7 Desc">
-                <h4>Kadastro Hizmetleri Nedir ?</h4>
+                <h4>Kadastro Hizmetleri </h4>
                 <p>
                     Kadastro hizmetleri, bir ülkenin veya bölgenin mülkiyet, arazi ve kaynakların düzenli bir şekilde kaydedilmesi ve yönetilmesiyle ilgili hizmetlerdir. Kadastro, taşınmaz mülkiyetin ve diğer arazi haklarının belirlenmesi, sınıflandırılması ve kaydedilmesi sürecidir.
 

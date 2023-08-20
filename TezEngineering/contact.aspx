@@ -64,10 +64,10 @@
                 </div>
               </div>
               <div class="form-group mt-2">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+                <input type="text" class="form-control" name="subject" id="E-mail" placeholder="E-Posta" required>
               </div>
               <div class="form-group mt-2">
-                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+                <textarea class="form-control" name="message" rows="5" placeholder="Mesaj" required></textarea>
               </div>
               <div class="my-3 mt-2">
                

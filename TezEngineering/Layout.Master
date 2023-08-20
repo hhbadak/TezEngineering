@@ -44,16 +44,17 @@
                     <div class="col-sm-5 px-5 text-end">
 
                         <div class="h-100 d-inline-flex align-items-center">
-                            <a class="btn btn-sm-square btn-outline-body me-1" href="#"><i class="fa-brands fa-whatsapp "></i></a>
-                            <a class="btn btn-sm-square btn-outline-body me-1" href="#"><i class="fa-brands fa-instagram "></i></a>
-                            <a class="btn btn-sm-square btn-outline-body me-0" href="#"><i class="fa-brands fa-facebook"></i></a>
+                            <a class="btn btn-sm-square btn-outline-body me-1" href="#"><i class="fa-brands fa-linkedin"></i></a>
+                            <a class="btn btn-sm-square btn-outline-body me-1" href="https://www.instagram.com/tez_harita/"><i class="fa-brands fa-instagram "></i></a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
         <div class=" container">
-            <img src="Assets/img/HomePageImg/3.png" width="120" style="z-index: 1111" class="position-absolute" />
+            <a href="index.aspx">
+                <img src="Assets/img/HomePageImg/3.png" width="120" style="z-index: 1111" class="position-absolute" />
+            </a>
         </div>
         <header id="header" class="header d-flex align-items-center mt-5">
 
@@ -75,7 +76,7 @@
                                 </button>
                                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
                                     <li><a class="dropdown-item" href="about.aspx">Hakkımızda</a></li>
-                                    <li><a class="dropdown-item" href="InfrastructureMetrics.aspx">Referanslar</a></li>
+                                    <li><a class="dropdown-item" href="#">Referanslar</a></li>
                                 </ul>
                             </div>
                         </li>
@@ -89,23 +90,23 @@
                                     <li><a class="dropdown-item" href="CadastreProjects.aspx">Kadastro Hizmetleri</a></li>
                                     <li><a class="dropdown-item" href="ConstructionServices.aspx">Endüstiriyel Yapılar Ve Şantiye Hizmetleri</a></li>
                                     <li><a class="dropdown-item" href="InfrastructureMetrics.aspx">Altyapı Ölçüm Hizmetleri</a></li>
-                                    <li><a class="dropdown-item" href="MappingWithIHA.aspx">Sayısal Fotogrametrik Haritaları</a></li>
-                                    <li><a class="dropdown-item" href="3BArchitecture.aspx">İmar Uygulamaları</a></li>
+                                    <li><a class="dropdown-item" href="DigitalPhotogramMetric maps.aspx">Sayısal Fotogrametrik Haritaları</a></li>
+                                    <li><a class="dropdown-item" href="ZoningApplications.aspx">İmar Uygulamaları</a></li>
                                 </ul>
                             </div>
                         </li>
-                        <li><a href="projects.aspx">İHA İLE HARİTALAMA</a></li>
+                        <li><a href="MappingWithIHA.aspx">İHA İLE HARİTALAMA</a></li>
                         <div class="dropdown">
                             <button class="btn text-light dropdown-toggle" type="button" id="dropdownMenuButton3" data-bs-toggle="dropdown" aria-expanded="false">
                                 MİMARİ
                             </button>
                             <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton3">
-                                <li><a class="dropdown-item" href="#">3 Boyutlu Mimari Proje Sayısallaştırma</a></li>
-                                <li><a class="dropdown-item" href="#">Şehir Ve Bölge Planlama </a></li>
-                                <li><a class="dropdown-item" href="#">Planlama Ve Proje Takibi</a></li>
+                                <li><a class="dropdown-item" href="3DArchitecturalProjectDigitization.aspx">3 Boyutlu Mimari Proje Sayısallaştırma</a></li>
+                                <li><a class="dropdown-item" href="CityAndRegionPlanning.aspx">Şehir Ve Bölge Planlama </a></li>
+                                <li><a class="dropdown-item" href="PlanningAndProjectTracking.aspx">Planlama Ve Proje Takibi</a></li>
                             </ul>
                         </div>
-                      
+
                         <li><a href="contact.aspx">İletİşİm</a></li>
                     </ul>
                 </nav>
@@ -129,20 +130,18 @@
 
                         <div class="col-lg-4 col-md-6 ">
                             <div class="footer-info">
-                                <h3>UpConstruction</h3>
+                                <h3>Tez Harita Mühendislik</h3>
                                 <p>
-                                    A108 Adam Street
+                                    Samsum / İlk Adım
                                         <br>
-                                    NY 535022, USA<br>
+                                    Türkiye<br>
                                     <br>
-                                    <strong>Phone:</strong> +1 5589 55488 55<br>
-                                    <strong>Email:</strong> info@example.com<br>
+                                    <strong>Telefon:</strong> 0541 258 14 86 / 0541 565 09 27<br>
+                                    <strong>E-Posta:</strong> tezharitamuhendislik@gmail.com<br>
                                 </p>
                                 <div class="social-links d-flex mt-3">
-                                    <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-twitter"></i></a>
-                                    <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-facebook"></i></a>
-                                    <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-instagram"></i></a>
-                                    <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-linkedin"></i></a>
+                                    <a href="#" class="d-flex align-items-center justify-content-center"><i class="fa-brands fa-linkedin"></i></a>
+                                    <a href="https://www.instagram.com/tez_harita/" class="d-flex align-items-center justify-content-center"><i class="fa-brands fa-instagram "></i></a>
                                 </div>
                             </div>
                         </div>

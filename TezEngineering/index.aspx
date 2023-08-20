@@ -84,7 +84,7 @@
 
     <main id="main">
 
-   
+
 
         <!-- ======= Services Section ======= -->
         <div class="container-xxl py-5">
@@ -188,16 +188,56 @@
                                     <i class="fa-solid fa-cubes"></i>
                                     <h3 class="mb-3">Planlama ve Proje Takibi</h3>
                                 </div>
-                                <p class="mb-4 opacity-0">"Planlama ve proje takibi hizmetimizle projelerinizin başarısını garanti altına alıyoruz. Deneyimli ekip ve etkili yönetim süreçleriyle, projelerinizi başlangıçtan sona kadar titizlikle takip ediyor, bütçe ve zaman çerçevesini kontrol altında tutuyoruz. Başarılı sonuçlar için profesyonel destek sağlıyoruz.</p>
+                                <p class="mb-4 opacity-0">Planlama ve proje takibi hizmetimizle projelerinizin başarısını garanti altına alıyoruz. Deneyimli ekip ve etkili yönetim süreçleriyle, projelerinizi başlangıçtan sona kadar titizlikle takip ediyor, bütçe ve zaman çerçevesini kontrol altında tutuyoruz. Başarılı sonuçlar için profesyonel destek sağlıyoruz.</p>
                             </div>
                         </div>
                     </div>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="service-item d-flex position-relative text-center h-100">
+                            <img class="bg-img" src="Assets/img/Services/imarapp.jpg" alt="">
+                            <div class="service-text p-5">
+                                <div class="bg-dark-subtle opacity-75 rounded-top-pill">
+                                    <%--<img class="mb-4" src="Assets/img/icons/icon-6.png" alt="Icon">--%>
+                                    <i class="fa-solid fa-location-crosshairs"></i>
+                                    <h3 class="mb-3">İmar Uygulamaları</h3>
+                                </div>
+                                <p class="mb-4 opacity-0">İmar uygulamaları, şehir ve bölge planlarının uygulanmasını sağlayan düzenlemeler ve işlemlerdir. İmar uygulamaları, planlama kararlarının somut bir şekilde hayata geçirilmesini ve yapılaşma sürecinin yönetilmesini amaçlar.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="service-item d-flex position-relative text-center h-100">
+                            <img class="bg-img" src="Assets/img/Services/Sayısalfotogrametrik.png" alt="">
+                            <div class="service-text p-5">
+                                <div class="bg-dark-subtle opacity-75 rounded-top-pill">
+                                    <%--<img class="mb-4" src="Assets/img/icons/icon-6.png" alt="Icon">--%>
+                                    <i class="fa-solid fa-cubes"></i>
+                                    <h3 class="mb-3">Sayısal Fotogrametrik Haritalar</h3>
+                                </div>
+                                <p class="mb-4 opacity-0">Sayısal fotogrametrik haritalar, fotogrametri yöntemleri kullanılarak elde edilen yüksek doğruluklu ve detaylı haritalardır. Fotogrametri, fotoğrafik görüntülerin geometrik özelliklerini ve ölçümlerini analiz ederek haritalar oluşturur.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="service-item d-flex position-relative text-center h-100">
+                            <img class="bg-img" src="Assets/img/Services/KENT%20PLAN.png" alt="">
+                            <div class="service-text p-5">
+                                <div class="bg-dark-subtle opacity-75 rounded-top-pill">
+                                    <%--<img class="mb-4" src="Assets/img/icons/icon-6.png" alt="Icon">--%>
+                                    <i class="fa-solid fa-cubes"></i>
+                                    <h3 class="mb-3">Şehir ve Bölge Planlama</h3>
+                                </div>
+                                <p class="mb-4 opacity-0">Şehir ve bölge planlama, kentsel alanların ve bölgelerin gelişimini yönlendiren bir planlama sürecidir. Bu süreç, mevcut durum analizi, gelecek projeksiyonları, hedeflerin belirlenmesi ve stratejilerin oluşturulması gibi adımları içerir. </p>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
         <!-- End Services Section -->
 
-      
+
 
         <!-- ======= Features Section ======= -->
         <section id="features" class="features section-bg">
@@ -342,6 +382,10 @@
                         <li data-filter=".filter-energyProjects">Enerji Projeleri</li>
                         <i class="fa-solid fa-minus"></i>
                         <li data-filter=".filter-planningAndProjectTracking">Planlama ve Proje Takibi</li>
+                        <i class="fa-solid fa-minus"></i>
+                        <li data-filter=".filter-DigitalPhotogramMetricmapsg">Sayısal Fotogrametrik Haritalar</li>
+                        <i class="fa-solid fa-minus"></i>
+                        <li data-filter=".filter-ZoningApplications">İmar Uygulamaları</li>
                     </ul>
                     <!-- End Projects Filters -->
 
@@ -419,16 +463,6 @@
                         </div>
                         <!-- End Projects Item -->
 
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-cadastralProjects">
-                            <div class="portfolio-content h-100">
-                                <img src="Assets/img/HomePageImg/KENT PLAN.png" class="img-fluid" alt="">
-                                <div class="portfolio-info">
-                                    <h4>Kadastro Projeleri</h4>
-                                    <a href="Assets/img/HomePageImg/KENT PLAN.png" title="" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                                </div>
-                            </div>
-                        </div>
                         <!-- End Projects Item -->
 
                         <div class="col-lg-4 col-md-6 portfolio-item filter-currentMapManagement">
@@ -499,16 +533,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-planningAndProjectTracking">
-                            <div class="portfolio-content h-100">
-                                <img src="Assets/img/HomePageImg/planlamaa.png" class="img-fluid" alt="">
-                                <div class="portfolio-info">
-                                    <h4>Planlama Ve Proje Takibi</h4>
-                                    <a href="Assets/img/HomePageImg/planlamaa.png" title="" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                                </div>
-                            </div>
-                        </div>
+
                         <div class="col-lg-4 col-md-6 portfolio-item filter-planningAndProjectTracking">
                             <div class="portfolio-content h-100">
                                 <img src="Assets/img/HomePageImg/takip.png" class="img-fluid" alt="">
@@ -519,7 +544,46 @@
                                 </div>
                             </div>
                         </div>
-
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-DigitalPhotogramMetricmapsg">
+                            <div class="portfolio-content h-100">
+                                <img src="Assets/img/HomePageImg/takip.png" class="img-fluid" alt="">
+                                <div class="portfolio-info">
+                                    <h4>Sayısal Fotogrametrik Haritalar</h4>
+                                    <a href="Assets/img/HomePageImg/takip.png" title="" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-DigitalPhotogramMetricmapsg">
+                            <div class="portfolio-content h-100">
+                                <img src="Assets/img/Services/Sayısalfotogrametrik.png" class="img-fluid" alt="">
+                                <div class="portfolio-info">
+                                    <h4>Sayısal Fotogrametrik Haritalar</h4>
+                                    <a href="ssets/img/Services/Sayısalfotogrametrik.png" title="" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-ZoningApplications">
+                            <div class="portfolio-content h-100">
+                                <img src="ssets/img/Services/imarimg1.png" class="img-fluid" alt="">
+                                <div class="portfolio-info">
+                                    <h4>İmar Uygulamları</h4>
+                                    <a href="Assets/img/HomePageImg/takip.png" title="" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-ZoningApplications">
+                            <div class="portfolio-content h-100">
+                                <img src="Assets/img/Services/imarimg1.png" class="img-fluid" alt="">
+                                <div class="portfolio-info">
+                                    <h4>İmar Uygulamları</h4>
+                                    <a href="ssets/img/Services/imarimg1.png" title="" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
 
 
 
@@ -546,7 +610,7 @@
         <!-- End Our Projects Section -->
         <!-- Reference Project Start -->
         <div id="carouselExample" class="carousel slide">
-           <%-- <div class="carousel-inner">
+            <%-- <div class="carousel-inner">
                 <div class="carousel-item active">
                     <div class="media-container">
                         <div class="course">
