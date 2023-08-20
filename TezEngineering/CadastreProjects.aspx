@@ -36,7 +36,7 @@ Ayrıca, kadastro hizmetleri, doğal kaynakların sürdürülebilir bir şekilde
                     <img src="Assets/img/Services/KADASTRO.png" class="w-100 h-100" />
                 </div>
                 <div class=" mt-2">
-                    <img src="Assets/img/HomePageImg/ŞEHİR%20PLANLAMA.png" class="w-100 h-100" />
+                    <img src="Assets/img/ŞEHİR%20PLANLAMA.png"class="w-100 h-100" />
                 </div>
 
             </div>
