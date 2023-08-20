@@ -32,14 +32,10 @@
                    İmar uygulaması süreci, ilgili belediye, kamu kurumları ve yapı sahipleri arasında koordinasyon gerektiren bir süreçtir.
                 </p>
             </div>
-            <div class="col-lg-5">
+            <div class="col-lg-5" style="margin-top:13%">
                 <div class="">
                     <img src="Assets/img/Services/imarimg1.png" class="w-100 h-100"/>
                 </div>
-                <div class=" mt-2">
-                    <img src="Assets/img/Services/imarimg2.png" class="w-100 h-100"/>
-                </div>
-
             </div>
         </div>
     </div>

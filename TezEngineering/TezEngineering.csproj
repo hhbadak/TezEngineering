@@ -75,12 +75,17 @@
     <Content Include="Assets\img\2.png" />
     <Content Include="Assets\img\HomePageImg\1logom.png" />
     <Content Include="Assets\img\HomePageImg\Appsoly.jpg" />
+    <Content Include="Assets\img\HomePageImg\fotogrametrikHaritalar.png" />
+    <Content Include="Assets\img\HomePageImg\halihazırproje.png" />
     <Content Include="Assets\img\HomePageImg\planalamatakip.png" />
+    <Content Include="Assets\img\projects\aboutUs.jpg" />
+    <Content Include="Assets\img\Services\3bMimariii.png" />
     <Content Include="Assets\img\Services\3bplan.png" />
     <Content Include="Assets\img\Adsız tasarım.png" />
     <Content Include="Assets\img\alt-services-2.jpg" />
     <Content Include="Assets\img\apple-touch-icon.png" />
     <Content Include="Assets\img\Services\Adsız tasarım %285%29.png" />
+    <Content Include="Assets\img\Services\Altyapı.png" />
     <Content Include="Assets\img\Services\banneerdigital.png" />
     <Content Include="Assets\img\blog\blog-1.jpg" />
     <Content Include="Assets\img\blog\blog-2.jpg" />
@@ -135,6 +140,7 @@
     <Content Include="Assets\img\HomePageImg\image.png" />
     <Content Include="Assets\img\HomePageImg\inşaat ölçüm.png" />
     <Content Include="Assets\img\HomePageImg\KADASTRO.png" />
+    <Content Include="Assets\img\Services\kadastroImage.png" />
     <Content Include="Assets\img\Services\KENT PLAN.png" />
     <Content Include="Assets\img\HomePageImg\olcum.png" />
     <Content Include="Assets\img\HomePageImg\CBS.png" />

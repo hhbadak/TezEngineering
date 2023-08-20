@@ -32,9 +32,9 @@
             </div>
             <div class="col-lg-5">
                 <div class="">
-                    <img src="Assets/img/Services/3bplan.png" class="w-100 h-100" />
+                    <img src="Assets/img/Services/3bMimariii.png" class="w-100 h-100" />
                 </div>
-                <div class=" mt-2">
+                <div class=" mt-4">
                     <img src="Assets/img/Services/mimari3b.png" class="w-100 h-100" />
                 </div>
 

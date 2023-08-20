@@ -21,7 +21,7 @@
         <section id="about" class="about">
             <div class="container" data-aos="fade-up">
                 <div class="row position-relative">
-                    <div class="col-lg-7 about-img" style="background-image: url(Assets/img/Adsız%20tasarım.png);"></div>
+                    <div class="col-lg-7 about-img" style="background-image: url(Assets/img/projects/aboutUs.jpg); justify-content:center; display:flex; max-height:100%; max-height:100%; object-fit:cover;"></div>
                     <div class="col-lg-7">
                         <h2>Hakkımızda</h2>
                         <div class="our-story">
