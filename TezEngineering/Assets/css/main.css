@@ -875,18 +875,20 @@ section {
     .projects .portfolio-flters li {
         cursor: pointer;
         display: inline-block;
-        padding: 0;
-        font-size: 18px;
+        padding: 5px;
+        font-size: 10pt;
         font-weight: 500;
         margin: 0 10px;
         line-height: 1;
         margin-bottom: 5px;
         transition: all 0.3s ease-in-out;
+        
     }
 
         .projects .portfolio-flters li:hover,
         .projects .portfolio-flters li.filter-active {
             color: var(--color-primary);
+            border-bottom: 1px solid blue;
         }
 
         .projects .portfolio-flters li:first-child {
@@ -2763,4 +2765,11 @@ section {
     padding: 20px;
     border: 1px solid #ccc;
     background-color: #fff;
+}
+.Desc {
+    background-color: #f5f6f7;
+    padding: 30px;
+    border-radius:7px;
+}
+.Desc p {
 }

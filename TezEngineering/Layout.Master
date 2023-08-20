@@ -37,7 +37,7 @@
                 <div class="row gx-0 d-lg-flex">
                     <div class="col-sm-7 px-5 text-start">
                         <div class="h-100 d-inline-flex align-items-center py-3 me-3">
-                            <a class="text-body px-2" href="tel:+0123456789"><i class="fa-solid fa-phone-volume  me-2"></i><span class="text-white">090 xxx xxxxxxx</span></a>
+                            <a class="text-body px-2" href="tel:+0123456789"><i class="fa-solid fa-phone-volume  me-2"></i><span class="text-white">0541 258 1486 / 0541 565 0927</span></a>
                             <%-- <a class="text-body px-2" href="#"><i class="fa-solid fa-envelope me-2""></i><span class="text-white">info@example.com</span></a>--%>
                         </div>
                     </div>
@@ -68,42 +68,44 @@
                 <nav id="navbar" class="navbar">
                     <ul>
                         <li><a href="index.aspx" class="active">Anasayfa</a></li>
-                        <li><div class="dropdown">
+                        <li>
+                            <div class="dropdown">
                                 <button class="btn text-light dropdown-toggle" type="button" id="dropdownMenuButton2" data-bs-toggle="dropdown" aria-expanded="false">
                                     Kurumsal
                                 </button>
                                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-                                    <li><a class="dropdown-item" href="ConstructionServices.aspx">Hakkımızda</a></li>
+                                    <li><a class="dropdown-item" href="about.aspx">Hakkımızda</a></li>
                                     <li><a class="dropdown-item" href="InfrastructureMetrics.aspx">Referanslar</a></li>
                                 </ul>
-                            </div></li>
+                            </div>
+                        </li>
                         <li>
                             <div class="dropdown">
                                 <button class="btn text-light dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
                                     Hizmetlerimiz
                                 </button>
                                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-                                    <li><a class="dropdown-item" href="ConstructionServices.aspx">İnşaat Hizmetleri</a></li>
-                                    <li><a class="dropdown-item" href="InfrastructureMetrics.aspx">Altyapı Ölçümleri</a></li>
-                                    <li><a class="dropdown-item" href="CadastreProjects.aspx">Kadastro Projeleri</a></li>
-                                    <li><a class="dropdown-item" href="CurrentMapMaking.aspx">Halihazır Harita Yapımı</a></li>
-                                    <li><a class="dropdown-item" href="MappingWithIHA.aspx">IHA İle Haritalama</a></li>
-                                    <li><a class="dropdown-item" href="3BArchitecture.aspx">3B Mimari</a></li>
-                                    <li><a class="dropdown-item" href="EnergyProjects.aspx">Enerji Projeleri</a></li>
-                                    <li><a class="dropdown-item" href="PlanningAndProjectTracking.aspx">Planlama ve Proje Takibi</a></li>
+                                    <li><a class="dropdown-item" href="CurrentMapMaking.aspx">Halihazır Harita Üretimi</a></li>
+                                    <li><a class="dropdown-item" href="CadastreProjects.aspx">Kadastro Hizmetleri</a></li>
+                                    <li><a class="dropdown-item" href="ConstructionServices.aspx">Endüstiriyel Yapılar Ve Şantiye Hizmetleri</a></li>
+                                    <li><a class="dropdown-item" href="InfrastructureMetrics.aspx">Altyapı Ölçüm Hizmetleri</a></li>
+                                    <li><a class="dropdown-item" href="MappingWithIHA.aspx">Sayısal Fotogrametrik Haritaları</a></li>
+                                    <li><a class="dropdown-item" href="3BArchitecture.aspx">İmar Uygulamaları</a></li>
                                 </ul>
                             </div>
                         </li>
                         <li><a href="projects.aspx">İHA İLE HARİTALAMA</a></li>
-                        <li><a href="blog.aspx">MİMARİ</a></li>
-                        <%--<li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-                                <ul>
-                                    <li><a href="#">Dropdown 1</a></li>
-                                    <li><a href="#">Dropdown 2</a></li>
-                                    <li><a href="#">Dropdown 3</a></li>
-                                    <li><a href="#">Dropdown 4</a></li>
-                                </ul>
-                            </li>--%>
+                        <div class="dropdown">
+                            <button class="btn text-light dropdown-toggle" type="button" id="dropdownMenuButton3" data-bs-toggle="dropdown" aria-expanded="false">
+                                MİMARİ
+                            </button>
+                            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton3">
+                                <li><a class="dropdown-item" href="#">3 Boyutlu Mimari Proje Sayısallaştırma</a></li>
+                                <li><a class="dropdown-item" href="#">Şehir Ve Bölge Planlama </a></li>
+                                <li><a class="dropdown-item" href="#">Planlama Ve Proje Takibi</a></li>
+                            </ul>
+                        </div>
+                      
                         <li><a href="contact.aspx">İletİşİm</a></li>
                     </ul>
                 </nav>
@@ -119,13 +121,13 @@
 
 
         <!-- ======= Footer ======= -->
-        <footer id="footer" class="footer">
+        <footer id="footer" class="footer ">
 
             <div class="footer-content position-relative">
                 <div class="container">
-                    <div class="row">
+                    <div class="row ">
 
-                        <div class="col-lg-4 col-md-6">
+                        <div class="col-lg-4 col-md-6 ">
                             <div class="footer-info">
                                 <h3>UpConstruction</h3>
                                 <p>

@@ -25,7 +25,7 @@
             <div class="info-item  d-flex flex-column justify-content-center align-items-center">
               <i class="bi bi-map"></i>
               <h3>Adresimiz</h3>
-              <p>xxxxx xxxxxxxxx xxxxxx x xxx </p>
+              <p>SAMSUN/İLKADIM  </p>
             </div>
           </div><!-- End Info Item -->
 
@@ -33,7 +33,7 @@
             <div class="info-item d-flex flex-column justify-content-center align-items-center">
               <i class="bi bi-envelope"></i>
               <h3>E-Posta</h3>
-              <p>iletişim@example.com</p>
+              <p>tezharitamuhendislik@gmail.com</p>
             </div>
           </div><!-- End Info Item -->
 
@@ -41,7 +41,8 @@
             <div class="info-item  d-flex flex-column justify-content-center align-items-center">
               <i class="bi bi-telephone"></i>
               <h3>Telefon</h3>
-              <p>0xxx xxx xx xx</p>
+              <p>0541 258 1486 / 0541 565 0927</p>
+                
             </div>
           </div><!-- End Info Item -->
 
@@ -50,7 +51,7 @@
         <div class="row gy-4 mt-1">
 
           <div class="col-lg-6 ">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d95929.57580664019!2d36.3136985!3d41.2914735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x408877e97607d663%3A0xb939cc265fdeb52!2sSamsun!5e0!3m2!1str!2str!4v1692531777283!5m2!1str!2str" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div><!-- End Google Maps -->
 
           <div class="col-lg-6">
