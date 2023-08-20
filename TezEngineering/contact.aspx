@@ -33,7 +33,7 @@
             <div class="info-item d-flex flex-column justify-content-center align-items-center">
               <i class="bi bi-envelope"></i>
               <h3>E-Posta</h3>
-              <p>tezharitamuhendislik@gmail.com</p>
+              <a href="mailto:tezharitamuhendislik@gmail.com" class="text-dark">tezharitamuhendislik@gmail.com</a>
             </div>
           </div><!-- End Info Item -->
 
@@ -41,7 +41,7 @@
             <div class="info-item  d-flex flex-column justify-content-center align-items-center">
               <i class="bi bi-telephone"></i>
               <h3>Telefon</h3>
-              <p>0541 258 1486 / 0541 565 0927</p>
+              <p><a href="https://wa.me/+905412581486" class="text-dark">0541 258 1486</a>  /  <a href="https://wa.me/+905415650927" class="text-dark">0541 565 0927</a></p>
                 
             </div>
           </div><!-- End Info Item -->
@@ -50,11 +50,11 @@
 
         <div class="row gy-4 mt-1">
 
-          <div class="col-lg-6 ">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d95929.57580664019!2d36.3136985!3d41.2914735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x408877e97607d663%3A0xb939cc265fdeb52!2sSamsun!5e0!3m2!1str!2str!4v1692531777283!5m2!1str!2str" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <div class="col-lg-12 ">
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d95929.57580664019!2d36.3136985!3d41.2914735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x408877e97607d663%3A0xb939cc265fdeb52!2sSamsun!5e0!3m2!1str!2str!4v1692531777283!5m2!1str!2str" class="w-100" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div><!-- End Google Maps -->
 
-          <div class="col-lg-6">
+        <%--  <div class="col-lg-6">
               <div class="row gy-4 mt-1">
                 <div class="col-lg-6 mt-2 form-group">
                   <input type="text" name="name" class="form-control" id="name" placeholder="İsim" required>
@@ -73,7 +73,7 @@
                
               </div>
               <div class="text-center"><button type="submit" class="btn btn-success">Mesaj Gönder</button></div>
-          </div><!-- End Contact Form -->
+          </div>--%><!-- End Contact Form -->
 
         </div>
 

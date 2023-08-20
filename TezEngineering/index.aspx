@@ -166,19 +166,18 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                   <%-- <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="service-item d-flex position-relative text-center h-100">
                             <img class="bg-img" src="Assets/img/HomePageImg/ENERJİ.png" alt="">
                             <div class="service-text p-5">
                                 <div class="bg-dark-subtle opacity-75 rounded-top-pill">
-                                    <%--<img class="mb-4" src="Assets/img/icons/icon-6.png" alt="Icon">--%>
                                     <i class="fa-solid fa-cubes"></i>
                                     <h3 class="mb-3">Enerji Projeleri</h3>
                                 </div>
                                 <p class="mb-4 opacity-0">Enerji projeleriyle sürdürülebilir geleceğe katkı sağlıyoruz. Uzman ekibimiz ve yenilikçi çözümlerimizle, güneş, rüzgar, hidroelektrik ve diğer enerji kaynaklarına dayalı projelerinizi hayata geçiriyoruz. Enerji verimliliği, çevresel uyumluluk ve maliyet etkinliği odaklı çözümler sunuyoruz.</p>
                             </div>
                         </div>
-                    </div>
+                    </div>--%>
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="service-item d-flex position-relative text-center h-100">
                             <img class="bg-img" src="Assets/img/HomePageImg/PROYE TAKİP.png" alt="">
@@ -379,8 +378,8 @@
                         <i class="fa-solid fa-minus"></i>
                         <li data-filter=".filter-3BArchitecture">3B Mimari</li>
                         <i class="fa-solid fa-minus"></i>
-                        <li data-filter=".filter-energyProjects">Enerji Projeleri</li>
-                        <i class="fa-solid fa-minus"></i>
+                       <%-- <li data-filter=".filter-energyProjects">Enerji Projeleri</li>
+                        <i class="fa-solid fa-minus"></i>--%>
                         <li data-filter=".filter-planningAndProjectTracking">Planlama ve Proje Takibi</li>
                         <i class="fa-solid fa-minus"></i>
                         <li data-filter=".filter-DigitalPhotogramMetricmapsg">Sayısal Fotogrametrik Haritalar</li>
@@ -513,7 +512,7 @@
                         </div>
                         <!-- End Projects Item -->
 
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-energyProjects">
+                       <%-- <div class="col-lg-4 col-md-6 portfolio-item filter-energyProjects">
                             <div class="portfolio-content h-100">
                                 <img src="Assets/img/HomePageImg/ENERJİ.png" class="img-fluid" alt="">
                                 <div class="portfolio-info">
@@ -532,7 +531,7 @@
                                     <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
-                        </div>
+                        </div>--%>
 
                         <div class="col-lg-4 col-md-6 portfolio-item filter-planningAndProjectTracking">
                             <div class="portfolio-content h-100">

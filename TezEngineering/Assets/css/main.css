@@ -44,7 +44,7 @@ a {
 }
 
     a:hover {
-        color: #ffc732;
+        color: rgba(17,82,153);
         text-decoration: none;
     }
 
@@ -2773,3 +2773,4 @@ section {
 }
 .Desc p {
 }
+

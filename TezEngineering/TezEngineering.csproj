@@ -73,6 +73,8 @@
     <Content Include="Assets\animate\animate.min.css" />
     <Content Include="Assets\css\main.css" />
     <Content Include="Assets\img\2.png" />
+    <Content Include="Assets\img\HomePageImg\1logom.png" />
+    <Content Include="Assets\img\HomePageImg\Appsoly.jpg" />
     <Content Include="Assets\img\HomePageImg\planalamatakip.png" />
     <Content Include="Assets\img\Services\3bplan.png" />
     <Content Include="Assets\img\Adsız tasarım.png" />
