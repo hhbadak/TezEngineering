@@ -85,125 +85,125 @@
     <main id="main">
 
 
+           <%--<!-- Button trigger modal -->
+   <button type="button" class="btn btn-primary" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+       
+   </button>
 
+   <!-- Modal -->
+   <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+       <div class="modal-dialog">
+           <div class="modal-content">
+               <div class="modal-header">
+                   <h5 class="modal-title" id="staticBackdropLabel">Modal title</h5>
+                   <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+               </div>
+               <div class="modal-body">
+                   ...
+               </div>
+               <div class="modal-footer">
+                   <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                   <button type="button" class="btn btn-primary">Understood</button>
+               </div>
+           </div>
+       </div>
+   </div>--%>
         <!-- ======= Services Section ======= -->
         <div class="container-xxl py-5">
             <div class="container">
 
                 <div class="row g-4">
-                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                            <div class="service-item d-flex position-relative text-center h-100">
-                    <!-- Button trigger modal -->
-                    <button type="button" class="btn btn-primary" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
-                                <img class="bg-img" src="Assets/img/Services/kadastroImage.png" alt="">
-                    </button>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="service-item d-flex position-relative text-center h-100">
+                         <img class="bg-img" src="Assets/img/Services/kadastroImage.png" alt="">
+                    <div class="service-text p-5">
+                        <div class="bg-dark-subtle opacity-75 rounded-top-pill">
+                            <i class="fa-solid fa-mountain-city"></i>
+                            <h3 class="mb-3">Kadastro Projeleri</h3>
+                        </div>
+                        <p class="mb-4 opacity-0">
+                            İnşaat hizmetlerimizle hayallerinizin gerçeğe dönüşmesini sağlıyoruz. Tasarım, inşa ve bakım aşamalarında profesyonel ekibimizle kaliteli ve güvenilir yapılar oluşturuyoruz. Projenizin her adımında yanınızda olmaktan mutluluk duyarız.
+                        </p>
+                    </div>
+                        </div>
+                    </div>
 
-                    <!-- Modal -->
-                    <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
-                        <div class="modal-dialog">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title" id="staticBackdropLabel">Modal title</h5>
-                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="service-item d-flex position-relative text-center h-100">
+                            <img class="bg-img" src="Assets/img/HomePageImg/inşaat ölçüm.png" alt="">
+                            <div class="service-text p-5">
+                                <div class="bg-dark-subtle opacity-75 rounded-top-pill">
+                                    <i class="fa-solid fa-kaaba"></i>
+                                    <h3 class="mb-3">Üst Yapı Ölçü Hizmetleri</h3>
                                 </div>
-                                <div class="modal-body">
-                                    ...
+                                <p class="mb-4 opacity-0">Altyapı ölçümleriyle projelerinizde kesinlik ve doğruluk sağlıyoruz. Uzman ekip ve ileri teknoloji kullanarak, yol, köprü, bina ve altyapı projeleriniz için hassas ve detaylı ölçüm hizmetleri sunuyoruz. Başarılı projelerinizin temelini atmak için bizimle çalışın.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="service-item d-flex position-relative text-center h-100">
+                            <img class="bg-img" src="Assets/img/HomePageImg/altyapı.png" alt="">
+                            <div class="service-text p-5">
+                                <div class="bg-dark-subtle opacity-75 rounded-top-pill">
+                                    <i class="fa-solid fa-compass-drafting"></i>
+                                    <h3 class="mb-3">Altyapı Ölçü Hizmetleri</h3>
                                 </div>
-                                <div class="modal-footer">
-                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                                    <button type="button" class="btn btn-primary">Understood</button>
+                                <p class="mb-4 opacity-0">Kadastro projeleriyle mülkiyetinizi güvence altına alıyoruz. Uzman kadromuz ve detaylı analizlerimizle, arazi ve gayrimenkul projeleriniz için kapsamlı kadastro hizmetleri sunuyoruz. Doğru sınırlar, net belgeler ve yasal uyumluluk için bize güvenin.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="service-item d-flex position-relative text-center h-100">
+                            <img class="bg-img" src="Assets/img/HomePageImg/halihazır.jpg" alt="">
+                            <div class="service-text p-5">
+                                <div class="bg-dark-subtle opacity-75 rounded-top-pill">
+                                    <i class="fa-solid fa-map-location-dot"></i>
+                                    <h3 class="mb-3">Halihazır Harita Üretimi</h3>
                                 </div>
+                                <p class="mb-4 opacity-0">"Halihazır harita yapımıyla projelerinizi gerçek dünyaya taşıyoruz. Uzman ekibimiz ve modern teknolojimizle, detaylı ve doğru haritalar oluşturuyoruz. Planlama, tasarım ve analiz süreçlerinizi destekleyerek, projelerinizin temelini sağlamlaştırıyoruz.</p>
                             </div>
                         </div>
                     </div>
-                </div>
-                </div>
-
-
-
-                    
-
-
-
-                     <div class="service-text p-5">
-                         <div class="bg-dark-subtle opacity-75 rounded-top-pill">
-                             <i class="fa-solid fa-mountain-city"></i>
-                             <h3 class="mb-3">Kadastro Projeleri</h3>
-                         </div>
-                         <p class="mb-4 opacity-0">
-                             İnşaat hizmetlerimizle hayallerinizin gerçeğe dönüşmesini sağlıyoruz. Tasarım, inşa ve bakım aşamalarında profesyonel ekibimizle kaliteli ve güvenilir yapılar oluşturuyoruz. Projenizin her adımında yanınızda olmaktan mutluluk duyarız.
-                         </p>
-                     </div>
-
-
-
-
-
-
-
-
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="service-item d-flex position-relative text-center h-100">
-                        <img class="bg-img" src="Assets/img/HomePageImg/inşaat ölçüm.png" alt="">
-                        <div class="service-text p-5">
-                            <div class="bg-dark-subtle opacity-75 rounded-top-pill">
-                                <i class="fa-solid fa-kaaba"></i>
-                                <h3 class="mb-3">Üst Yapı Ölçü Hizmetleri</h3>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="service-item d-flex position-relative text-center h-100">
+                            <img class="bg-img" src="Assets/img/HomePageImg/DRONE.png" alt="">
+                            <div class="service-text p-5">
+                                <div class="bg-dark-subtle opacity-75 rounded-top-pill">
+                                    <i class="fa-solid fa-landmark"></i>
+                                    <h3 class="mb-3">IHA İle Haritalama</h3>
+                                </div>
+                                <p class="mb-4 opacity-0">IHA ile haritalama hizmetimizle projelerinizi yükseklikten gözlemleyerek detaylı veriler sağlıyoruz. İleri teknolojiye sahip İHA'larımızla hızlı, hassas ve etkileyici haritalar oluşturuyoruz. Projenizin her aşamasında doğru verilere dayalı kararlar almanızı sağlıyoruz.</p>
                             </div>
-                            <p class="mb-4 opacity-0">Altyapı ölçümleriyle projelerinizde kesinlik ve doğruluk sağlıyoruz. Uzman ekip ve ileri teknoloji kullanarak, yol, köprü, bina ve altyapı projeleriniz için hassas ve detaylı ölçüm hizmetleri sunuyoruz. Başarılı projelerinizin temelini atmak için bizimle çalışın.</p>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="service-item d-flex position-relative text-center h-100">
-                        <img class="bg-img" src="Assets/img/HomePageImg/altyapı.png" alt="">
-                        <div class="service-text p-5">
-                            <div class="bg-dark-subtle opacity-75 rounded-top-pill">
-                                <i class="fa-solid fa-compass-drafting"></i>
-                                <h3 class="mb-3">Altyapı Ölçü Hizmetleri</h3>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="service-item d-flex position-relative text-center h-100">
+                            <img class="bg-img" src="Assets/img/HomePageImg/fotogrametrikHaritalar.png" alt="">
+                            <div class="service-text p-5">
+                                <div class="bg-dark-subtle opacity-75 rounded-top-pill">
+                                    <%--<img class="mb-4" src="Assets/img/icons/icon-6.png" alt="Icon">--%>
+                                    <i class="fa-solid fa-cubes"></i>
+                                    <h3 class="mb-3">Fotogrametrik Haritalar</h3>
+                                </div>
+                                <p class="mb-4 opacity-0">3B mimari hizmetimizle projelerinizi gerçeğe dönüştürüyoruz. İleri teknoloji kullanarak detaylı 3 boyutlu tasarımlar oluşturuyoruz. Gerçekçi görseller, animasyonlar ve sanal turlarla projelerinizi hayata geçirmeden önce görsel bir deneyim sunuyoruz.</p>
                             </div>
-                            <p class="mb-4 opacity-0">Kadastro projeleriyle mülkiyetinizi güvence altına alıyoruz. Uzman kadromuz ve detaylı analizlerimizle, arazi ve gayrimenkul projeleriniz için kapsamlı kadastro hizmetleri sunuyoruz. Doğru sınırlar, net belgeler ve yasal uyumluluk için bize güvenin.</p>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="service-item d-flex position-relative text-center h-100">
-                        <img class="bg-img" src="Assets/img/HomePageImg/halihazır.jpg" alt="">
-                        <div class="service-text p-5">
-                            <div class="bg-dark-subtle opacity-75 rounded-top-pill">
-                                <i class="fa-solid fa-map-location-dot"></i>
-                                <h3 class="mb-3">Halihazır Harita Üretimi</h3>
-                            </div>
-                            <p class="mb-4 opacity-0">"Halihazır harita yapımıyla projelerinizi gerçek dünyaya taşıyoruz. Uzman ekibimiz ve modern teknolojimizle, detaylı ve doğru haritalar oluşturuyoruz. Planlama, tasarım ve analiz süreçlerinizi destekleyerek, projelerinizin temelini sağlamlaştırıyoruz.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="service-item d-flex position-relative text-center h-100">
-                        <img class="bg-img" src="Assets/img/HomePageImg/DRONE.png" alt="">
-                        <div class="service-text p-5">
-                            <div class="bg-dark-subtle opacity-75 rounded-top-pill">
-                                <i class="fa-solid fa-landmark"></i>
-                                <h3 class="mb-3">IHA İle Haritalama</h3>
-                            </div>
-                            <p class="mb-4 opacity-0">IHA ile haritalama hizmetimizle projelerinizi yükseklikten gözlemleyerek detaylı veriler sağlıyoruz. İleri teknolojiye sahip İHA'larımızla hızlı, hassas ve etkileyici haritalar oluşturuyoruz. Projenizin her aşamasında doğru verilere dayalı kararlar almanızı sağlıyoruz.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="service-item d-flex position-relative text-center h-100">
-                        <img class="bg-img" src="Assets/img/HomePageImg/fotogrametrikHaritalar.png" alt="">
-                        <div class="service-text p-5">
-                            <div class="bg-dark-subtle opacity-75 rounded-top-pill">
-                                <%--<img class="mb-4" src="Assets/img/icons/icon-6.png" alt="Icon">--%>
-                                <i class="fa-solid fa-cubes"></i>
-                                <h3 class="mb-3">Fotogrametrik Haritalar</h3>
-                            </div>
-                            <p class="mb-4 opacity-0">3B mimari hizmetimizle projelerinizi gerçeğe dönüştürüyoruz. İleri teknoloji kullanarak detaylı 3 boyutlu tasarımlar oluşturuyoruz. Gerçekçi görseller, animasyonlar ve sanal turlarla projelerinizi hayata geçirmeden önce görsel bir deneyim sunuyoruz.</p>
-                        </div>
-                    </div>
-                </div>
-                <%-- <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <%-- <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="service-item d-flex position-relative text-center h-100">
                             <img class="bg-img" src="Assets/img/HomePageImg/ENERJİ.png" alt="">
                             <div class="service-text p-5">
@@ -215,32 +215,32 @@
                             </div>
                         </div>
                     </div>--%>
-                <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="service-item d-flex position-relative text-center h-100">
-                        <img class="bg-img" src="Assets/img/HomePageImg/3B MİMARİ.png" alt="">
-                        <div class="service-text p-5">
-                            <div class="bg-dark-subtle opacity-75 rounded-top-pill">
-                                <%--<img class="mb-4" src="Assets/img/icons/icon-6.png" alt="Icon">--%>
-                                <i class="fa-solid fa-cubes"></i>
-                                <h3 class="mb-3">3B Mimari</h3>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="service-item d-flex position-relative text-center h-100">
+                            <img class="bg-img" src="Assets/img/HomePageImg/3B MİMARİ.png" alt="">
+                            <div class="service-text p-5">
+                                <div class="bg-dark-subtle opacity-75 rounded-top-pill">
+                                    <%--<img class="mb-4" src="Assets/img/icons/icon-6.png" alt="Icon">--%>
+                                    <i class="fa-solid fa-cubes"></i>
+                                    <h3 class="mb-3">3B Mimari</h3>
+                                </div>
+                                <p class="mb-4 opacity-0">Planlama ve proje takibi hizmetimizle projelerinizin başarısını garanti altına alıyoruz. Deneyimli ekip ve etkili yönetim süreçleriyle, projelerinizi başlangıçtan sona kadar titizlikle takip ediyor, bütçe ve zaman çerçevesini kontrol altında tutuyoruz. Başarılı sonuçlar için profesyonel destek sağlıyoruz.</p>
                             </div>
-                            <p class="mb-4 opacity-0">Planlama ve proje takibi hizmetimizle projelerinizin başarısını garanti altına alıyoruz. Deneyimli ekip ve etkili yönetim süreçleriyle, projelerinizi başlangıçtan sona kadar titizlikle takip ediyor, bütçe ve zaman çerçevesini kontrol altında tutuyoruz. Başarılı sonuçlar için profesyonel destek sağlıyoruz.</p>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="service-item d-flex position-relative text-center h-100">
-                        <img class="bg-img" src="Assets/img/Services/imarapp.jpg" alt="">
-                        <div class="service-text p-5">
-                            <div class="bg-dark-subtle opacity-75 rounded-top-pill">
-                                <%--<img class="mb-4" src="Assets/img/icons/icon-6.png" alt="Icon">--%>
-                                <i class="fa-solid fa-location-crosshairs"></i>
-                                <h3 class="mb-3">İmar Uygulamaları</h3>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="service-item d-flex position-relative text-center h-100">
+                            <img class="bg-img" src="Assets/img/Services/imarapp.jpg" alt="">
+                            <div class="service-text p-5">
+                                <div class="bg-dark-subtle opacity-75 rounded-top-pill">
+                                    <%--<img class="mb-4" src="Assets/img/icons/icon-6.png" alt="Icon">--%>
+                                    <i class="fa-solid fa-location-crosshairs"></i>
+                                    <h3 class="mb-3">İmar Uygulamaları</h3>
+                                </div>
+                                <p class="mb-4 opacity-0">İmar uygulamaları, şehir ve bölge planlarının uygulanmasını sağlayan düzenlemeler ve işlemlerdir. İmar uygulamaları, planlama kararlarının somut bir şekilde hayata geçirilmesini ve yapılaşma sürecinin yönetilmesini amaçlar.</p>
                             </div>
-                            <p class="mb-4 opacity-0">İmar uygulamaları, şehir ve bölge planlarının uygulanmasını sağlayan düzenlemeler ve işlemlerdir. İmar uygulamaları, planlama kararlarının somut bir şekilde hayata geçirilmesini ve yapılaşma sürecinin yönetilmesini amaçlar.</p>
                         </div>
                     </div>
-                </div>
                 </div>
             </div>
         </div>
