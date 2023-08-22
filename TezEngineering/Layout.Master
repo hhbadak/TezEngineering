@@ -69,44 +69,31 @@
                 <nav id="navbar" class="navbar">
                     <ul>
                         <li><a href="index.aspx" class="active">Anasayfa</a></li>
-                        <li>
-                            <div class="dropdown">
-                                <button class="btn text-light dropdown-toggle" type="button" id="dropdownMenuButton2" data-bs-toggle="dropdown" aria-expanded="false">
-                                    Kurumsal
-                                </button>
-                                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-                                    <li><a class="dropdown-item" href="about.aspx">Hakkımızda</a></li>
-                                </ul>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="dropdown">
-                                <button class="btn text-light dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
-                                    Hizmetlerimiz
-                                </button>
-                                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-                                    <li><a class="dropdown-item" href="CurrentMapMaking.aspx">Halihazır Harita Üretimi</a></li>
-                                    <li><a class="dropdown-item" href="CadastreProjects.aspx">Kadastro Hizmetleri</a></li>
-                                    <li><a class="dropdown-item" href="ConstructionServices.aspx">Endüstiriyel Yapılar Ve Şantiye Hizmetleri</a></li>
-                                    <li><a class="dropdown-item" href="InfrastructureMetrics.aspx">Altyapı Ölçüm Hizmetleri</a></li>
-                                    <li><a class="dropdown-item" href="DigitalPhotogramMetric maps.aspx">Sayısal Fotogrametrik Haritaları</a></li>
-                                    <li><a class="dropdown-item" href="ZoningApplications.aspx">İmar Uygulamaları</a></li>
-                                </ul>
-                            </div>
-                        </li>
-                        <li><a href="MappingWithIHA.aspx">İHA İLE HARİTALAMA</a></li>
-                        <div class="dropdown">
-                            <button class="btn text-light dropdown-toggle" type="button" id="dropdownMenuButton3" data-bs-toggle="dropdown" aria-expanded="false">
-                                MİMARİ
-                            </button>
-                            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton3">
-                                <li><a class="dropdown-item" href="3DArchitecturalProjectDigitization.aspx">3 Boyutlu Mimari Proje Sayısallaştırma</a></li>
-                                <li><a class="dropdown-item" href="CityAndRegionPlanning.aspx">Şehir Ve Bölge Planlama </a></li>
-                                <li><a class="dropdown-item" href="PlanningAndProjectTracking.aspx">Planlama Ve Proje Takibi</a></li>
+                        <li class="dropdown"><a href="#"><span class="text-white">Kurumsal</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+                            <ul>
+                                <li><a href="about.aspx">Hakkımızda</a></li>
                             </ul>
-                        </div>
-
-                        <li><a href="contact.aspx">İletİşİm</a></li>
+                        </li>
+                        <li class="dropdown"><a href="#"><span class="text-white">Hizmetlerimiz</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+                            <ul>
+                                <li><a href="CurrentMapMaking.aspx">Halihazır Harita Üretimi</a></li>
+                                <li><a href="CadastreProjects.aspx">Kadastro Hizmetleri</a></li>
+                                <li><a href="ConstructionServices.aspx">Endüstiriyel Yapılar Ve Şantiye Hizmetleri</a></li>
+                                <li><a href="InfrastructureMetrics.aspx">Altyapı Ölçüm Hizmetleri</a></li>
+                                <li><a href="DigitalPhotogramMetric maps.aspx">Sayısal Fotogrametrik Haritaları</a></li>
+                                <li><a href="ZoningApplications.aspx">İmar Uygulamaları</a></li>
+                            </ul>
+                        </li>
+                        <li></li>
+                        <li><a href="MappingWithIHA.aspx" class="text-white">İHA İLE HARİTALAMA</a></li>
+                        <li class="dropdown"><a href="#"><span class="text-white"> MİMARİ</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+                            <ul>
+                                <li><a href="3DArchitecturalProjectDigitization.aspx">3 Boyutlu Mimari Proje Sayısallaştırma</a></li>
+                                <li><a href="CityAndRegionPlanning.aspx">Şehir Ve Bölge Planlama</a></li>
+                                <li><a href="PlanningAndProjectTracking.aspx">Planlama Ve Proje Takibi</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="contact.aspx" class="text-white">İletİşİm</a></li>
                     </ul>
                 </nav>
                 <!-- .navbar -->

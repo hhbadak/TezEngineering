@@ -2671,7 +2671,9 @@ section {
     font-size: 20pt;
     color: rgba(17,82,153);
 }
-
+.service-item {
+    margin-top:70px;
+}
 .service-item .bg-img {
     position: absolute;
     width: 100%;
@@ -2711,7 +2713,6 @@ section {
     display: inline-flex;
     align-items: center;
     color: var(--dark);
-    background: #FFFFFF;
     white-space: nowrap;
     overflow: hidden;
     transition: .5s;
@@ -2781,4 +2782,12 @@ section {
 .project-thumb-image {
     width: 326px !important;
     height: 237px !important;
+}
+.modal-header h5{
+    color:blue;
+}
+.modal-body {
+    background-color:silver;
+    color:whitesmoke;
+    font-weight:900
 }

@@ -101,24 +101,22 @@
                                 </div>
                                 <p class="mb-4 opacity-0">
                                     <!-- Button trigger modal -->
-                                    <button type="button" class="btn btn-primary" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
-                                        Detaylar..
+                                    <button type="button" class="btn btn-primary text-white btn-modal" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                                        Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size:12pt"></i>
                                     </button>
-
                                     <!-- Modal -->
-                                    <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
-                                        <div class="modal-dialog">
-                                            <div class="modal-content">
+                                    <div class="modal fade mt-5" style="margin-top: 200px !important" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                                        <div class="modal-dialog ">
+                                            <div class="modal-content mt-5">
                                                 <div class="modal-header">
-                                                    <h5 class="modal-title" id="staticBackdropLabel">Modal title</h5>
+                                                    <h5 class="modal-title" id="staticBackdropLabel">Kadastro Projeleri</h5>
+                                                    <img src="Assets/img/HomePageImg/1logom.png"  width="50" />
                                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                                 </div>
                                                 <div class="modal-body">
-                                                    ...aasdadasdasdasdasda
+                                                    Kadastro projeleri mülkiyet ve mülkiyet haklarıyla ilgili bilgilerin kaydedildiği ve yönetildiği projelerdir. Kadastro, arazi ve taşınmaz mülkiyetin düzenlenmesi ve kaydedilmesi için kullanılan bir süreçtir. Kadastro projeleri, genellikle bir ülkenin veya bölgenin topraklarını kapsayan kapsamlı haritalar ve kayıt sistemleri oluşturmayı amaçlar.
                                                 </div>
-                                                <div class="modal-footer">
-                                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                                                </div>
+
                                             </div>
                                         </div>
                                     </div>
@@ -126,20 +124,6 @@
                             </div>
                         </div>
                     </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="service-item d-flex position-relative text-center h-100">
@@ -149,7 +133,28 @@
                                     <i class="fa-solid fa-kaaba"></i>
                                     <h3 class="mb-3">Üst Yapı Ölçü Hizmetleri</h3>
                                 </div>
-                                <p class="mb-4 opacity-0">Altyapı ölçümleriyle projelerinizde kesinlik ve doğruluk sağlıyoruz. Uzman ekip ve ileri teknoloji kullanarak, yol, köprü, bina ve altyapı projeleriniz için hassas ve detaylı ölçüm hizmetleri sunuyoruz. Başarılı projelerinizin temelini atmak için bizimle çalışın.</p>
+                                <p class="mb-4 opacity-0">
+                                    <!-- Button trigger modal -->
+                                    <button type="button" class="btn btn-primary text-white btn-modal" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdrop2">
+                                        Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size:12pt"></i>
+                                    </button>
+                                    <!-- Modal -->
+                                    <div class="modal fade mt-5" style="margin-top: 200px !important" id="staticBackdrop2" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel2" aria-hidden="true">
+                                        <div class="modal-dialog ">
+                                            <div class="modal-content mt-5">
+                                                <div class="modal-header">
+                                                    <h5 class="modal-title" id="staticBackdropLabel2">Üst Yapı Ölçü Hizmetleri</h5>
+                                                    <img src="Assets/img/HomePageImg/1logom.png"  width="50" />
+                                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                                </div>
+                                                <div class="modal-body">
+                                                    Üst yapı ölçüm hizmetleri, inşaat projeleri ve altyapı geliştirmeleri için önemli bir hizmettir. Bu hizmet, arazi üzerindeki mevcut yapıların ve detayların hassas ölçümlerini içerir. Üst yapı ölçümü, bir yapının geometrik verilerini elde etmek, planlanan inşaat projelerini gerçek dünya koordinatlarına yerleştirmek ve inşaat sürecinde hassas konumlandırma sağlamak için kullanılır.
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -161,7 +166,28 @@
                                     <i class="fa-solid fa-compass-drafting"></i>
                                     <h3 class="mb-3">Altyapı Ölçü Hizmetleri</h3>
                                 </div>
-                                <p class="mb-4 opacity-0">Kadastro projeleriyle mülkiyetinizi güvence altına alıyoruz. Uzman kadromuz ve detaylı analizlerimizle, arazi ve gayrimenkul projeleriniz için kapsamlı kadastro hizmetleri sunuyoruz. Doğru sınırlar, net belgeler ve yasal uyumluluk için bize güvenin.</p>
+                                <p class="mb-4 opacity-0">
+                                    <!-- Button trigger modal -->
+                                    <button type="button" class="btn btn-primary text-white btn-modal" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdrop3">
+                                        Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size:12pt"></i>
+                                    </button>
+                                    <!-- Modal -->
+                                    <div class="modal fade mt-5" style="margin-top: 200px !important" id="staticBackdrop3" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel3" aria-hidden="true">
+                                        <div class="modal-dialog ">
+                                            <div class="modal-content mt-5">
+                                                <div class="modal-header">
+                                                    <h5 class="modal-title" id="staticBackdropLabel3">Altyapı Ölçü Hizmetleri</h5>
+                                                    <img src="Assets/img/HomePageImg/1logom.png"  width="50" />
+                                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                                </div>
+                                                <div class="modal-body">
+                                                    Altyapı ölçümleriyle projelerinizde kesinlik ve doğruluk sağlıyoruz. Uzman ekip ve ileri teknoloji kullanarak, yol, köprü, bina ve altyapı projeleriniz için hassas ve detaylı ölçüm hizmetleri sunuyoruz. Başarılı projelerinizin temelini atmak için bizimle çalışın. 
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -173,7 +199,29 @@
                                     <i class="fa-solid fa-map-location-dot"></i>
                                     <h3 class="mb-3">Halihazır Harita Üretimi</h3>
                                 </div>
-                                <p class="mb-4 opacity-0">"Halihazır harita yapımıyla projelerinizi gerçek dünyaya taşıyoruz. Uzman ekibimiz ve modern teknolojimizle, detaylı ve doğru haritalar oluşturuyoruz. Planlama, tasarım ve analiz süreçlerinizi destekleyerek, projelerinizin temelini sağlamlaştırıyoruz.</p>
+                                <p class="mb-4 opacity-0">
+
+                                    <!-- Button trigger modal -->
+                                    <button type="button" class="btn btn-primary text-white btn-modal" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdrop4">
+                                        Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size:12pt"></i>
+                                    </button>
+                                    <!-- Modal -->
+                                    <div class="modal fade mt-5" style="margin-top: 200px !important" id="staticBackdrop4" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel4" aria-hidden="true">
+                                        <div class="modal-dialog ">
+                                            <div class="modal-content mt-5">
+                                                <div class="modal-header">
+                                                    <h5 class="modal-title" id="staticBackdropLabel4">Halihazır Harita Üretimi</h5>
+                                                    <img src="Assets/img/HomePageImg/1logom.png"  width="50" />
+                                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                                </div>
+                                                <div class="modal-body">
+                                                    Halihazır harita yapımıyla projelerinizi gerçek dünyaya taşıyoruz. Uzman ekibimiz ve modern teknolojimizle, detaylı ve doğru haritalar oluşturuyoruz. Planlama, tasarım ve analiz süreçlerinizi destekleyerek, projelerinizin temelini sağlamlaştırıyoruz.
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -185,7 +233,27 @@
                                     <i class="fa-solid fa-landmark"></i>
                                     <h3 class="mb-3">IHA İle Haritalama</h3>
                                 </div>
-                                <p class="mb-4 opacity-0">IHA ile haritalama hizmetimizle projelerinizi yükseklikten gözlemleyerek detaylı veriler sağlıyoruz. İleri teknolojiye sahip İHA'larımızla hızlı, hassas ve etkileyici haritalar oluşturuyoruz. Projenizin her aşamasında doğru verilere dayalı kararlar almanızı sağlıyoruz.</p>
+                                <p class="mb-4 opacity-0">
+                                    <button type="button" class="btn btn-primary text-white btn-modal" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdrop5">
+                                        Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size:12pt"></i>
+                                    </button>
+                                    <!-- Modal -->
+                                    <div class="modal fade mt-5" style="margin-top: 200px !important" id="staticBackdrop5" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel5" aria-hidden="true">
+                                        <div class="modal-dialog ">
+                                            <div class="modal-content mt-5">
+                                                <div class="modal-header">
+                                                    <h5 class="modal-title" id="staticBackdropLabel5">IHA İle Haritalama</h5>
+                                                    <img src="Assets/img/HomePageImg/1logom.png"  width="50" />
+                                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                                </div>
+                                                <div class="modal-body">
+                                                    IHA ile haritalama hizmetimizle projelerinizi yükseklikten gözlemleyerek detaylı veriler sağlıyoruz. İleri teknolojiye sahip İHA'larımızla hızlı, hassas ve etkileyici haritalar oluşturuyoruz. Projenizin her aşamasında doğru verilere dayalı kararlar almanızı sağlıyoruz.
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -198,10 +266,32 @@
                                     <i class="fa-solid fa-cubes"></i>
                                     <h3 class="mb-3">Fotogrametrik Haritalar</h3>
                                 </div>
-                                <p class="mb-4 opacity-0">3B mimari hizmetimizle projelerinizi gerçeğe dönüştürüyoruz. İleri teknoloji kullanarak detaylı 3 boyutlu tasarımlar oluşturuyoruz. Gerçekçi görseller, animasyonlar ve sanal turlarla projelerinizi hayata geçirmeden önce görsel bir deneyim sunuyoruz.</p>
+                                <p class="mb-4 opacity-0">
+                                    <button type="button" class="btn btn-primary text-white btn-modal" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdrop6">
+                                        Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size:12pt"></i>
+                                    </button>
+                                    <!-- Modal -->
+                                    <div class="modal fade mt-5" style="margin-top: 200px !important" id="staticBackdrop6" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel6" aria-hidden="true">
+                                        <div class="modal-dialog ">
+                                            <div class="modal-content mt-5">
+                                                <div class="modal-header">
+                                                    <h5 class="modal-title" id="staticBackdropLabel6">Fotogrametrik Haritalar</h5>
+                                                    <img src="Assets/img/HomePageImg/1logom.png"  width="50" />
+                                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                                </div>
+                                                <div class="modal-body">
+                                                    Fotogrametrik haritalar, havadan veya uzaktan algılama teknikleri kullanılarak elde edilen verilerin işlenmesiyle oluşturulan haritalardır. Fotogrametri, fotoğraf veya görüntüleri kullanarak nesnelerin ve yüzeylerin ölçülmesi ve haritalandırılmasıyla ilgilenen bir iş dalıdır.
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </p>
                             </div>
                         </div>
                     </div>
+
+
                     <%-- <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="service-item d-flex position-relative text-center h-100">
                             <img class="bg-img" src="Assets/img/HomePageImg/ENERJİ.png" alt="">
@@ -214,6 +304,9 @@
                             </div>
                         </div>
                     </div>--%>
+
+
+
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="service-item d-flex position-relative text-center h-100">
                             <img class="bg-img" src="Assets/img/HomePageImg/3B MİMARİ.png" alt="">
@@ -223,7 +316,27 @@
                                     <i class="fa-solid fa-cubes"></i>
                                     <h3 class="mb-3">3B Mimari</h3>
                                 </div>
-                                <p class="mb-4 opacity-0">Planlama ve proje takibi hizmetimizle projelerinizin başarısını garanti altına alıyoruz. Deneyimli ekip ve etkili yönetim süreçleriyle, projelerinizi başlangıçtan sona kadar titizlikle takip ediyor, bütçe ve zaman çerçevesini kontrol altında tutuyoruz. Başarılı sonuçlar için profesyonel destek sağlıyoruz.</p>
+                                <p class="mb-4 opacity-0">
+                                    <button type="button" class="btn btn-primary text-white btn-modal" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdrop7">
+                                        Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size:12pt"></i>
+                                    </button>
+                                    <!-- Modal -->
+                                    <div class="modal fade mt-5" style="margin-top: 200px !important" id="staticBackdrop7" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel7" aria-hidden="true">
+                                        <div class="modal-dialog ">
+                                            <div class="modal-content mt-5">
+                                                <div class="modal-header">
+                                                    <h5 class="modal-title" id="staticBackdropLabel7">3B Mimari</h5>
+                                                    <img src="Assets/img/HomePageImg/1logom.png"  width="50" />
+                                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                                </div>
+                                                <div class="modal-body">
+                                                    3B mimari hizmetimizle projelerinizi gerçeğe dönüştürüyoruz. İleri teknoloji kullanarak detaylı 3 boyutlu tasarımlar oluşturuyoruz. Gerçekçi görseller, animasyonlar ve sanal turlarla projelerinizi hayata geçirmeden önce görsel bir deneyim sunuyoruz.
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -236,7 +349,27 @@
                                     <i class="fa-solid fa-location-crosshairs"></i>
                                     <h3 class="mb-3">İmar Uygulamaları</h3>
                                 </div>
-                                <p class="mb-4 opacity-0">İmar uygulamaları, şehir ve bölge planlarının uygulanmasını sağlayan düzenlemeler ve işlemlerdir. İmar uygulamaları, planlama kararlarının somut bir şekilde hayata geçirilmesini ve yapılaşma sürecinin yönetilmesini amaçlar.</p>
+                                <p class="mb-4 opacity-0">
+                                    <button type="button" class="btn btn-primary text-white btn-modal" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdrop8">
+                                        Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size:12pt"></i>
+                                    </button>
+                                    <!-- Modal -->
+                                    <div class="modal fade mt-5" style="margin-top: 200px !important" id="staticBackdrop8" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel8" aria-hidden="true">
+                                        <div class="modal-dialog ">
+                                            <div class="modal-content mt-5">
+                                                <div class="modal-header">
+                                                    <h5 class="modal-title" id="staticBackdropLabel8">İmar Uygulamaları</h5>
+                                                    <img src="Assets/img/HomePageImg/1logom.png"  width="50" />
+                                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                                </div>
+                                                <div class="modal-body">
+                                                    İmar uygulamaları, şehir ve bölge planlarının uygulanmasını sağlayan düzenlemeler ve işlemlerdir. İmar uygulamaları, planlama kararlarının somut bir şekilde hayata geçirilmesini ve yapılaşma sürecinin yönetilmesini amaçlar.
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </p>
                             </div>
                         </div>
                     </div>
