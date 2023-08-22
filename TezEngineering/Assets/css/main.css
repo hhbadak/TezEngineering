@@ -882,7 +882,6 @@ section {
         line-height: 1;
         margin-bottom: 5px;
         transition: all 0.3s ease-in-out;
-        
     }
 
         .projects .portfolio-flters li:hover,
@@ -2676,8 +2675,8 @@ section {
 .service-item .bg-img {
     position: absolute;
     width: 100%;
-    height: 100%;
-    object-fit: cover;
+    height: auto;
+    object-fit: contain;
     z-index: -1;
 }
 
@@ -2766,11 +2765,17 @@ section {
     border: 1px solid #ccc;
     background-color: #fff;
 }
+
 .Desc {
     background-color: #f5f6f7;
     padding: 30px;
-    border-radius:7px;
-}
-.Desc p {
+    border-radius: 7px;
 }
 
+    .Desc p {
+    }
+
+.project-thumb-image {
+    width: 326px !important;
+    height: 237px !important;
+}

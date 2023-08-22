@@ -339,60 +339,70 @@
                     <ul class="portfolio-flters" data-aos="fade-up" data-aos-delay="100">
                         <li data-filter="*" class="filter-active">Hepsi </li>
                         <i class="fa-solid fa-minus"></i>
-                        <li data-filter=".filter-constructionServices">İnşaat Hizmetleri</li>
+                        <li data-filter=".filter-3BArchitecture">3B Mimari</li>
                         <i class="fa-solid fa-minus"></i>
-                        <li data-filter=".filter-infrastructureMeasurements">Altyapı Ölçümleri</li>
-                        <i class="fa-solid fa-minus"></i>
-                        <li data-filter=".filter-cadastralProjects">Kadastro Projeleri</li>
-                        <i class="fa-solid fa-minus"></i>
-                        <li data-filter=".filter-currentMapManagement">Halihazır Harita  Yapımı</li>
+                        <li data-filter=".filter-infrastructureMeasurements">Altyapı Hizmetleri</li>
                         <i class="fa-solid fa-minus"></i>
                         <li data-filter=".filter-mappingWithIHA">IHA ile Haritalama</li>
                         <i class="fa-solid fa-minus"></i>
-                        <li data-filter=".filter-3BArchitecture">3B Mimari</li>
+                        <li data-filter=".filter-industrialBuilding">Endüstriyel Yapı</li>
                         <i class="fa-solid fa-minus"></i>
-                        <%-- <li data-filter=".filter-energyProjects">Enerji Projeleri</li>
-                        <i class="fa-solid fa-minus"></i>--%>
-                        <li data-filter=".filter-planningAndProjectTracking">Planlama ve Proje Takibi</li>
+                        <li data-filter=".filter-photogrammetry">Fotogrametri</li>
                         <i class="fa-solid fa-minus"></i>
-                        <li data-filter=".filter-DigitalPhotogramMetricmapsg">Sayısal Fotogrametrik Haritalar</li>
+                        <li data-filter=".filter-currentMapManagement">Halihazır Harita  Yapımı</li>
                         <i class="fa-solid fa-minus"></i>
-                        <li data-filter=".filter-ZoningApplications">İmar Uygulamaları</li>
+                        <li data-filter=".filter-cadastralProjects">Kadastro</li>
+                        <i class="fa-solid fa-minus"></i>
+                        <li data-filter=".filter-townPlanning">Şehir Planlama</li>
+                        <i class="fa-solid fa-minus"></i>
+                        <li data-filter=".filter-superstructure">Üstyapı Hizmetleri</li>
                     </ul>
                     <!-- End Projects Filters -->
 
                     <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-constructionServices">
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-3BArchitecture">
                             <div class="portfolio-content h-100">
-                                <img src="assets/img/projects/remodeling-1.jpg" class="img-fluid" alt="">
+                                <video src="Assets/img/OurProjects/3b1.MOV" class="img-fluid project-thumb-image" alt=""></video>
                                 <div class="portfolio-info">
-                                    <h4>İnşaat Hizmetleri</h4>
-                                    <a href="assets/img/projects/remodeling-1.jpg" title="Remodeling 1" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <h4>3B Mimari</h4>
+                                    <a href="Assets/img/OurProjects/3b1.MOV" title="" data-gallery="portfolio-gallery-three-dimensional" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                     <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
                         <!-- End Projects Item -->
 
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-constructionServices">
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-3BArchitecture">
                             <div class="portfolio-content h-100">
-                                <img src="assets/img/projects/construction-1.jpg" class="img-fluid" alt="">
+                                <img src="Assets/img/OurProjects/3b3.png" class="img-fluid project-thumb-image" alt="">
                                 <div class="portfolio-info">
-                                    <h4>İnşaat Hizmetleri</h4>
-                                    <a href="assets/img/projects/construction-1.jpg" title="" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <h4>3B Mimari</h4>
+                                    <a href="Assets/img/OurProjects/3b3.png" title="" data-gallery="portfolio-gallery-three-dimensional" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                     <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
                         <!-- End Projects Item -->
 
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-constructionServices">
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-3BArchitecture">
                             <div class="portfolio-content h-100">
-                                <img src="assets/img/projects/repairs-1.jpg" class="img-fluid" alt="">
+                                <img src="Assets/img/OurProjects/3b4.png" class="img-fluid project-thumb-image" alt="">
                                 <div class="portfolio-info">
-                                    <h4>İnşaat Hizmetleri</h4>
-                                    <a href="assets/img/projects/repairs-1.jpg" title="" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <h4>3B Mimari</h4>
+                                    <a href="Assets/img/OurProjects/3b4.png" title="" data-gallery="portfolio-gallery-three-dimensional" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Projects Item -->
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-3BArchitecture">
+                            <div class="portfolio-content h-100">
+                                <img src="Assets/img/OurProjects/3b5.jpg" class="img-fluid project-thumb-image" alt="">
+                                <div class="portfolio-info">
+                                    <h4>3B Mimari</h4>
+                                    <a href="Assets/img/OurProjects/3b5.jpg" title="" data-gallery="portfolio-gallery-three-dimensional" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                     <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
@@ -401,10 +411,10 @@
 
                         <div class="col-lg-4 col-md-6 portfolio-item filter-infrastructureMeasurements">
                             <div class="portfolio-content h-100">
-                                <img src="Assets/img/HomePageImg/altyapı.png" class="img-fluid" alt="">
+                                <img src="Assets/img/OurProjects/ALTYAPI%202.PNG" class="img-fluid project-thumb-image" alt="">
                                 <div class="portfolio-info">
                                     <h4>Alt Yapı Hizmetleri</h4>
-                                    <a href="Assets/img/HomePageImg/altyapı.png" title="" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="Assets/img/OurProjects/ALTYAPI%202.PNG" title="" data-gallery="portfolio-gallery-infrastructureMeasurements" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                     <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
@@ -413,36 +423,46 @@
 
                         <div class="col-lg-4 col-md-6 portfolio-item filter-infrastructureMeasurements">
                             <div class="portfolio-content h-100">
-                                <img src="Assets/img/HomePageImg/ALTYAPII.png" class="img-fluid" alt="">
+                                <img src="Assets/img/OurProjects/altyapı2.PNG" class="img-fluid project-thumb-image" alt="">
                                 <div class="portfolio-info">
                                     <h4>Alt Yapı Hizmetleri</h4>
-                                    <a href="Assets/img/HomePageImg/ALTYAPII.png" title="" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="Assets/img/OurProjects/altyapı2.PNG" title="" data-gallery="portfolio-gallery-infrastructureMeasurements" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                     <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
                         <!-- End Projects Item -->
 
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-cadastralProjects">
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-infrastructureMeasurements">
                             <div class="portfolio-content h-100">
-                                <img src="Assets/img/HomePageImg/KADASTRO.png" class="img-fluid" alt="">
+                                <img src="Assets/img/OurProjects/maden%20sahası%20altyapı.png" class="img-fluid project-thumb-image" alt="">
                                 <div class="portfolio-info">
-                                    <h4>Kadastro Projeleri</h4>
-                                    <a href="Assets/img/HomePageImg/KADASTRO.png" title="" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <h4>Alt Yapı Hizmetleri</h4>
+                                    <a href="Assets/img/OurProjects/maden%20sahası%20altyapı.png" title="" data-gallery="portfolio-gallery-infrastructureMeasurements" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                     <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
                         <!-- End Projects Item -->
 
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-infrastructureMeasurements">
+                            <div class="portfolio-content h-100">
+                                <img src="Assets/img/OurProjects/tünel%20altyapı.png" class="img-fluid project-thumb-image" alt="">
+                                <div class="portfolio-info">
+                                    <h4>Alt Yapı Hizmetleri</h4>
+                                    <a href="Assets/img/OurProjects/tünel%20altyapı.png" title="" data-gallery="portfolio-gallery-infrastructureMeasurements" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
                         <!-- End Projects Item -->
 
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-currentMapManagement">
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-infrastructureMeasurements">
                             <div class="portfolio-content h-100">
-                                <img src="Assets/img/HomePageImg/halihazır.jpg" class="img-fluid" alt="">
+                                <img src="Assets/img/OurProjects/yol%20alt%20yapı.png" class="img-fluid project-thumb-image" alt="">
                                 <div class="portfolio-info">
-                                    <h4>HaliHazır Harita Yapımı</h4>
-                                    <a href="Assets/img/HomePageImg/halihazır.jpg" title="" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <h4>Alt Yapı Hizmetleri</h4>
+                                    <a href="Assets/img/OurProjects/yol%20alt%20yapı.png" title="" data-gallery="portfolio-gallery-infrastructureMeasurements" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                     <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
@@ -451,125 +471,230 @@
 
                         <div class="col-lg-4 col-md-6 portfolio-item filter-mappingWithIHA">
                             <div class="portfolio-content h-100">
-                                <img src="Assets/img/HomePageImg/İHA.png" class="img-fluid" alt="">
+                                <img src="Assets/img/OurProjects/drone1.png" class="img-fluid project-thumb-image" alt="">
                                 <div class="portfolio-info">
                                     <h4>İHA İle Haritalama</h4>
-                                    <a href="Assets/img/HomePageImg/İHA.png" title="" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="Assets/img/OurProjects/drone1.png" title="" data-gallery="portfolio-gallery-mappingWithIHA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                     <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
                         <!-- End Projects Item -->
 
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-3BArchitecture">
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-mappingWithIHA">
                             <div class="portfolio-content h-100">
-                                <img src="Assets/img/HomePageImg/3B.png" class="img-fluid" alt="">
+                                <img src="Assets/img/OurProjects/drone2.png" class="img-fluid project-thumb-image" alt="">
                                 <div class="portfolio-info">
-                                    <h4>3B Mimari</h4>
-                                    <a href="Assets/img/HomePageImg/3B.png" title="" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <h4>İHA İle Haritalama</h4>
+                                    <a href="Assets/img/OurProjects/drone2.png" title="" data-gallery="portfolio-gallery-mappingWithIHA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                     <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
                         <!-- End Projects Item -->
 
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-3BArchitecture">
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-mappingWithIHA">
                             <div class="portfolio-content h-100">
-                                <img src="Assets/img/HomePageImg/3B MİMARİ.png" class="img-fluid" alt="">
+                                <img src="Assets/img/OurProjects/drone3.png" class="img-fluid project-thumb-image" alt="">
                                 <div class="portfolio-info">
-                                    <h4>3B Mimari</h4>
-                                    <a href="Assets/img/HomePageImg/3B MİMARİ.png" title="" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <h4>İHA İle Haritalama</h4>
+                                    <a href="Assets/img/OurProjects/drone3.png" title="" data-gallery="portfolio-gallery-mappingWithIHA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                     <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
                         <!-- End Projects Item -->
 
-                        <%-- <div class="col-lg-4 col-md-6 portfolio-item filter-energyProjects">
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-mappingWithIHA">
                             <div class="portfolio-content h-100">
-                                <img src="Assets/img/HomePageImg/ENERJİ.png" class="img-fluid" alt="">
+                                <img src="Assets/img/OurProjects/drone4.png" class="img-fluid project-thumb-image" alt="">
                                 <div class="portfolio-info">
-                                    <h4>Enerji Projleri</h4>
-                                    <a href="assets/img/projects/design-3.jpg" title="" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <h4>İHA İle Haritalama</h4>
+                                    <a href="Assets/img/OurProjects/drone4.png" title="" data-gallery="portfolio-gallery-mappingWithIHA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                     <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-energyProjects">
-                            <div class="portfolio-content h-100">
-                                <img src="Assets/img/HomePageImg/CBS.png" class="img-fluid" alt="">
-                                <div class="portfolio-info">
-                                    <h4>Enerji Projleri</h4>
-                                    <a href="Assets/img/HomePageImg/CBS.png" title="" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                                </div>
-                            </div>
-                        </div>--%>
+                        <!-- End Projects Item -->
 
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-planningAndProjectTracking">
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-industrialBuilding">
                             <div class="portfolio-content h-100">
-                                <img src="Assets/img/HomePageImg/takip.png" class="img-fluid" alt="">
+                                <img src="Assets/img/OurProjects/endüstiriyel%20yapı%20proje.jpg" class="img-fluid project-thumb-image" alt="">
                                 <div class="portfolio-info">
-                                    <h4>Planlama Ve Proje Takibi</h4>
-                                    <a href="Assets/img/HomePageImg/takip.png" title="" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <h4>Endüstriyel Yapı</h4>
+                                    <a href="Assets/img/OurProjects/endüstiriyel%20yapı%20proje.jpg" title="" data-gallery="portfolio-gallery-industrialBuilding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                     <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-DigitalPhotogramMetricmapsg">
-                            <div class="portfolio-content h-100">
-                                <img src="Assets/img/HomePageImg/takip.png" class="img-fluid" alt="">
-                                <div class="portfolio-info">
-                                    <h4>Sayısal Fotogrametrik Haritalar</h4>
-                                    <a href="Assets/img/HomePageImg/takip.png" title="" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-DigitalPhotogramMetricmapsg">
-                            <div class="portfolio-content h-100">
-                                <img src="Assets/img/Services/Sayısalfotogrametrik.png" class="img-fluid" alt="">
-                                <div class="portfolio-info">
-                                    <h4>Sayısal Fotogrametrik Haritalar</h4>
-                                    <a href="ssets/img/Services/Sayısalfotogrametrik.png" title="" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-ZoningApplications">
-                            <div class="portfolio-content h-100">
-                                <img src="ssets/img/Services/imarimg1.png" class="img-fluid" alt="">
-                                <div class="portfolio-info">
-                                    <h4>İmar Uygulamları</h4>
-                                    <a href="Assets/img/HomePageImg/takip.png" title="" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-ZoningApplications">
-                            <div class="portfolio-content h-100">
-                                <img src="Assets/img/Services/imarimg1.png" class="img-fluid" alt="">
-                                <div class="portfolio-info">
-                                    <h4>İmar Uygulamları</h4>
-                                    <a href="ssets/img/Services/imarimg1.png" title="" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                                </div>
-                            </div>
-                        </div>
+                        <!-- End Projects Item -->
 
-
-
-                        <%-- <div class="col-lg-4 col-md-6 portfolio-item filter-design">
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-industrialBuilding">
                             <div class="portfolio-content h-100">
-                                <img src="assets/img/projects/design-3.jpg" class="img-fluid" alt="">
+                                <img src="Assets/img/OurProjects/endüstiriyel%20yapı%20proje2.jpg" class="img-fluid project-thumb-image" alt="">
                                 <div class="portfolio-info">
-                                    <h4>Design 3</h4>
-                                    <p>Lorem ipsum, dolor sit amet consectetur</p>
-                                    <a href="assets/img/projects/design-3.jpg" title="Repairs 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <h4>Endüstriyel Yapı</h4>
+                                    <a href="Assets/img/OurProjects/endüstiriyel%20yapı%20proje2.jpg" title="" data-gallery="portfolio-gallery-industrialBuilding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                     <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
-                        </div>--%>
+                        </div>
+                        <!-- End Projects Item -->
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-photogrammetry">
+                            <div class="portfolio-content h-100">
+                                <img src="Assets/img/OurProjects/fotogrametri.png" class="img-fluid project-thumb-image" alt="">
+                                <div class="portfolio-info">
+                                    <h4>Fotogrametri</h4>
+                                    <a href="Assets/img/OurProjects/fotogrametri.png" title="" data-gallery="portfolio-gallery-photogrammetry" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Projects Item -->
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-currentMapManagement">
+                            <div class="portfolio-content h-100">
+                                <img src="Assets/img/OurProjects/halihazır.png" class="img-fluid project-thumb-image" alt="">
+                                <div class="portfolio-info">
+                                    <h4>Halihazır Harita Üretimi</h4>
+                                    <a href="Assets/img/OurProjects/halihazır.png" title="" data-gallery="portfolio-gallery-currentMapManagement" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Projects Item -->
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-currentMapManagement">
+                            <div class="portfolio-content h-100">
+                                <img src="Assets/img/OurProjects/halihazır2.png" class="img-fluid project-thumb-image" alt="">
+                                <div class="portfolio-info">
+                                    <h4>Halihazır Harita Üretimi</h4>
+                                    <a href="Assets/img/OurProjects/halihazır2.png" title="" data-gallery="portfolio-gallery-currentMapManagement" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Projects Item -->
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-cadastralProjects">
+                            <div class="portfolio-content h-100">
+                                <img src="Assets/img/OurProjects/kadastro%20ölçüm.jpg" class="img-fluid project-thumb-image" alt="">
+                                <div class="portfolio-info">
+                                    <h4>Kadastro</h4>
+                                    <a href="Assets/img/OurProjects/kadastro%20ölçüm.jpg" title="" data-gallery="portfolio-gallery-cadastralProjects" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Projects Item -->
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-cadastralProjects">
+                            <div class="portfolio-content h-100">
+                                <img src="Assets/img/OurProjects/kadastro.png" class="img-fluid project-thumb-image" alt="">
+                                <div class="portfolio-info">
+                                    <h4>Kadastro</h4>
+                                    <a href="Assets/img/OurProjects/kadastro.png" title="" data-gallery="portfolio-gallery-cadastralProjects" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Projects Item -->
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-cadastralProjects">
+                            <div class="portfolio-content h-100">
+                                <img src="Assets/img/OurProjects/kadastro2.png" class="img-fluid project-thumb-image" alt="">
+                                <div class="portfolio-info">
+                                    <h4>Kadastro</h4>
+                                    <a href="Assets/img/OurProjects/kadastro2.png" title="" data-gallery="portfolio-gallery-cadastralProjects" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Projects Item -->
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-townPlanning">
+                            <div class="portfolio-content h-100">
+                                <img src="Assets/img/OurProjects/şehir%20planlama%20imar.png" class="img-fluid project-thumb-image" alt="">
+                                <div class="portfolio-info">
+                                    <h4>Şehir Planlama</h4>
+                                    <a href="Assets/img/OurProjects/şehir%20planlama%20imar.png" title="" data-gallery="portfolio-gallery-townPlanning" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Projects Item -->
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-townPlanning">
+                            <div class="portfolio-content h-100">
+                                <img src="Assets/img/OurProjects/şehir%20planlama.png" class="img-fluid project-thumb-image" alt="">
+                                <div class="portfolio-info">
+                                    <h4>Şehir Planlama</h4>
+                                    <a href="Assets/img/OurProjects/şehir%20planlama.png" title="" data-gallery="portfolio-gallery-townPlanning" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Projects Item -->
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-superstructure">
+                            <div class="portfolio-content h-100">
+                                <img src="Assets/img/OurProjects/inşaat1.png" class="img-fluid" alt="">
+                                <div class="portfolio-info">
+                                    <h4>Üstyapı Hizmetleri</h4>
+                                    <a href="Assets/img/OurProjects/inşaat1.png" title="" data-gallery="portfolio-gallery-superstructure" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Projects Item -->
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-superstructure">
+                            <div class="portfolio-content h-100">
+                                <img src="Assets/img/OurProjects/inşaat2.png" class="img-fluid" alt="">
+                                <div class="portfolio-info">
+                                    <h4>Üstyapı Hizmetleri</h4>
+                                    <a href="Assets/img/OurProjects/inşaat2.png" title="" data-gallery="portfolio-gallery-superstructure" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Projects Item -->
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-superstructure">
+                            <div class="portfolio-content h-100">
+                                <img src="Assets/img/OurProjects/inşaat3.png" class="img-fluid" alt="">
+                                <div class="portfolio-info">
+                                    <h4>Üstyapı Hizmetleri</h4>
+                                    <a href="Assets/img/OurProjects/inşaat3.png" title="" data-gallery="portfolio-gallery-superstructure" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Projects Item -->
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-superstructure">
+                            <div class="portfolio-content h-100">
+                                <img src="Assets/img/OurProjects/şantiye%201.png" class="img-fluid" alt="">
+                                <div class="portfolio-info">
+                                    <h4>Üstyapı Hizmetleri</h4>
+                                    <a href="Assets/img/OurProjects/şantiye%201.png" title="" data-gallery="portfolio-gallery-superstructure" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Projects Item -->
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-superstructure">
+                            <div class="portfolio-content h-100">
+                                <img src="Assets/img/OurProjects/şantiye2.png" class="img-fluid" alt="">
+                                <div class="portfolio-info">
+                                    <h4>Üstyapı Hizmetleri</h4>
+                                    <a href="Assets/img/OurProjects/şantiye2.png" title="" data-gallery="portfolio-gallery-superstructure" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                </div>
+                            </div>
+                        </div>
                         <!-- End Projects Item -->
 
                     </div>
