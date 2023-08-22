@@ -8,8 +8,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Favicons -->
-    <link href="assets/img/HomePageImg/1.png" rel="icon">
-    <link href="assets/img/HomePageImg/1.png" rel="apple-touch-icon">
+    <link href="assets/img/OurProjects/sekmeLogo.png" sizes="180x180" rel="icon" itemprop="image">
+    <%--<link rel="shortcut icon" href="https://appsolypreparation.com/serkmeLogo.png" type="image/x-icon">--%>
+    <link href="assets/img/OurProjects/sekmeLogo.png" sizes="180x180" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -39,7 +40,8 @@
                 <div class="row gx-0 d-lg-flex">
                     <div class="col-sm-7 px-5 text-start">
                         <div class="h-100 d-inline-flex align-items-center py-3 me-3 socialDesc">
-                            <a class="text-body px-2" href="tel:+0123456789"><i class="fa-solid fa-phone-volume  me-2"></i><span class="text-white"><a href="https://wa.me/+905412581486">0541 258 1486</a>  /  <a href="https://wa.me/+905415650927">0541 565 0927</a></span></a>
+                            <i class="bi bi-envelope"></i><a href="mailto:tezharitamuhendislik@gmail.com" class="text-white">&nbsp Mail Gönder</a>
+                            <a class="text-body px-2" href="tel:+0123456789"><i class="fa-solid fa-phone-volume  me-2"></i><span class="text-white"><a href="https://wa.me/+905412581486">0541 258 1486&nbsp &nbsp </a><a href="https://wa.me/+905415650927"><i class="fa-solid fa-phone-volume  me-2"></i>0541 565 0927</a></span></a>
                             <%-- <a class="text-body px-2" href="#"><i class="fa-solid fa-envelope me-2""></i><span class="text-white">info@example.com</span></a>--%>
                         </div>
                     </div>
@@ -88,7 +90,7 @@
                         </li>
                         <li></li>
                         <li><a href="MappingWithIHA.aspx" class="text-white">İHA İLE HARİTALAMA</a></li>
-                        <li class="dropdown"><a href="#"><span class="text-white"> MİMARİ</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+                        <li class="dropdown"><a href="#"><span class="text-white">MİMARİ</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                             <ul>
                                 <li><a href="3DArchitecturalProjectDigitization.aspx">3 Boyutlu Mimari Proje Sayısallaştırma</a></li>
                                 <li><a href="CityAndRegionPlanning.aspx">Şehir Ve Bölge Planlama</a></li>
@@ -118,7 +120,7 @@
 
                         <div class="col-lg-4 col-md-6 ">
                             <div class="footer-info">
-                                <h3>Tez Harita Mühendislik</h3>
+                                <h3>TEZ HARİTA MÜHENDİSLİK</h3>
                                 <p>
                                     Samsum / İlk Adım
                                         <br>

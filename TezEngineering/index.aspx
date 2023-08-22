@@ -130,7 +130,7 @@
                             <img class="bg-img" src="Assets/img/HomePageImg/inşaat ölçüm.png" alt="">
                             <div class="service-text p-5">
                                 <div class="bg-dark-subtle opacity-75 rounded-top-pill">
-                                    <i class="fa-solid fa-kaaba"></i>
+                                    <i class="fa-solid fa-person-digging"></i>
                                     <h3 class="mb-3">Üst Yapı Ölçü Hizmetleri</h3>
                                 </div>
                                 <p class="mb-4 opacity-0">
@@ -193,7 +193,7 @@
                     </div>
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="service-item d-flex position-relative text-center h-100">
-                            <img class="bg-img" src="Assets/img/HomePageImg/halihazır.jpg" alt="">
+                            <img class="bg-img" src="Assets/img/OurProjects/halihazırProje.png" alt="">
                             <div class="service-text p-5">
                                 <div class="bg-dark-subtle opacity-75 rounded-top-pill">
                                     <i class="fa-solid fa-map-location-dot"></i>
@@ -263,7 +263,7 @@
                             <div class="service-text p-5">
                                 <div class="bg-dark-subtle opacity-75 rounded-top-pill">
                                     <%--<img class="mb-4" src="Assets/img/icons/icon-6.png" alt="Icon">--%>
-                                    <i class="fa-solid fa-cubes"></i>
+                                    <i class="fa-solid fa-layer-group"></i>
                                     <h3 class="mb-3">Fotogrametrik Haritalar</h3>
                                 </div>
                                 <p class="mb-4 opacity-0">

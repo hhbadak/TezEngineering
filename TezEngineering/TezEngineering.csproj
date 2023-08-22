@@ -97,6 +97,7 @@
     <Content Include="Assets\img\OurProjects\fotogrametri.png" />
     <Content Include="Assets\img\OurProjects\halihazır.png" />
     <Content Include="Assets\img\OurProjects\halihazır2.png" />
+    <Content Include="Assets\img\OurProjects\halihazırProje.png" />
     <Content Include="Assets\img\OurProjects\inşaat1.png" />
     <Content Include="Assets\img\OurProjects\inşaat2.png" />
     <Content Include="Assets\img\OurProjects\inşaat3.png" />
@@ -104,6 +105,8 @@
     <Content Include="Assets\img\OurProjects\kadastro.png" />
     <Content Include="Assets\img\OurProjects\kadastro2.png" />
     <Content Include="Assets\img\OurProjects\maden sahası altyapı.png" />
+    <Content Include="Assets\img\OurProjects\sekmeLogo.png" />
+    <Content Include="Assets\img\OurProjects\serkmeLogo.png" />
     <Content Include="Assets\img\OurProjects\tünel altyapı.png" />
     <Content Include="Assets\img\OurProjects\yol alt yapı.png" />
     <Content Include="Assets\img\OurProjects\şantiye 1.png" />
