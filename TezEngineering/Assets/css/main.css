@@ -2683,11 +2683,14 @@ section {
 .service-item .service-text {
     background: var(--light);
     transition: .5s;
+    margin-right:auto;
+    margin-left:auto;
+
 }
 
 .service-item:hover .service-text {
-    background: rgba(0, 0, 0, .7);
-    opacity: 1;
+    /*background: rgba(0, 0, 0, .7);
+    opacity: 1;*/
 }
 
     .service-item:hover .service-text p {
@@ -2699,7 +2702,7 @@ section {
 }
 
 .service-item:hover * {
-    color: #FFFFFF;
+   
 }
 
 .service-item .btn {

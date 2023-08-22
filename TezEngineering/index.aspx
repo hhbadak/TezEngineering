@@ -85,29 +85,7 @@
     <main id="main">
 
 
-           <%--<!-- Button trigger modal -->
-   <button type="button" class="btn btn-primary" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
-       
-   </button>
 
-   <!-- Modal -->
-   <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
-       <div class="modal-dialog">
-           <div class="modal-content">
-               <div class="modal-header">
-                   <h5 class="modal-title" id="staticBackdropLabel">Modal title</h5>
-                   <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-               </div>
-               <div class="modal-body">
-                   ...
-               </div>
-               <div class="modal-footer">
-                   <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                   <button type="button" class="btn btn-primary">Understood</button>
-               </div>
-           </div>
-       </div>
-   </div>--%>
         <!-- ======= Services Section ======= -->
         <div class="container-xxl py-5">
             <div class="container">
@@ -115,16 +93,37 @@
                 <div class="row g-4">
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="service-item d-flex position-relative text-center h-100">
-                         <img class="bg-img" src="Assets/img/Services/kadastroImage.png" alt="">
-                    <div class="service-text p-5">
-                        <div class="bg-dark-subtle opacity-75 rounded-top-pill">
-                            <i class="fa-solid fa-mountain-city"></i>
-                            <h3 class="mb-3">Kadastro Projeleri</h3>
-                        </div>
-                        <p class="mb-4 opacity-0">
-                            İnşaat hizmetlerimizle hayallerinizin gerçeğe dönüşmesini sağlıyoruz. Tasarım, inşa ve bakım aşamalarında profesyonel ekibimizle kaliteli ve güvenilir yapılar oluşturuyoruz. Projenizin her adımında yanınızda olmaktan mutluluk duyarız.
-                        </p>
-                    </div>
+                            <img class="bg-img" src="Assets/img/Services/kadastroImage.png" alt="">
+                            <div class="service-text mt-5">
+                                <div class="bg-dark-subtle opacity-75 rounded-top-pill">
+                                    <i class="fa-solid fa-mountain-city"></i>
+                                    <h3 class="mb-3">Kadastro Projeleri</h3>
+                                </div>
+                                <p class="mb-4 opacity-0">
+                                    <!-- Button trigger modal -->
+                                    <button type="button" class="btn btn-primary" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                                        Detaylar..
+                                    </button>
+
+                                    <!-- Modal -->
+                                    <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                                        <div class="modal-dialog">
+                                            <div class="modal-content">
+                                                <div class="modal-header">
+                                                    <h5 class="modal-title" id="staticBackdropLabel">Modal title</h5>
+                                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                                </div>
+                                                <div class="modal-body">
+                                                    ...aasdadasdasdasdasda
+                                                </div>
+                                                <div class="modal-footer">
+                                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </p>
+                            </div>
                         </div>
                     </div>
 
