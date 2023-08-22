@@ -2671,73 +2671,73 @@ section {
     font-size: 20pt;
     color: rgba(17,82,153);
 }
+
 .service-item {
-    margin-top:70px;
-}
-.service-item .bg-img {
-    position: absolute;
-    width: 100%;
-    height: auto;
-    object-fit: contain;
-    z-index: -1;
+    margin-top: 70px;
 }
 
-.service-item .service-text {
-    background: var(--light);
-    transition: .5s;
-    margin-right:auto;
-    margin-left:auto;
-
-}
-
-.service-item:hover .service-text {
-    /*background: rgba(0, 0, 0, .7);
-    opacity: 1;*/
-}
-
-    .service-item:hover .service-text p {
-        opacity: 1 !important;
+    .service-item .bg-img {
+        position: absolute;
+        width: 100%;
+        height: auto;
+        object-fit: contain;
+        z-index: -1;
     }
 
-.service-item * {
-    transition: .5s;
-}
+    .service-item .service-text {
+        background: var(--light);
+        transition: .5s;
+        margin-right: auto;
+        margin-left: auto;
+    }
 
-.service-item:hover * {
-   
-}
+    .service-item:hover .service-text {
+        /*background: rgba(0, 0, 0, .7);
+    opacity: 1;*/
+    }
 
-.service-item .btn {
-    width: 40px;
-    height: 40px;
-    display: inline-flex;
-    align-items: center;
-    color: var(--dark);
-    white-space: nowrap;
-    overflow: hidden;
-    transition: .5s;
-}
+        .service-item:hover .service-text p {
+            opacity: 1 !important;
+        }
 
-.service-item:hover .btn {
-    width: 140px;
-}
+    .service-item * {
+        transition: .5s;
+    }
 
-.service-item .service-text i {
-    font-size: 30pt;
-    color: rgba(17,82,153);
-}
+    .service-item:hover * {
+    }
 
-.service-item:hover .service-text i {
-    color: #007aff;
-}
+    .service-item .btn {
+        width: 40px;
+        height: 40px;
+        display: inline-flex;
+        align-items: center;
+        color: var(--dark);
+        white-space: nowrap;
+        overflow: hidden;
+        transition: .5s;
+    }
 
-.service-item .service-text h3 {
-    color: rgba(17,82,153);
-}
+    .service-item:hover .btn {
+        width: 140px;
+    }
 
-.service-item:hover .service-text h3 {
-    color: #007aff;
-}
+    .service-item .service-text i {
+        font-size: 30pt;
+        color: rgba(17,82,153);
+    }
+
+    .service-item:hover .service-text i {
+        color: #007aff;
+    }
+
+    .service-item .service-text h3 {
+        color: rgba(17,82,153);
+    }
+
+    .service-item:hover .service-text h3 {
+        color: #007aff;
+    }
 /*** Reference ***/
 .project .nav .nav-link {
     background: var(--light);
@@ -2780,14 +2780,16 @@ section {
     }
 
 .project-thumb-image {
-    width: 326px !important;
+    width: 386px !important;
     height: 237px !important;
 }
-.modal-header h5{
-    color:blue;
+
+.modal-header h5 {
+    color: blue;
 }
+
 .modal-body {
-    background-color:silver;
-    color:whitesmoke;
-    font-weight:900
+    background-color: silver;
+    color: whitesmoke;
+    font-weight: 900
 }

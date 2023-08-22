@@ -102,7 +102,7 @@
                                 <p class="mb-4 opacity-0">
                                     <!-- Button trigger modal -->
                                     <button type="button" class="btn btn-primary text-white btn-modal" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
-                                        Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size:12pt"></i>
+                                        Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size: 12pt"></i>
                                     </button>
                                     <!-- Modal -->
                                     <div class="modal fade mt-5" style="margin-top: 200px !important" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
@@ -110,7 +110,7 @@
                                             <div class="modal-content mt-5">
                                                 <div class="modal-header">
                                                     <h5 class="modal-title" id="staticBackdropLabel">Kadastro Projeleri</h5>
-                                                    <img src="Assets/img/HomePageImg/1logom.png"  width="50" />
+                                                    <img src="Assets/img/HomePageImg/1logom.png" width="50" />
                                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                                 </div>
                                                 <div class="modal-body">
@@ -136,7 +136,7 @@
                                 <p class="mb-4 opacity-0">
                                     <!-- Button trigger modal -->
                                     <button type="button" class="btn btn-primary text-white btn-modal" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdrop2">
-                                        Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size:12pt"></i>
+                                        Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size: 12pt"></i>
                                     </button>
                                     <!-- Modal -->
                                     <div class="modal fade mt-5" style="margin-top: 200px !important" id="staticBackdrop2" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel2" aria-hidden="true">
@@ -144,7 +144,7 @@
                                             <div class="modal-content mt-5">
                                                 <div class="modal-header">
                                                     <h5 class="modal-title" id="staticBackdropLabel2">Üst Yapı Ölçü Hizmetleri</h5>
-                                                    <img src="Assets/img/HomePageImg/1logom.png"  width="50" />
+                                                    <img src="Assets/img/HomePageImg/1logom.png" width="50" />
                                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                                 </div>
                                                 <div class="modal-body">
@@ -169,7 +169,7 @@
                                 <p class="mb-4 opacity-0">
                                     <!-- Button trigger modal -->
                                     <button type="button" class="btn btn-primary text-white btn-modal" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdrop3">
-                                        Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size:12pt"></i>
+                                        Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size: 12pt"></i>
                                     </button>
                                     <!-- Modal -->
                                     <div class="modal fade mt-5" style="margin-top: 200px !important" id="staticBackdrop3" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel3" aria-hidden="true">
@@ -177,7 +177,7 @@
                                             <div class="modal-content mt-5">
                                                 <div class="modal-header">
                                                     <h5 class="modal-title" id="staticBackdropLabel3">Altyapı Ölçü Hizmetleri</h5>
-                                                    <img src="Assets/img/HomePageImg/1logom.png"  width="50" />
+                                                    <img src="Assets/img/HomePageImg/1logom.png" width="50" />
                                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                                 </div>
                                                 <div class="modal-body">
@@ -203,7 +203,7 @@
 
                                     <!-- Button trigger modal -->
                                     <button type="button" class="btn btn-primary text-white btn-modal" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdrop4">
-                                        Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size:12pt"></i>
+                                        Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size: 12pt"></i>
                                     </button>
                                     <!-- Modal -->
                                     <div class="modal fade mt-5" style="margin-top: 200px !important" id="staticBackdrop4" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel4" aria-hidden="true">
@@ -211,7 +211,7 @@
                                             <div class="modal-content mt-5">
                                                 <div class="modal-header">
                                                     <h5 class="modal-title" id="staticBackdropLabel4">Halihazır Harita Üretimi</h5>
-                                                    <img src="Assets/img/HomePageImg/1logom.png"  width="50" />
+                                                    <img src="Assets/img/HomePageImg/1logom.png" width="50" />
                                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                                 </div>
                                                 <div class="modal-body">
@@ -235,7 +235,7 @@
                                 </div>
                                 <p class="mb-4 opacity-0">
                                     <button type="button" class="btn btn-primary text-white btn-modal" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdrop5">
-                                        Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size:12pt"></i>
+                                        Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size: 12pt"></i>
                                     </button>
                                     <!-- Modal -->
                                     <div class="modal fade mt-5" style="margin-top: 200px !important" id="staticBackdrop5" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel5" aria-hidden="true">
@@ -243,7 +243,7 @@
                                             <div class="modal-content mt-5">
                                                 <div class="modal-header">
                                                     <h5 class="modal-title" id="staticBackdropLabel5">IHA İle Haritalama</h5>
-                                                    <img src="Assets/img/HomePageImg/1logom.png"  width="50" />
+                                                    <img src="Assets/img/HomePageImg/1logom.png" width="50" />
                                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                                 </div>
                                                 <div class="modal-body">
@@ -268,7 +268,7 @@
                                 </div>
                                 <p class="mb-4 opacity-0">
                                     <button type="button" class="btn btn-primary text-white btn-modal" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdrop6">
-                                        Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size:12pt"></i>
+                                        Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size: 12pt"></i>
                                     </button>
                                     <!-- Modal -->
                                     <div class="modal fade mt-5" style="margin-top: 200px !important" id="staticBackdrop6" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel6" aria-hidden="true">
@@ -276,7 +276,7 @@
                                             <div class="modal-content mt-5">
                                                 <div class="modal-header">
                                                     <h5 class="modal-title" id="staticBackdropLabel6">Fotogrametrik Haritalar</h5>
-                                                    <img src="Assets/img/HomePageImg/1logom.png"  width="50" />
+                                                    <img src="Assets/img/HomePageImg/1logom.png" width="50" />
                                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                                 </div>
                                                 <div class="modal-body">
@@ -318,7 +318,7 @@
                                 </div>
                                 <p class="mb-4 opacity-0">
                                     <button type="button" class="btn btn-primary text-white btn-modal" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdrop7">
-                                        Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size:12pt"></i>
+                                        Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size: 12pt"></i>
                                     </button>
                                     <!-- Modal -->
                                     <div class="modal fade mt-5" style="margin-top: 200px !important" id="staticBackdrop7" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel7" aria-hidden="true">
@@ -326,7 +326,7 @@
                                             <div class="modal-content mt-5">
                                                 <div class="modal-header">
                                                     <h5 class="modal-title" id="staticBackdropLabel7">3B Mimari</h5>
-                                                    <img src="Assets/img/HomePageImg/1logom.png"  width="50" />
+                                                    <img src="Assets/img/HomePageImg/1logom.png" width="50" />
                                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                                 </div>
                                                 <div class="modal-body">
@@ -351,7 +351,7 @@
                                 </div>
                                 <p class="mb-4 opacity-0">
                                     <button type="button" class="btn btn-primary text-white btn-modal" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdrop8">
-                                        Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size:12pt"></i>
+                                        Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size: 12pt"></i>
                                     </button>
                                     <!-- Modal -->
                                     <div class="modal fade mt-5" style="margin-top: 200px !important" id="staticBackdrop8" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel8" aria-hidden="true">
@@ -359,12 +359,43 @@
                                             <div class="modal-content mt-5">
                                                 <div class="modal-header">
                                                     <h5 class="modal-title" id="staticBackdropLabel8">İmar Uygulamaları</h5>
-                                                    <img src="Assets/img/HomePageImg/1logom.png"  width="50" />
+                                                    <img src="Assets/img/HomePageImg/1logom.png" width="50" />
                                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                                 </div>
                                                 <div class="modal-body">
                                                     İmar uygulamaları, şehir ve bölge planlarının uygulanmasını sağlayan düzenlemeler ve işlemlerdir. İmar uygulamaları, planlama kararlarının somut bir şekilde hayata geçirilmesini ve yapılaşma sürecinin yönetilmesini amaçlar.
                                                 </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="service-item d-flex position-relative text-center h-100">
+                            <img class="bg-img" src="Assets/img/OurProjects/şehir planlama.png" alt="">
+                            <div class="service-text p-5">
+                                <div class="bg-dark-subtle opacity-75 rounded-top-pill">
+                                    <%--<img class="mb-4" src="Assets/img/icons/icon-6.png" alt="Icon">--%>
+                                    <i class="fa-solid fa-city"></i>
+                                    <h3 class="mb-3">Şehir ve Bölge Plan Danışmanlığı</h3>
+                                </div>
+                                <p class="mb-4 opacity-0">
+                                    <button type="button" class="btn btn-primary text-white btn-modal" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdropcity">
+                                        Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size: 12pt"></i>
+                                    </button>
+                                    <!-- Modal -->
+                                    <div class="modal fade mt-5" style="margin-top: 200px !important" id="staticBackdropcity" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabelcity" aria-hidden="true">
+                                        <div class="modal-dialog ">
+                                            <div class="modal-content mt-5">
+                                                <div class="modal-header">
+                                                    <h5 class="modal-title" id="staticBackdropLabelcity">Şehir ve Bölge Plan Danışmanlığı</h5>
+                                                    <img src="Assets/img/HomePageImg/1logom.png" width="50" />
+                                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                                </div>
+                                                <div class="modal-body">Şirketimiz, şehirlerin veya bölgelerin planlama ihtiyaçlarını belirlemek, mevcut durum analizleri yapmak, gelecekteki gelişim hedeflerini belirlemek, ulaşım sistemleri, konut alanları, ticaret bölgeleri, yeşil alanlar gibi unsurları planlamak ve buna ilişkin stratejiler geliştirmek gibi konularda danışmanlık hizmeti sunar. </div>
 
                                             </div>
                                         </div>
@@ -536,7 +567,6 @@
                                 <div class="portfolio-info">
                                     <h4>3B Mimari</h4>
                                     <a href="Assets/img/OurProjects/3b1.MOV" title="" data-gallery="portfolio-gallery-three-dimensional" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -548,7 +578,6 @@
                                 <div class="portfolio-info">
                                     <h4>3B Mimari</h4>
                                     <a href="Assets/img/OurProjects/3b3.png" title="" data-gallery="portfolio-gallery-three-dimensional" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -560,7 +589,7 @@
                                 <div class="portfolio-info">
                                     <h4>3B Mimari</h4>
                                     <a href="Assets/img/OurProjects/3b4.png" title="" data-gallery="portfolio-gallery-three-dimensional" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                    <%--<a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>--%>
                                 </div>
                             </div>
                         </div>
@@ -572,7 +601,6 @@
                                 <div class="portfolio-info">
                                     <h4>3B Mimari</h4>
                                     <a href="Assets/img/OurProjects/3b5.jpg" title="" data-gallery="portfolio-gallery-three-dimensional" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -584,7 +612,6 @@
                                 <div class="portfolio-info">
                                     <h4>Alt Yapı Hizmetleri</h4>
                                     <a href="Assets/img/OurProjects/ALTYAPI%202.PNG" title="" data-gallery="portfolio-gallery-infrastructureMeasurements" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -596,7 +623,6 @@
                                 <div class="portfolio-info">
                                     <h4>Alt Yapı Hizmetleri</h4>
                                     <a href="Assets/img/OurProjects/altyapı2.PNG" title="" data-gallery="portfolio-gallery-infrastructureMeasurements" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -608,7 +634,6 @@
                                 <div class="portfolio-info">
                                     <h4>Alt Yapı Hizmetleri</h4>
                                     <a href="Assets/img/OurProjects/maden%20sahası%20altyapı.png" title="" data-gallery="portfolio-gallery-infrastructureMeasurements" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -620,7 +645,6 @@
                                 <div class="portfolio-info">
                                     <h4>Alt Yapı Hizmetleri</h4>
                                     <a href="Assets/img/OurProjects/tünel%20altyapı.png" title="" data-gallery="portfolio-gallery-infrastructureMeasurements" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -632,7 +656,6 @@
                                 <div class="portfolio-info">
                                     <h4>Alt Yapı Hizmetleri</h4>
                                     <a href="Assets/img/OurProjects/yol%20alt%20yapı.png" title="" data-gallery="portfolio-gallery-infrastructureMeasurements" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -644,7 +667,6 @@
                                 <div class="portfolio-info">
                                     <h4>İHA İle Haritalama</h4>
                                     <a href="Assets/img/OurProjects/drone1.png" title="" data-gallery="portfolio-gallery-mappingWithIHA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -656,7 +678,6 @@
                                 <div class="portfolio-info">
                                     <h4>İHA İle Haritalama</h4>
                                     <a href="Assets/img/OurProjects/drone2.png" title="" data-gallery="portfolio-gallery-mappingWithIHA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -668,7 +689,6 @@
                                 <div class="portfolio-info">
                                     <h4>İHA İle Haritalama</h4>
                                     <a href="Assets/img/OurProjects/drone3.png" title="" data-gallery="portfolio-gallery-mappingWithIHA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -680,7 +700,6 @@
                                 <div class="portfolio-info">
                                     <h4>İHA İle Haritalama</h4>
                                     <a href="Assets/img/OurProjects/drone4.png" title="" data-gallery="portfolio-gallery-mappingWithIHA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -692,7 +711,6 @@
                                 <div class="portfolio-info">
                                     <h4>Endüstriyel Yapı</h4>
                                     <a href="Assets/img/OurProjects/endüstiriyel%20yapı%20proje.jpg" title="" data-gallery="portfolio-gallery-industrialBuilding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -704,7 +722,6 @@
                                 <div class="portfolio-info">
                                     <h4>Endüstriyel Yapı</h4>
                                     <a href="Assets/img/OurProjects/endüstiriyel%20yapı%20proje2.jpg" title="" data-gallery="portfolio-gallery-industrialBuilding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -716,7 +733,6 @@
                                 <div class="portfolio-info">
                                     <h4>Fotogrametri</h4>
                                     <a href="Assets/img/OurProjects/fotogrametri.png" title="" data-gallery="portfolio-gallery-photogrammetry" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -728,7 +744,6 @@
                                 <div class="portfolio-info">
                                     <h4>Halihazır Harita Üretimi</h4>
                                     <a href="Assets/img/OurProjects/halihazır.png" title="" data-gallery="portfolio-gallery-currentMapManagement" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -740,7 +755,6 @@
                                 <div class="portfolio-info">
                                     <h4>Halihazır Harita Üretimi</h4>
                                     <a href="Assets/img/OurProjects/halihazır2.png" title="" data-gallery="portfolio-gallery-currentMapManagement" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -752,7 +766,6 @@
                                 <div class="portfolio-info">
                                     <h4>Kadastro</h4>
                                     <a href="Assets/img/OurProjects/kadastro%20ölçüm.jpg" title="" data-gallery="portfolio-gallery-cadastralProjects" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -764,7 +777,6 @@
                                 <div class="portfolio-info">
                                     <h4>Kadastro</h4>
                                     <a href="Assets/img/OurProjects/kadastro.png" title="" data-gallery="portfolio-gallery-cadastralProjects" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -776,7 +788,6 @@
                                 <div class="portfolio-info">
                                     <h4>Kadastro</h4>
                                     <a href="Assets/img/OurProjects/kadastro2.png" title="" data-gallery="portfolio-gallery-cadastralProjects" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -788,7 +799,6 @@
                                 <div class="portfolio-info">
                                     <h4>Şehir Planlama</h4>
                                     <a href="Assets/img/OurProjects/şehir%20planlama%20imar.png" title="" data-gallery="portfolio-gallery-townPlanning" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -800,7 +810,6 @@
                                 <div class="portfolio-info">
                                     <h4>Şehir Planlama</h4>
                                     <a href="Assets/img/OurProjects/şehir%20planlama.png" title="" data-gallery="portfolio-gallery-townPlanning" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -812,7 +821,6 @@
                                 <div class="portfolio-info">
                                     <h4>Üstyapı Hizmetleri</h4>
                                     <a href="Assets/img/OurProjects/inşaat1.png" title="" data-gallery="portfolio-gallery-superstructure" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -824,7 +832,6 @@
                                 <div class="portfolio-info">
                                     <h4>Üstyapı Hizmetleri</h4>
                                     <a href="Assets/img/OurProjects/inşaat2.png" title="" data-gallery="portfolio-gallery-superstructure" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -836,7 +843,6 @@
                                 <div class="portfolio-info">
                                     <h4>Üstyapı Hizmetleri</h4>
                                     <a href="Assets/img/OurProjects/inşaat3.png" title="" data-gallery="portfolio-gallery-superstructure" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -848,7 +854,6 @@
                                 <div class="portfolio-info">
                                     <h4>Üstyapı Hizmetleri</h4>
                                     <a href="Assets/img/OurProjects/şantiye%201.png" title="" data-gallery="portfolio-gallery-superstructure" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -860,7 +865,6 @@
                                 <div class="portfolio-info">
                                     <h4>Üstyapı Hizmetleri</h4>
                                     <a href="Assets/img/OurProjects/şantiye2.png" title="" data-gallery="portfolio-gallery-superstructure" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
                         </div>

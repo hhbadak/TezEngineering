@@ -5,6 +5,8 @@
 <html>
 <head runat="server">
     <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <!-- Favicons -->
     <link href="assets/img/HomePageImg/1.png" rel="icon">
     <link href="assets/img/HomePageImg/1.png" rel="apple-touch-icon">
@@ -53,7 +55,7 @@
         </div>
         <div class=" container">
             <a href="index.aspx">
-                <img src="Assets/img/HomePageImg/1logom.png" width="120" style="z-index: 1111" class="position-absolute" />
+                <img src="Assets/img/HomePageImg/1logom.png" width="100" style="z-index: 2;" class="position-absolute" />
             </a>
         </div>
         <header id="header" class="header d-flex align-items-center mt-5">
