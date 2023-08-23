@@ -309,6 +309,7 @@
     <Content Include="sample-inner-page.aspx" />
     <Content Include="service-details.aspx" />
     <Content Include="services.aspx" />
+    <Content Include="superstructure.aspx" />
     <Content Include="Web.config" />
     <Content Include="ZoningApplications.aspx" />
   </ItemGroup>
@@ -453,6 +454,13 @@
     </Compile>
     <Compile Include="services.aspx.designer.cs">
       <DependentUpon>services.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="superstructure.aspx.cs">
+      <DependentUpon>superstructure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="superstructure.aspx.designer.cs">
+      <DependentUpon>superstructure.aspx</DependentUpon>
     </Compile>
     <Compile Include="ZoningApplications.aspx.cs">
       <DependentUpon>ZoningApplications.aspx</DependentUpon>

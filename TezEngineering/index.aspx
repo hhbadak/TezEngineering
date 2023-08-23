@@ -99,6 +99,7 @@
                                     <i class="fa-solid fa-mountain-city"></i>
                                     <h3 class="mb-3">Kadastro Projeleri</h3>
                                 </div>
+                                <a href="CadastreProjects.aspx" title="More Details" class="details-link top-right-link"><i class="bi bi-link-45deg" style="color: lightgreen !IMPORTANT;"></i></a>
                                 <p class="mb-4 opacity-0">
                                     <!-- Button trigger modal -->
                                     <button type="button" class="btn btn-primary text-white btn-modal" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
@@ -133,6 +134,7 @@
                                     <i class="fa-solid fa-person-digging"></i>
                                     <h3 class="mb-3">Üst Yapı Ölçü Hizmetleri</h3>
                                 </div>
+                                <a href="superstructure.aspx" title="More Details" class="details-link top-right-link"><i class="bi bi-link-45deg" style="color: lightgreen !IMPORTANT;"></i></a>
                                 <p class="mb-4 opacity-0">
                                     <!-- Button trigger modal -->
                                     <button type="button" class="btn btn-primary text-white btn-modal" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdrop2">
@@ -166,6 +168,7 @@
                                     <i class="fa-solid fa-compass-drafting"></i>
                                     <h3 class="mb-3">Altyapı Ölçü Hizmetleri</h3>
                                 </div>
+                                <a href="InfrastructureMetrics.aspx" title="More Details" class="details-link top-right-link"><i class="bi bi-link-45deg" style="color: lightgreen !IMPORTANT;"></i></a>
                                 <p class="mb-4 opacity-0">
                                     <!-- Button trigger modal -->
                                     <button type="button" class="btn btn-primary text-white btn-modal" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdrop3">
@@ -199,6 +202,7 @@
                                     <i class="fa-solid fa-map-location-dot"></i>
                                     <h3 class="mb-3">Halihazır Harita Üretimi</h3>
                                 </div>
+                                <a href="CurrentMapMaking.aspx" title="More Details" class="details-link top-right-link"><i class="bi bi-link-45deg" style="color: lightgreen !IMPORTANT;"></i></a>
                                 <p class="mb-4 opacity-0">
 
                                     <!-- Button trigger modal -->
@@ -233,6 +237,7 @@
                                     <i class="fa-solid fa-landmark"></i>
                                     <h3 class="mb-3">IHA İle Haritalama</h3>
                                 </div>
+                                <a href="MappingWithIHA.aspx" title="More Details" class="details-link top-right-link"><i class="bi bi-link-45deg" style="color: lightgreen !IMPORTANT;"></i></a>
                                 <p class="mb-4 opacity-0">
                                     <button type="button" class="btn btn-primary text-white btn-modal" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdrop5">
                                         Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size: 12pt"></i>
@@ -266,6 +271,7 @@
                                     <i class="fa-solid fa-layer-group"></i>
                                     <h3 class="mb-3">Fotogrametrik Haritalar</h3>
                                 </div>
+                                <a href="DigitalPhotogramMetric maps.aspx" title="More Details" class="details-link top-right-link"><i class="bi bi-link-45deg" style="color: lightgreen !IMPORTANT;"></i></a>
                                 <p class="mb-4 opacity-0">
                                     <button type="button" class="btn btn-primary text-white btn-modal" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdrop6">
                                         Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size: 12pt"></i>
@@ -316,6 +322,7 @@
                                     <i class="fa-solid fa-cubes"></i>
                                     <h3 class="mb-3">3B Mimari</h3>
                                 </div>
+                                <a href="3DArchitecturalProjectDigitization.aspx" title="More Details" class="details-link top-right-link"><i class="bi bi-link-45deg" style="color: lightgreen !IMPORTANT;"></i></a>
                                 <p class="mb-4 opacity-0">
                                     <button type="button" class="btn btn-primary text-white btn-modal" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdrop7">
                                         Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size: 12pt"></i>
@@ -349,6 +356,7 @@
                                     <i class="fa-solid fa-location-crosshairs"></i>
                                     <h3 class="mb-3">İmar Uygulamaları</h3>
                                 </div>
+                                <a href="ZoningApplications.aspx" title="More Details" class="details-link top-right-link"><i class="bi bi-link-45deg" style="color: lightgreen !IMPORTANT;"></i></a>
                                 <p class="mb-4 opacity-0">
                                     <button type="button" class="btn btn-primary text-white btn-modal" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdrop8">
                                         Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size: 12pt"></i>
@@ -382,6 +390,7 @@
                                     <i class="fa-solid fa-city"></i>
                                     <h3 class="mb-3">Şehir ve Bölge Plan Danışmanlığı</h3>
                                 </div>
+                                <a href="CityAndRegionPlanning.aspx" title="More Details" class="details-link top-right-link"><i class="bi bi-link-45deg" style="color: lightgreen !IMPORTANT;"></i></a>
                                 <p class="mb-4 opacity-0">
                                     <button type="button" class="btn btn-primary text-white btn-modal" src="Assets/img/Services/kadastroImage.png" data-bs-toggle="modal" data-bs-target="#staticBackdropcity">
                                         Detaylar... &nbsp&nbsp<i class="fa-solid fa-caret-right text-white" style="font-size: 12pt"></i>

@@ -2792,3 +2792,13 @@ section {
     color: whitesmoke;
     font-weight: 900
 }
+.top-right-link {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 10px;
+    padding: 5px 10px;
+    background-color: #007aff;
+    color: white;
+    text-decoration: none;
+}
