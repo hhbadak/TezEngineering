@@ -21,7 +21,9 @@
         <section id="about" class="about">
             <div class="container" data-aos="fade-up">
                 <div class="row position-relative">
-                    <div class="col-lg-7 about-img" style="background-image: url(Assets/img/projects/aboutUs.jpg); width: 43%;"></div>
+                    <div class="col-lg-7 about-img" style=" width: 43%;">
+                        <img src="Assets/img/projects/aboutUs.jpg" alt="Alternate Text" />
+                    </div>
 
                     <div class="col-lg-7">
                         <h2>Hakkımızda</h2>

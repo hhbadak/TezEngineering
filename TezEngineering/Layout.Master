@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Favicons -->
-    <link href="assets/img/OurProjects/sekmeLogo.png" sizes="180x180" rel="icon" itemprop="image">
+    <link href="assets/img/HomePageImg/LogoSekme.png" sizes="180x180" rel="icon" itemprop="image">
     <%--<link rel="shortcut icon" href="https://appsolypreparation.com/serkmeLogo.png" type="image/x-icon">--%>
     <link href="assets/img/OurProjects/sekmeLogo.png" sizes="180x180" rel="apple-touch-icon">
 
@@ -38,14 +38,24 @@
         <div class="container-fluid bg-dark p-0 wow fadeIn Social" data-wow-delay="0.1s">
             <div class="container">
                 <div class="row gx-0 d-lg-flex">
-                    <div class="col-sm-7 px-5 text-start">
+                    <div class="col-lg-3 col-sm-5 col-md-2 px-5 text-start">
                         <div class="h-100 d-inline-flex align-items-center py-3 me-3 socialDesc">
                             <i class="bi bi-envelope"></i><a href="mailto:tezharitamuhendislik@gmail.com" class="text-white">&nbsp Mail Gönder</a>
-                            <a class="text-body px-2" href="tel:+0123456789"><i class="fa-solid fa-phone-volume  me-2"></i><span class="text-white"><a href="https://wa.me/+905412581486">0541 258 1486&nbsp &nbsp </a><a href="https://wa.me/+905415650927"><i class="fa-solid fa-phone-volume  me-2"></i>0541 565 0927</a></span></a>
-                            <%-- <a class="text-body px-2" href="#"><i class="fa-solid fa-envelope me-2""></i><span class="text-white">info@example.com</span></a>--%>
                         </div>
                     </div>
-                    <div class="col-sm-5 px-5 text-end">
+                    <div class="col-lg-3 col-sm-5 col-md-2 px-5 text-start">
+                        <div class="h-100 d-inline-flex align-items-center py-3 me-3 socialDesc">
+                            <a href="https://wa.me/+905412581486"><i class="fa-solid fa-phone-volume  me-2"></i>0541 258 1486</a></span></a>
+                        </div>
+
+                    </div>
+                    <div class="col-lg-3 col-sm-5 col-md-2 px-5 text-start">
+                        <div class="h-100 d-inline-flex align-items-center py-3 me-3 socialDesc">
+                            <a href="https://wa.me/+905415650927"><i class="fa-solid fa-phone-volume  me-2"></i>0541 565 0927</a></span></a>
+                        </div>
+
+                    </div>
+                    <div class="col-lg-3 col-sm-5 col-md-2 px-5 text-end">
 
                         <div class="h-100 d-inline-flex align-items-center">
                             <a class="btn btn-sm-square btn-outline-body me-1" href="https://www.linkedin.com/company/tez-hari%CC%87ta-m%C3%BChendi%CC%87sli%CC%87k/ "><i class="fa-brands fa-linkedin"></i></a>
@@ -57,7 +67,7 @@
         </div>
         <div class=" container">
             <a href="index.aspx">
-                <img src="Assets/img/HomePageImg/1logom.png" width="100" style="z-index: 2;" class="position-absolute" />
+                <img src="Assets/img/HomePageImg/daha%20açık%20renk.png" width="100" style="z-index: 2;" class="position-absolute" />
             </a>
         </div>
         <header id="header" class="header d-flex align-items-center mt-5">
