@@ -4,9 +4,23 @@
 
 <html>
 <head runat="server">
-    <title></title>
+    <title>Tez Harita Mühendislik ~</title>
+    <%--Google SEO--%>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <meta name="keywords" content="Tez Mühendislik Harita, Tez, Tez Harita, Tez Mühendislik Harita, Mühendislik, İHA, kurumsal, hizmetlerimiz, imar uygulamaları, halihazır harita üretimi, kamulaştırma harita yapımı, kadastro projeleri, sayısal fotogrametrik, fotogrametrik, kadastro, İHA ile harita üretim, referanslar, harita, mühendislik,  kurumsal, hakkımızda, projelerimiz, faaliyet alanlarımız, halihazır harita, İmar Uygulamaları, Kamulaştırma, Uzaktan Algılama, İHA, İHA ile harita üretimi, Analiz, Uzman Kadro, Zamanında İş, Veri Üretimi, harita veri, referanslar, tcdd, dsi, mta, dalsan, tck, başkent, öveçler, çankaya, ankara, imar, kamulaştırma harita   ">
+    <meta name="description" content="2015 Yılında kurulan Harita Mühendislik, İnşaat, Şehir Tasarım, Plan ve Proje Yatırım Danışmanlığı faaliyetlerini yürütmek üzere kurulan firmamız Samsun Şubesi ile tüm Karadenizde uzman kadrosu ve ileri teknolojik ekipmanlar ile faaliyete başlamış bulunmaktayız.Haritacılık alanında, fotogrametrik harita üretimi, alt ve üst yapı projeleri, imar uygulamaları, yola terk, yoldan ihdas, aplikasyon gibi kadastral hizmetlerin yanı sıra özel kullanım amaçlı harita üretimleri, kamulaştırma haritaları, endüstriyel yapılar ve şantiye hizmetleri gibi birçok alanda TEZ Mühendislik olarak hizmet vermekteyiz.">
+    <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <script async src="https://www.google-analytics.com/analytics.js"></script>
+    <link rel="canonical" href="https://tezharitamuhendislik.com/" />
+    <link rel="next" href="https://tezharitamuhendislik.com/" />
+    <meta name="generator" content="All in One SEO (AIOSEO) 4.3.9" />
+    <meta property="og:locale" content="tr_TR" />
+    <meta property="og:site_name" content="Tez Harita Mühendislik +90 (541) 258 14 86" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Tez Harita Mühendislik" />
+    <meta property="og:description" content="Firmamız harita mühendislik hizmeti sektöründe kurulduğu 2015 yılından bugüne 8 yılı aşkın süredir faaliyette bulunmaktadır." />
+    <meta property="og:url" content="https://www.tezharitamuhendislik.com/" />
+    <%--Google SEO END--%>
     <!-- Favicons -->
     <link href="assets/img/HomePageImg/LogoSekme.png" sizes="180x180" rel="icon" itemprop="image">
     <%--<link rel="shortcut icon" href="https://appsolypreparation.com/serkmeLogo.png" type="image/x-icon">--%>
