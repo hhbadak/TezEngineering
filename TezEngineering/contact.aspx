@@ -25,7 +25,7 @@
             <div class="info-item  d-flex flex-column justify-content-center align-items-center">
               <i class="bi bi-map"></i>
               <h3>Adresimiz</h3>
-              <p>SAMSUN/İLKADIM  </p>
+              <p>Mimarsinan mah. 120 sok. 6D/5 Atakum/Samsun</p>
             </div>
           </div><!-- End Info Item -->
 
@@ -49,9 +49,8 @@
         </div>
 
         <div class="row gy-4 mt-1">
-
           <div class="col-lg-12 ">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d95929.57580664019!2d36.3136985!3d41.2914735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x408877e97607d663%3A0xb939cc265fdeb52!2sSamsun!5e0!3m2!1str!2str!4v1692531777283!5m2!1str!2str" class="w-100" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2501.2730515999237!2d36.28241467032243!3d41.32873516551908!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x408879ac4fffd61b%3A0xfb0020069338890!2sAtakum%20Belediyesi!5e0!3m2!1str!2str!4v1695920073857!5m2!1str!2str" class="w-100" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div><!-- End Google Maps -->
 
         <%--  <div class="col-lg-6">

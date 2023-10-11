@@ -23,7 +23,6 @@
     <%--Google SEO END--%>
     <!-- Favicons -->
     <link href="assets/img/HomePageImg/LogoSekme.png" sizes="180x180" rel="icon" itemprop="image">
-    <%--<link rel="shortcut icon" href="https://appsolypreparation.com/serkmeLogo.png" type="image/x-icon">--%>
     <link href="assets/img/OurProjects/sekmeLogo.png" sizes="180x180" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
@@ -146,9 +145,7 @@
                             <div class="footer-info">
                                 <h3>TEZ HARİTA MÜHENDİSLİK</h3>
                                 <p>
-                                    Samsum / İlk Adım
-                                        <br>
-                                    Türkiye<br>
+                                   Mimarsinan mah. 120 sok. 6D/5 Atakum/Samsun
                                     <br>
                                     <strong>Telefon:</strong> 0541 258 14 86 / 0541 565 09 27<br>
                                     <strong>E-Posta:</strong> tezharitamuhendislik@gmail.com<br>

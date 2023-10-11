@@ -302,17 +302,10 @@
     <Content Include="contact.aspx" />
     <Content Include="CurrentMapMaking.aspx" />
     <Content Include="DigitalPhotogramMetric maps.aspx" />
-    <Content Include="EnergyProjects.aspx" />
     <Content Include="index.aspx" />
     <Content Include="InfrastructureMetrics.aspx" />
     <Content Include="MappingWithIHA.aspx" />
     <Content Include="PlanningAndProjectTracking.aspx" />
-    <Content Include="project.aspx" />
-    <Content Include="projectDetails.aspx" />
-    <Content Include="References.aspx" />
-    <Content Include="sample-inner-page.aspx" />
-    <Content Include="service-details.aspx" />
-    <Content Include="services.aspx" />
     <Content Include="superstructure.aspx" />
     <Content Include="Web.config" />
     <Content Include="ZoningApplications.aspx" />
@@ -374,13 +367,6 @@
     <Compile Include="DigitalPhotogramMetric maps.aspx.designer.cs">
       <DependentUpon>DigitalPhotogramMetric maps.aspx</DependentUpon>
     </Compile>
-    <Compile Include="EnergyProjects.aspx.cs">
-      <DependentUpon>EnergyProjects.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="EnergyProjects.aspx.designer.cs">
-      <DependentUpon>EnergyProjects.aspx</DependentUpon>
-    </Compile>
     <Compile Include="index.aspx.cs">
       <DependentUpon>index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -416,49 +402,7 @@
     <Compile Include="PlanningAndProjectTracking.aspx.designer.cs">
       <DependentUpon>PlanningAndProjectTracking.aspx</DependentUpon>
     </Compile>
-    <Compile Include="project.aspx.cs">
-      <DependentUpon>project.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="project.aspx.designer.cs">
-      <DependentUpon>project.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="projectDetails.aspx.cs">
-      <DependentUpon>projectDetails.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="projectDetails.aspx.designer.cs">
-      <DependentUpon>projectDetails.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="References.aspx.cs">
-      <DependentUpon>References.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="References.aspx.designer.cs">
-      <DependentUpon>References.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="sample-inner-page.aspx.cs">
-      <DependentUpon>sample-inner-page.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="sample-inner-page.aspx.designer.cs">
-      <DependentUpon>sample-inner-page.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="service-details.aspx.cs">
-      <DependentUpon>service-details.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="service-details.aspx.designer.cs">
-      <DependentUpon>service-details.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="services.aspx.cs">
-      <DependentUpon>services.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="services.aspx.designer.cs">
-      <DependentUpon>services.aspx</DependentUpon>
-    </Compile>
     <Compile Include="superstructure.aspx.cs">
       <DependentUpon>superstructure.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -513,6 +457,69 @@
     <Content Include="Assets\vendor\purecounter\purecounter_vanilla.js.map" />
     <Content Include="Assets\vendor\swiper\swiper-bundle.min.js.map" />
     <Content Include="Layout.Master" />
+    <Content Include="Assets\img\OurProjects\1692131074807.webp" />
+    <Content Include="Assets\img\OurProjects\16921310748078.webp" />
+    <Content Include="Assets\img\SliderBanner\3B Mimari.webp" />
+    <Content Include="Assets\img\SliderBanner\Altyapı Ölçüm.webp" />
+    <Content Include="Assets\img\SliderBanner\Endüstriyel Yapılar ve Şantiye Hizmetleri.webp" />
+    <Content Include="Assets\img\SliderBanner\iha ile harita.webp" />
+    <Content Include="Assets\img\SliderBanner\kadastro.webp" />
+    <Content Include="Assets\img\Planning\planlama.webp" />
+    <Content Include="Assets\img\Planning\planların onaylanması.webp" />
+    <Content Include="Assets\img\Planning\proje takibi.webp" />
+    <Content Include="Assets\img\Planning\proje teslm.webp" />
+    <Content Include="Assets\img\Project\ReelWeight\3b mimari 2.webp" />
+    <Content Include="Assets\img\Project\ReelWeight\3b mimari 3.webp" />
+    <Content Include="Assets\img\Project\ReelWeight\3b mimari.webp" />
+    <Content Include="Assets\img\Project\ReelWeight\altyapı 2.webp" />
+    <Content Include="Assets\img\Project\ReelWeight\altyapı 3.webp" />
+    <Content Include="Assets\img\Project\ReelWeight\altyapı 4.webp" />
+    <Content Include="Assets\img\Project\ReelWeight\altyapı 5.webp" />
+    <Content Include="Assets\img\Project\ReelWeight\altyapı.webp" />
+    <Content Include="Assets\img\Project\ReelWeight\drone harita 2.webp" />
+    <Content Include="Assets\img\Project\ReelWeight\drone harita 3.webp" />
+    <Content Include="Assets\img\Project\ReelWeight\drone harita 4.webp" />
+    <Content Include="Assets\img\Project\ReelWeight\drone harita.webp" />
+    <Content Include="Assets\img\Project\ReelWeight\endüstiriyel yapı.webp" />
+    <Content Include="Assets\img\Project\ReelWeight\fotogrametri.webp" />
+    <Content Include="Assets\img\Project\ReelWeight\halihazır harita.webp" />
+    <Content Include="Assets\img\Project\ReelWeight\halihazır.webp" />
+    <Content Include="Assets\img\Project\ReelWeight\kadastro 2.webp" />
+    <Content Include="Assets\img\Project\ReelWeight\kadastro 3.webp" />
+    <Content Include="Assets\img\Project\ReelWeight\kadastro.webp" />
+    <Content Include="Assets\img\Project\ReelWeight\üst yapı.webp" />
+    <Content Include="Assets\img\Project\ReelWeight\üst yapı2.webp" />
+    <Content Include="Assets\img\Project\ReelWeight\üst yapı3.webp" />
+    <Content Include="Assets\img\Project\ReelWeight\üst yapı4.webp" />
+    <Content Include="Assets\img\Project\ReelWeight\üst yapı5.webp" />
+    <Content Include="Assets\img\Project\ReelWeight\şehir planlama 2 .webp" />
+    <Content Include="Assets\img\Project\ReelWeight\şehir planlama.webp" />
+    <Content Include="Assets\img\Project\3b mimari 2.webp" />
+    <Content Include="Assets\img\Project\3b mimari 3.webp" />
+    <Content Include="Assets\img\Project\3b mimari.webp" />
+    <Content Include="Assets\img\Project\altyapı 2.webp" />
+    <Content Include="Assets\img\Project\altyapı 3.webp" />
+    <Content Include="Assets\img\Project\altyapı 4.webp" />
+    <Content Include="Assets\img\Project\altyapı 5.webp" />
+    <Content Include="Assets\img\Project\altyapı.webp" />
+    <Content Include="Assets\img\Project\drone 2.webp" />
+    <Content Include="Assets\img\Project\drone 3.webp" />
+    <Content Include="Assets\img\Project\drone 4.webp" />
+    <Content Include="Assets\img\Project\drone.webp" />
+    <Content Include="Assets\img\Project\endüstiriyel yapılar.webp" />
+    <Content Include="Assets\img\Project\fotogrametri.webp" />
+    <Content Include="Assets\img\Project\halihazır proje 2.webp" />
+    <Content Include="Assets\img\Project\halihazır proje.webp" />
+    <Content Include="Assets\img\Project\kadastro 2.webp" />
+    <Content Include="Assets\img\Project\kadastro 3.webp" />
+    <Content Include="Assets\img\Project\kadastro.webp" />
+    <Content Include="Assets\img\Project\üst yapı 2.webp" />
+    <Content Include="Assets\img\Project\üst yapı 3.webp" />
+    <Content Include="Assets\img\Project\üst yapı 4.webp" />
+    <Content Include="Assets\img\Project\üst yapı 5.webp" />
+    <Content Include="Assets\img\Project\üst yapı.webp" />
+    <Content Include="Assets\img\Project\şehir planlama 2.webp" />
+    <Content Include="Assets\img\Project\şehir planlama.webp" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
