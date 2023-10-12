@@ -126,25 +126,6 @@
     <Content Include="Assets\img\Services\Adsız tasarım %285%29.png" />
     <Content Include="Assets\img\Services\Altyapı.png" />
     <Content Include="Assets\img\Services\banneerdigital.png" />
-    <Content Include="Assets\img\blog\blog-1.jpg" />
-    <Content Include="Assets\img\blog\blog-2.jpg" />
-    <Content Include="Assets\img\blog\blog-3.jpg" />
-    <Content Include="Assets\img\blog\blog-4.jpg" />
-    <Content Include="Assets\img\blog\blog-5.jpg" />
-    <Content Include="Assets\img\blog\blog-6.jpg" />
-    <Content Include="Assets\img\blog\blog-author.jpg" />
-    <Content Include="Assets\img\blog\blog-inside-post.jpg" />
-    <Content Include="Assets\img\blog\blog-recent-1.jpg" />
-    <Content Include="Assets\img\blog\blog-recent-2.jpg" />
-    <Content Include="Assets\img\blog\blog-recent-3.jpg" />
-    <Content Include="Assets\img\blog\blog-recent-4.jpg" />
-    <Content Include="Assets\img\blog\blog-recent-5.jpg" />
-    <Content Include="Assets\img\blog\comments-1.jpg" />
-    <Content Include="Assets\img\blog\comments-2.jpg" />
-    <Content Include="Assets\img\blog\comments-3.jpg" />
-    <Content Include="Assets\img\blog\comments-4.jpg" />
-    <Content Include="Assets\img\blog\comments-5.jpg" />
-    <Content Include="Assets\img\blog\comments-6.jpg" />
     <Content Include="Assets\img\breadcrumbs-bg.jpg" />
     <Content Include="Assets\img\constructions-1.jpg" />
     <Content Include="Assets\img\constructions-2.jpg" />
@@ -224,12 +205,6 @@
     <Content Include="Assets\img\Services\KADASTRO.png" />
     <Content Include="Assets\img\Services\kartemuhendislik-halihazir-harita-001.png" />
     <Content Include="Assets\img\Services\PROJE.png" />
-    <Content Include="Assets\img\team\team-1.jpg" />
-    <Content Include="Assets\img\team\team-2.jpg" />
-    <Content Include="Assets\img\team\team-3.jpg" />
-    <Content Include="Assets\img\team\team-4.jpg" />
-    <Content Include="Assets\img\team\team-5.jpg" />
-    <Content Include="Assets\img\team\team-6.jpg" />
     <Content Include="Assets\img\testimonials\testimonials-1.jpg" />
     <Content Include="Assets\img\testimonials\testimonials-2.jpg" />
     <Content Include="Assets\img\testimonials\testimonials-3.jpg" />
@@ -528,6 +503,7 @@
     <Content Include="Assets\img\Project\Services\kadastro projeleri.webp" />
     <Content Include="Assets\img\Project\Services\üst yapı.webp" />
     <Content Include="Assets\img\Project\Services\şehir bölge plan danışmanlığı.webp" />
+    <Content Include="Assets\img\team\appsolyFooter.webp" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
