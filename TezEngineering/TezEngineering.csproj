@@ -520,6 +520,14 @@
     <Content Include="Assets\img\Project\üst yapı.webp" />
     <Content Include="Assets\img\Project\şehir planlama 2.webp" />
     <Content Include="Assets\img\Project\şehir planlama.webp" />
+    <Content Include="Assets\img\Project\Services\3B mimari.webp" />
+    <Content Include="Assets\img\Project\Services\altyapı ölçü.webp" />
+    <Content Include="Assets\img\Project\Services\fotogrametrik.webp" />
+    <Content Include="Assets\img\Project\Services\halihazır harita üretimi.webp" />
+    <Content Include="Assets\img\Project\Services\iha ile haritalama .webp" />
+    <Content Include="Assets\img\Project\Services\kadastro projeleri.webp" />
+    <Content Include="Assets\img\Project\Services\üst yapı.webp" />
+    <Content Include="Assets\img\Project\Services\şehir bölge plan danışmanlığı.webp" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

@@ -50,7 +50,7 @@
 
         <div class="row gy-4 mt-1">
           <div class="col-lg-12 ">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2501.2730515999237!2d36.28241467032243!3d41.32873516551908!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x408879ac4fffd61b%3A0xfb0020069338890!2sAtakum%20Belediyesi!5e0!3m2!1str!2str!4v1695920073857!5m2!1str!2str" class="w-100" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11984.248965597946!2d36.2843644!3d41.3292599!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4088778ff15dd8a9%3A0x739a377b2b4aa922!2zVEVaIEhBUsSwVEEgTcOcSEVORMSwU0zEsEs!5e0!3m2!1str!2str!4v1697139681742!5m2!1str!2str" class="w-100" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div><!-- End Google Maps -->
 
         <%--  <div class="col-lg-6">
