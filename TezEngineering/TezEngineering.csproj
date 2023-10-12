@@ -73,15 +73,11 @@
     <Content Include="Assets\animate\animate.min.css" />
     <Content Include="Assets\css\main.css" />
     <Content Include="Assets\img\2.png" />
-    <Content Include="Assets\img\HomePageImg\1logom.png" />
-    <Content Include="Assets\img\HomePageImg\Appsoly.jpg" />
     <Content Include="Assets\img\HomePageImg\daha açık renk.png" />
     <Content Include="Assets\img\HomePageImg\fotogrametrikHaritalar.png" />
     <Content Include="Assets\img\HomePageImg\halihazırproje.png" />
     <Content Include="Assets\img\HomePageImg\LogoSekme.png" />
-    <Content Include="Assets\img\HomePageImg\orjinal koyu renk.png" />
     <Content Include="Assets\img\HomePageImg\planalamatakip.png" />
-    <Content Include="Assets\img\HomePageImg\sekmeTezLogo.jpg" />
     <Content Include="Assets\img\OurProjects\3b1.MOV" />
     <Content Include="Assets\img\OurProjects\3b2.png" />
     <Content Include="Assets\img\OurProjects\3b3.png" />
@@ -141,9 +137,7 @@
     <Content Include="Assets\img\hero-carousel\hero-carousel-3.jpg" />
     <Content Include="Assets\img\hero-carousel\hero-carousel-4.jpg" />
     <Content Include="Assets\img\hero-carousel\hero-carousel-5.jpg" />
-    <Content Include="Assets\img\HomePageImg\1.png" />
     <Content Include="Assets\img\HomePageImg\2..png" />
-    <Content Include="Assets\img\HomePageImg\3.png" />
     <Content Include="Assets\img\HomePageImg\3B MİMARİ.png" />
     <Content Include="Assets\img\HomePageImg\3B.png" />
     <Content Include="Assets\img\HomePageImg\4..png" />
@@ -205,11 +199,6 @@
     <Content Include="Assets\img\Services\KADASTRO.png" />
     <Content Include="Assets\img\Services\kartemuhendislik-halihazir-harita-001.png" />
     <Content Include="Assets\img\Services\PROJE.png" />
-    <Content Include="Assets\img\testimonials\testimonials-1.jpg" />
-    <Content Include="Assets\img\testimonials\testimonials-2.jpg" />
-    <Content Include="Assets\img\testimonials\testimonials-3.jpg" />
-    <Content Include="Assets\img\testimonials\testimonials-4.jpg" />
-    <Content Include="Assets\img\testimonials\testimonials-5.jpg" />
     <Content Include="Assets\img\ŞEHİR PLANLAMA.png" />
     <Content Include="Assets\js\main.js" />
     <Content Include="Assets\scss\Readme.txt" />
